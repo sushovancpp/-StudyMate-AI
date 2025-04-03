@@ -1,0 +1,601 @@
+Name,Age,Gender,Country,State,City,Parent Occupation,Earning Class,Level of Student,Level of Course,Course Name,Assessment Score,Study Time Per Day,Material Name,Material Level,IQ of Student,Predicted Score,Promotion Status,Recommended Material
+Sara Dutt,15,0,0,4,3,3,0,2,2,0,47,4.0,Video Lesson,Medium,97,51.14,Promoted,Intermediate Study Materials
+Romil Mane,14,1,0,1,12,3,1,0,1,0,8,3.0,Video Lesson,Advanced,97,19.47,Not Promoted,Basic Study Materials
+Lavanya Shroff,9,1,0,2,2,0,1,0,0,2,6,1.1,E-Book,Medium,84,42.6,Not Promoted,Basic Study Materials
+Mishti Zacharia,11,0,0,1,11,1,1,2,0,4,25,4.7,Textbook,Advanced,134,35.15,Not Promoted,Intermediate Study Materials
+Manikya Bobal,10,1,0,3,5,4,0,2,1,5,58,1.6,Live Class,Advanced,108,53.27,Promoted,Intermediate Study Materials
+Divit Sharaf,18,1,0,0,4,2,1,0,0,5,76,1.7,Textbook,Medium,136,64.3,Promoted,Basic Study Materials
+Anika Bajaj,6,1,0,4,3,2,1,2,1,3,56,1.2,Online Quiz,Advanced,123,28.98,Not Promoted,Intermediate Study Materials
+Shanaya Sekhon,15,1,0,2,1,3,0,0,1,3,72,3.0,Textbook,Basic,89,64.44,Promoted,Basic Study Materials
+Rasha Dhawan,18,0,0,0,4,1,2,2,0,2,63,2.4,Live Class,Medium,80,55.92,Promoted,Intermediate Study Materials
+Ojas Tata,18,0,0,1,9,0,2,0,2,2,57,4.9,Textbook,Medium,106,55.89,Promoted,Basic Study Materials
+Neelofar Kala,16,1,0,0,0,1,1,0,2,3,5,2.7,Video Lesson,Medium,114,49.6,Promoted,Basic Study Materials
+Keya Chaudhari,8,1,0,3,7,3,1,2,1,4,33,2.1,Online Quiz,Advanced,140,41.5,Not Promoted,Intermediate Study Materials
+Hazel Sami,12,1,0,4,13,0,2,2,0,0,8,4.0,Textbook,Basic,108,21.31,Not Promoted,Intermediate Study Materials
+Ivana Mangal,8,1,0,1,12,2,0,2,2,4,50,4.9,Video Lesson,Medium,81,54.6,Promoted,Intermediate Study Materials
+Raghav Dhaliwal,15,1,0,4,6,1,2,0,1,3,89,1.2,E-Book,Advanced,138,69.99,Promoted,Basic Study Materials
+Nakul Amble,18,0,0,2,2,0,0,1,0,0,55,4.4,Live Class,Basic,114,56.01,Promoted,Intermediate Study Materials
+Bhamini Issac,8,0,0,3,14,0,1,2,2,0,67,1.6,E-Book,Advanced,105,57.33,Promoted,Intermediate Study Materials
+Amani Lalla,8,1,0,2,1,3,2,2,2,1,0,1.7,Live Class,Basic,123,14.16,Not Promoted,Intermediate Study Materials
+Keya Chauhan,16,0,0,0,10,1,2,1,2,5,38,3.0,Online Quiz,Advanced,96,36.62,Not Promoted,Intermediate Study Materials
+Yashvi Hayer,14,0,0,0,0,4,2,0,1,0,87,1.8,E-Book,Advanced,120,75.82,Promoted,Basic Study Materials
+Nirvaan Setty,10,0,0,3,7,2,0,2,1,5,23,0.6,Textbook,Advanced,128,33.74,Not Promoted,Intermediate Study Materials
+Ahana  Kuruvilla,8,0,0,4,13,4,1,2,1,3,69,4.9,Live Class,Medium,125,60.26,Promoted,Intermediate Study Materials
+Akarsh Bhargava,7,0,0,3,7,2,0,2,0,0,7,2.6,E-Book,Basic,138,17.79,Not Promoted,Intermediate Study Materials
+Amani Mammen,10,1,0,3,7,0,2,0,0,2,36,3.1,Live Class,Advanced,102,44.42,Not Promoted,Basic Study Materials
+Mamooty Ahuja,11,0,0,1,11,3,0,1,1,3,8,1.0,Textbook,Advanced,102,40.62,Not Promoted,Intermediate Study Materials
+Shanaya Dugar,6,0,0,1,9,3,0,2,1,0,4,1.6,Textbook,Advanced,127,14.36,Not Promoted,Intermediate Study Materials
+Kismat Bhardwaj,14,0,0,3,7,1,1,0,2,4,39,4.9,Video Lesson,Basic,131,47.93,Not Promoted,Basic Study Materials
+Anaya Doctor,17,0,0,4,6,2,0,0,2,2,43,2.0,Online Quiz,Advanced,83,43.58,Not Promoted,Basic Study Materials
+Kartik Sunder,13,1,0,2,1,1,1,0,2,1,99,3.3,E-Book,Medium,100,75.54,Promoted,Basic Study Materials
+Nayantara Tella,12,1,0,4,3,1,1,2,1,4,100,1.6,Textbook,Advanced,129,36.13,Not Promoted,Intermediate Study Materials
+Miraan Dua,18,0,0,1,11,2,1,2,0,3,6,3.7,E-Book,Basic,117,56.6,Promoted,Intermediate Study Materials
+Tarini Devan,9,0,0,4,3,4,2,2,1,5,93,4.3,Textbook,Advanced,96,81.01,Promoted,Intermediate Study Materials
+Saira Bose,16,1,0,1,12,1,1,2,1,5,20,2.9,Live Class,Medium,117,31.29,Not Promoted,Intermediate Study Materials
+Nitya Shan,11,1,0,0,10,1,1,0,0,0,12,1.1,E-Book,Basic,115,27.69,Not Promoted,Basic Study Materials
+Vedika Suri,6,1,0,0,10,2,1,1,0,2,14,1.4,Live Class,Medium,102,24.16,Not Promoted,Intermediate Study Materials
+Diya Dass,6,0,0,0,10,0,0,2,2,4,68,5.0,Textbook,Advanced,107,60.17,Promoted,Intermediate Study Materials
+Nishith Karpe,7,1,0,4,13,4,0,1,0,3,26,2.7,Textbook,Medium,86,27.19,Not Promoted,Intermediate Study Materials
+Neysa Bedi,9,0,0,1,12,2,1,0,2,0,88,4.8,E-Book,Advanced,105,73.41,Promoted,Basic Study Materials
+Taimur Soman,17,1,0,1,9,1,0,1,1,0,9,4.5,Video Lesson,Advanced,123,26.64,Not Promoted,Intermediate Study Materials
+Pranay Sood,16,1,0,0,4,1,1,2,2,4,97,3.7,Live Class,Basic,118,48.23,Promoted,Intermediate Study Materials
+Aarna Shankar,15,1,0,4,3,0,0,0,2,3,29,4.1,E-Book,Medium,94,37.25,Not Promoted,Basic Study Materials
+Darshit Gour,10,0,0,0,4,2,2,0,1,1,33,1.4,E-Book,Basic,128,44.04,Not Promoted,Basic Study Materials
+Anvi Sura,6,1,0,2,2,2,2,1,0,1,10,3.9,Video Lesson,Advanced,81,24.75,Not Promoted,Intermediate Study Materials
+Veer Toor,11,0,0,2,2,0,1,0,2,5,15,2.9,Online Quiz,Basic,132,27.6,Not Promoted,Basic Study Materials
+Lavanya Anand,18,0,0,2,1,1,2,2,2,4,87,3.1,Live Class,Medium,107,66.72,Promoted,Intermediate Study Materials
+Misha Saran,7,1,0,4,3,4,2,2,0,4,28,1.7,Textbook,Basic,131,32.1,Not Promoted,Intermediate Study Materials
+Anahi Kashyap,7,0,0,4,3,0,1,2,2,0,80,4.5,E-Book,Basic,136,71.81,Promoted,Intermediate Study Materials
+Sahil Gara,7,1,0,4,13,1,1,1,2,5,25,0.7,Live Class,Medium,140,35.91,Not Promoted,Intermediate Study Materials
+Vivaan Chakrabarti,9,1,0,2,2,3,0,2,1,3,92,2.6,Online Quiz,Basic,89,70.28,Promoted,Intermediate Study Materials
+Manikya Barad,14,1,0,3,5,4,0,2,0,3,5,2.2,E-Book,Basic,80,25.02,Not Promoted,Intermediate Study Materials
+Aaryahi Mallick,9,1,0,3,7,2,1,1,2,0,56,2.8,Video Lesson,Basic,122,48.97,Promoted,Intermediate Study Materials
+Vardaniya Desai,16,1,0,0,0,1,2,0,0,2,15,1.1,Textbook,Basic,100,27.49,Not Promoted,Basic Study Materials
+Bhavin Char,10,1,0,0,10,2,2,1,0,5,48,4.8,Online Quiz,Basic,125,53.27,Promoted,Intermediate Study Materials
+Mahika Dua,9,1,0,0,10,2,0,2,1,2,29,1.0,Live Class,Basic,125,31.14,Not Promoted,Intermediate Study Materials
+Saira Dhillon,16,0,0,4,13,3,1,2,2,4,91,2.2,E-Book,Basic,130,73.81,Promoted,Intermediate Study Materials
+Rhea Mallick,12,0,0,3,5,1,2,2,1,1,64,3.9,E-Book,Advanced,124,51.21,Promoted,Intermediate Study Materials
+Zoya Jayaraman,11,0,0,4,13,0,0,2,2,0,59,2.0,Online Quiz,Basic,127,53.73,Promoted,Intermediate Study Materials
+Ishita Varkey,11,0,0,1,11,3,0,2,0,1,72,3.8,Live Class,Basic,83,62.46,Promoted,Intermediate Study Materials
+Aaryahi Vohra,18,1,0,0,0,3,0,2,1,4,31,2.7,Textbook,Medium,124,35.14,Not Promoted,Intermediate Study Materials
+Priyansh Srivastava,14,1,0,3,7,3,2,1,2,2,30,3.3,Video Lesson,Advanced,108,37.78,Not Promoted,Intermediate Study Materials
+Abram Bhargava,6,1,0,3,14,0,2,0,2,2,52,2.1,Textbook,Medium,86,44.28,Not Promoted,Basic Study Materials
+Nirvi Divan,6,1,0,0,10,1,0,1,1,5,4,0.9,Online Quiz,Basic,95,20.09,Not Promoted,Intermediate Study Materials
+Madhup Sharaf,11,0,0,0,4,1,2,0,1,3,29,2.5,Online Quiz,Medium,137,36.04,Not Promoted,Basic Study Materials
+Rati Deshmukh,13,0,0,1,9,2,0,2,0,1,34,3.1,Live Class,Medium,106,52.23,Promoted,Intermediate Study Materials
+Dharmajan Toor,6,1,0,4,13,3,0,2,1,2,5,2.3,E-Book,Basic,105,19.52,Not Promoted,Intermediate Study Materials
+Zoya Thaman,16,0,0,0,10,3,2,1,2,5,52,0.8,Live Class,Advanced,128,47.21,Not Promoted,Intermediate Study Materials
+Kismat Sant,6,0,0,2,8,3,1,1,1,0,100,1.8,Online Quiz,Advanced,108,76.39,Promoted,Intermediate Study Materials
+Drishya Gour,10,1,0,3,7,2,1,0,2,4,80,4.9,Online Quiz,Advanced,129,69.89,Promoted,Basic Study Materials
+Umang Shukla,13,1,0,0,0,0,1,1,1,1,7,1.3,Textbook,Advanced,129,17.67,Not Promoted,Intermediate Study Materials
+Advika Barad,14,1,0,4,6,2,0,1,2,0,6,3.9,Video Lesson,Medium,125,25.68,Not Promoted,Intermediate Study Materials
+Farhan Dugar,8,0,0,1,12,3,2,2,2,2,26,4.7,Online Quiz,Advanced,101,61.17,Promoted,Intermediate Study Materials
+Vihaan Sarma,7,1,0,4,3,1,0,1,1,1,61,4.6,Video Lesson,Basic,95,59.95,Promoted,Intermediate Study Materials
+Badal Lalla,9,1,0,4,3,2,1,1,2,1,51,3.6,E-Book,Medium,90,51.6,Promoted,Intermediate Study Materials
+Ela Thakkar,11,1,0,3,14,1,1,0,2,4,23,2.2,Online Quiz,Medium,125,42.81,Not Promoted,Basic Study Materials
+Mamooty Datta,15,0,0,0,0,4,1,0,2,2,77,4.4,Online Quiz,Basic,121,66.52,Promoted,Basic Study Materials
+Jivika Viswanathan,18,1,0,0,4,1,1,0,1,3,52,2.9,Online Quiz,Basic,130,54.27,Promoted,Basic Study Materials
+Biju Sharaf,16,0,0,0,10,4,1,1,2,4,89,1.9,Textbook,Advanced,109,54.29,Promoted,Intermediate Study Materials
+Tejas Arya,16,0,0,4,3,3,1,1,1,4,20,1.6,Live Class,Medium,118,38.09,Not Promoted,Intermediate Study Materials
+Ivana Loke,7,0,0,3,14,1,1,2,2,1,28,2.1,Online Quiz,Advanced,131,49.26,Promoted,Intermediate Study Materials
+Suhana Chandran,17,1,0,2,2,0,0,0,2,2,0,1.7,Online Quiz,Basic,116,49.79,Promoted,Basic Study Materials
+Raunak Ray,8,0,0,3,14,2,1,2,1,3,55,4.0,E-Book,Basic,125,50.58,Promoted,Intermediate Study Materials
+Akarsh Wali,13,0,0,2,8,1,2,1,2,1,10,0.9,Live Class,Basic,88,51.13,Promoted,Intermediate Study Materials
+Uthkarsh Agarwal,17,0,0,3,5,3,0,2,2,5,37,3.4,Online Quiz,Medium,92,44.08,Not Promoted,Intermediate Study Materials
+Advik Atwal,13,1,0,3,14,4,0,0,2,4,16,2.3,Textbook,Medium,99,37.9,Not Promoted,Basic Study Materials
+Anahi Bains,12,1,0,3,14,0,1,1,2,3,17,2.1,Video Lesson,Basic,96,32.21,Not Promoted,Intermediate Study Materials
+Ayesha Maharaj,9,1,0,2,1,0,2,1,1,0,74,4.4,Live Class,Basic,98,64.88,Promoted,Intermediate Study Materials
+Vanya Ramanathan,15,0,0,4,6,4,2,0,0,5,67,3.6,E-Book,Basic,88,57.32,Promoted,Basic Study Materials
+Alia Gopal,17,0,0,1,9,0,1,1,2,0,25,2.6,Video Lesson,Advanced,119,37.64,Not Promoted,Intermediate Study Materials
+Azad Dash,11,0,0,2,8,2,0,2,1,2,52,3.3,E-Book,Medium,134,44.26,Not Promoted,Intermediate Study Materials
+Yuvraj  Deshmukh,17,0,0,0,10,4,0,0,1,0,95,4.1,Video Lesson,Medium,124,73.74,Promoted,Basic Study Materials
+Abram Bath,15,1,0,0,10,1,0,0,0,3,14,4.8,Textbook,Medium,95,42.23,Not Promoted,Basic Study Materials
+Neysa Sagar,13,1,0,4,3,1,0,0,1,2,48,1.6,Video Lesson,Advanced,131,46.59,Not Promoted,Basic Study Materials
+Onkar Bassi,7,0,0,3,14,3,2,2,2,5,46,3.2,E-Book,Advanced,133,46.47,Not Promoted,Intermediate Study Materials
+Shray Loyal,17,1,0,2,2,1,1,2,1,2,5,1.7,Video Lesson,Advanced,86,14.54,Not Promoted,Intermediate Study Materials
+Mahika Amble,14,0,0,2,8,1,0,2,2,1,49,1.0,Textbook,Medium,94,44.48,Not Promoted,Intermediate Study Materials
+Raghav Comar,12,1,0,1,12,2,2,2,2,1,7,1.0,Live Class,Medium,88,23.1,Not Promoted,Intermediate Study Materials
+Madhav Gopal,7,0,0,1,11,1,0,2,0,3,31,4.6,Online Quiz,Basic,88,38.08,Not Promoted,Intermediate Study Materials
+Siya Sarraf,10,0,0,2,2,0,2,2,1,0,20,2.6,Live Class,Medium,100,33.4,Not Promoted,Intermediate Study Materials
+Navya Lad,6,0,0,2,1,0,1,1,2,1,98,4.3,Textbook,Basic,120,88.13,Promoted,Intermediate Study Materials
+Zaina Bhasin,7,1,0,2,1,1,1,1,1,4,7,2.7,Video Lesson,Medium,86,21.32,Not Promoted,Intermediate Study Materials
+Yashvi Shukla,10,0,0,2,1,2,0,0,2,2,97,1.2,Online Quiz,Basic,81,81.01,Promoted,Basic Study Materials
+Zaina Warrior,10,0,0,1,11,3,2,1,2,0,33,4.8,Textbook,Basic,139,64.02,Promoted,Intermediate Study Materials
+Bhamini Mahal,15,1,0,4,3,4,0,2,0,2,23,1.2,Video Lesson,Medium,122,27.98,Not Promoted,Intermediate Study Materials
+Arhaan Dhar,8,0,0,0,10,1,2,0,2,3,89,1.2,Video Lesson,Medium,126,73.32,Promoted,Basic Study Materials
+Rasha Varty,10,1,0,1,9,4,2,0,0,1,86,2.0,Live Class,Advanced,130,59.44,Promoted,Basic Study Materials
+Onkar Raju,17,1,0,1,12,1,2,2,0,2,74,4.4,E-Book,Advanced,117,64.48,Promoted,Intermediate Study Materials
+Reyansh Sahota,8,0,0,1,11,4,0,1,0,2,66,2.3,E-Book,Advanced,106,61.87,Promoted,Intermediate Study Materials
+Stuvan Hans,7,1,0,1,11,1,0,2,0,0,14,3.5,Textbook,Advanced,103,22.68,Not Promoted,Intermediate Study Materials
+Dharmajan Kari,8,1,0,3,14,1,1,0,1,0,80,1.7,Textbook,Basic,115,66.87,Promoted,Basic Study Materials
+Zaina Handa,7,0,0,3,14,2,1,0,2,4,98,3.5,Online Quiz,Basic,90,45.68,Not Promoted,Basic Study Materials
+Dishani Dani,13,1,0,1,9,3,1,2,0,3,48,1.9,Video Lesson,Advanced,100,42.5,Not Promoted,Intermediate Study Materials
+Abram Bhagat,15,0,0,1,9,1,1,2,0,1,97,2.2,Live Class,Basic,131,78.42,Promoted,Intermediate Study Materials
+Samar Srivastava,17,1,0,2,8,0,1,2,0,1,18,1.4,E-Book,Medium,101,25.77,Not Promoted,Intermediate Study Materials
+Anvi Sur,13,1,0,1,12,4,1,1,1,1,46,0.5,Textbook,Medium,127,44.8,Not Promoted,Intermediate Study Materials
+Anika Batra,9,1,0,2,2,2,2,0,2,1,83,4.8,Textbook,Advanced,116,78.07,Promoted,Basic Study Materials
+Kimaya Chopra,9,0,0,4,6,4,1,2,2,5,23,1.6,Textbook,Medium,123,31.41,Not Promoted,Intermediate Study Materials
+Alia Varughese,7,1,0,3,7,0,2,1,1,1,66,1.1,E-Book,Basic,115,57.92,Promoted,Intermediate Study Materials
+Aaryahi Krishna,6,1,0,1,9,4,1,0,2,2,80,0.8,Live Class,Medium,93,71.89,Promoted,Basic Study Materials
+Mahika Manne,18,0,0,2,8,2,0,2,1,3,67,2.8,Textbook,Basic,97,48.47,Promoted,Intermediate Study Materials
+Kimaya Kapoor,12,0,0,1,9,2,2,0,0,3,99,1.3,Online Quiz,Advanced,95,82.21,Promoted,Basic Study Materials
+Anahi Guha,6,1,0,2,8,1,1,2,1,5,60,1.8,E-Book,Basic,135,50.74,Promoted,Intermediate Study Materials
+Kiaan Andra,10,1,0,2,1,2,2,2,0,5,36,4.3,Video Lesson,Basic,91,48.63,Promoted,Intermediate Study Materials
+Shayak Sharma,15,1,0,1,9,2,0,1,1,2,75,0.6,Live Class,Advanced,127,61.47,Promoted,Intermediate Study Materials
+Ela Issac,12,1,0,4,6,3,2,0,2,5,89,3.6,Online Quiz,Advanced,109,71.38,Promoted,Basic Study Materials
+Rati Golla,6,1,0,1,12,3,1,2,1,1,31,1.1,Textbook,Advanced,133,32.94,Not Promoted,Intermediate Study Materials
+Shamik Bail,6,1,0,4,13,0,0,1,2,4,59,4.3,E-Book,Advanced,138,58.65,Promoted,Intermediate Study Materials
+Akarsh Tella,12,0,0,0,10,2,0,2,1,0,37,2.2,Textbook,Advanced,89,43.95,Not Promoted,Intermediate Study Materials
+Raghav Ganesh,15,0,0,4,3,3,1,0,2,5,86,2.3,Live Class,Basic,108,72.45,Promoted,Basic Study Materials
+Jiya Dugal,8,1,0,4,3,4,1,0,0,2,32,1.4,Online Quiz,Advanced,93,35.62,Not Promoted,Basic Study Materials
+Keya Johal,18,0,0,2,2,4,2,2,1,5,1,2.1,Live Class,Advanced,89,18.57,Not Promoted,Intermediate Study Materials
+Dhruv Chada,12,1,0,0,10,2,0,2,0,1,37,3.4,Textbook,Advanced,115,37.94,Not Promoted,Intermediate Study Materials
+Samar Kade,14,1,0,4,6,3,0,0,1,1,87,4.5,Live Class,Basic,98,74.76,Promoted,Basic Study Materials
+Dhruv Sen,13,1,0,1,12,1,1,2,2,1,91,0.8,E-Book,Basic,119,28.38,Not Promoted,Intermediate Study Materials
+Sana Baral,12,0,0,3,7,4,1,0,1,2,77,0.8,E-Book,Medium,85,62.75,Promoted,Basic Study Materials
+Ira Sekhon,6,0,0,1,11,2,1,1,0,2,64,1.9,Live Class,Basic,120,59.61,Promoted,Intermediate Study Materials
+Nitya Shanker,16,1,0,2,2,1,0,0,0,4,27,3.5,Live Class,Basic,97,36.04,Not Promoted,Basic Study Materials
+Sara Kade,9,1,0,1,9,2,2,0,1,1,74,1.9,Textbook,Advanced,103,65.35,Promoted,Basic Study Materials
+Sana Yadav,9,1,0,0,10,2,1,2,2,3,22,4.6,Video Lesson,Basic,89,61.39,Promoted,Intermediate Study Materials
+Neelofar Chahal,7,1,0,1,11,2,0,1,0,0,47,3.9,Video Lesson,Basic,99,43.76,Not Promoted,Intermediate Study Materials
+Madhav Halder,12,0,0,4,13,1,1,0,1,2,100,1.9,Video Lesson,Advanced,116,84.77,Promoted,Basic Study Materials
+Nitara Chanda,18,0,0,1,9,3,2,0,1,0,40,2.0,Live Class,Advanced,80,47.01,Not Promoted,Basic Study Materials
+Aaryahi Kuruvilla,12,1,0,0,4,3,0,2,1,2,12,1.6,Textbook,Advanced,98,23.57,Not Promoted,Intermediate Study Materials
+Dhruv Chaudry,18,1,0,2,1,4,0,2,0,1,25,2.2,Live Class,Advanced,122,33.84,Not Promoted,Intermediate Study Materials
+Uthkarsh Gopal,13,0,0,1,11,3,2,0,0,5,85,1.2,Video Lesson,Advanced,98,78.11,Promoted,Basic Study Materials
+Yuvraj  Khurana,7,1,0,4,13,3,1,2,0,4,21,1.7,Live Class,Advanced,129,30.95,Not Promoted,Intermediate Study Materials
+Renee Shanker,6,0,0,3,14,2,1,1,1,3,89,4.3,Textbook,Basic,111,75.64,Promoted,Intermediate Study Materials
+Yuvraj  Sathe,14,0,0,4,6,1,1,1,2,4,6,0.9,Online Quiz,Advanced,116,22.85,Not Promoted,Intermediate Study Materials
+Lakshit Tandon,9,0,0,2,2,1,1,0,2,0,38,4.7,E-Book,Advanced,84,46.48,Not Promoted,Basic Study Materials
+Vardaniya Bhakta,8,1,0,3,5,4,0,1,0,5,72,2.1,Online Quiz,Medium,115,51.94,Promoted,Intermediate Study Materials
+Seher Sarna,10,0,0,2,2,1,2,1,2,4,23,0.8,E-Book,Basic,132,29.69,Not Promoted,Intermediate Study Materials
+Kanav Sarkar,13,1,0,4,3,0,2,1,2,0,65,1.4,Video Lesson,Basic,110,61.37,Promoted,Intermediate Study Materials
+Drishya Bajaj,10,1,0,3,7,3,0,0,0,3,17,3.1,Live Class,Medium,118,30.18,Not Promoted,Basic Study Materials
+Saanvi Majumdar,11,1,0,2,8,1,1,2,1,4,52,2.9,Video Lesson,Basic,82,52.57,Promoted,Intermediate Study Materials
+Jayesh Kanda,13,0,0,4,3,0,2,2,0,5,77,4.8,Textbook,Basic,110,67.83,Promoted,Intermediate Study Materials
+Ayesha Kunda,18,1,0,3,14,4,1,1,0,5,97,1.2,Textbook,Advanced,117,76.31,Promoted,Intermediate Study Materials
+Damini Jhaveri,14,0,0,3,5,0,2,0,2,2,46,4.5,Video Lesson,Medium,108,61.49,Promoted,Basic Study Materials
+Damini Chopra,12,0,0,0,0,0,0,0,2,5,37,1.7,Textbook,Medium,107,43.43,Not Promoted,Basic Study Materials
+Nakul Chanda,13,1,0,3,5,2,2,0,0,3,32,3.9,Textbook,Basic,98,37.61,Not Promoted,Basic Study Materials
+Hrishita Dyal,14,0,0,0,4,2,2,0,2,3,82,4.2,E-Book,Advanced,117,73.83,Promoted,Basic Study Materials
+Abram Ghosh,11,0,0,4,6,4,1,2,0,1,98,1.6,Video Lesson,Medium,88,81.91,Promoted,Intermediate Study Materials
+Trisha Singh,14,0,0,1,12,3,2,1,1,3,65,4.5,Online Quiz,Advanced,98,64.07,Promoted,Intermediate Study Materials
+Hrishita Kanda,13,1,0,3,14,3,1,0,1,5,54,3.7,Video Lesson,Basic,118,51.41,Promoted,Basic Study Materials
+Misha Bhavsar,8,0,0,3,7,3,1,1,2,4,29,1.0,E-Book,Medium,83,33.68,Not Promoted,Intermediate Study Materials
+Amani Gole,12,0,0,4,3,0,2,1,0,2,24,4.5,E-Book,Basic,114,66.42,Promoted,Intermediate Study Materials
+Himmat Kale,15,0,0,1,9,4,0,2,0,4,88,4.0,Live Class,Advanced,101,74.59,Promoted,Intermediate Study Materials
+Indrans Ramaswamy,17,1,0,2,8,2,1,2,2,2,34,1.6,Live Class,Basic,102,24.83,Not Promoted,Intermediate Study Materials
+Sara Dora,12,0,0,0,10,4,0,2,2,2,15,3.4,Video Lesson,Basic,93,29.98,Not Promoted,Intermediate Study Materials
+Rohan Dhaliwal,7,1,0,0,0,0,1,0,0,4,6,4.9,Live Class,Basic,128,29.42,Not Promoted,Basic Study Materials
+Onkar Aggarwal,6,0,0,1,12,3,0,2,1,4,2,3.4,Live Class,Medium,96,15.83,Not Promoted,Intermediate Study Materials
+Madhup Issac,18,1,0,3,5,1,0,2,0,5,90,0.6,Online Quiz,Medium,81,72.7,Promoted,Intermediate Study Materials
+Lakshay Hari,18,1,0,0,10,4,0,1,2,3,71,2.2,Video Lesson,Advanced,107,60.9,Promoted,Intermediate Study Materials
+Nakul Sampath,18,0,0,3,5,1,2,2,2,1,41,3.1,Online Quiz,Medium,135,44.83,Not Promoted,Intermediate Study Materials
+Shray Manne,12,1,0,3,7,0,2,1,0,3,46,1.6,E-Book,Medium,129,47.51,Not Promoted,Intermediate Study Materials
+Rania Savant,10,1,0,1,9,1,0,1,2,4,80,2.1,E-Book,Advanced,87,67.88,Promoted,Intermediate Study Materials
+Riaan Sachar,13,0,0,1,11,3,0,0,2,0,79,4.3,Live Class,Medium,85,64.83,Promoted,Basic Study Materials
+Badal Chadha,6,0,0,3,7,3,0,0,2,5,52,0.6,Video Lesson,Basic,115,47.68,Not Promoted,Basic Study Materials
+Biju Chada,6,0,0,1,12,3,0,2,1,1,4,3.6,Video Lesson,Basic,81,31.91,Not Promoted,Intermediate Study Materials
+Anay Trivedi,15,1,0,2,8,0,0,1,1,2,86,2.5,Online Quiz,Basic,129,72.1,Promoted,Intermediate Study Materials
+Neelofar Bhalla,17,0,0,0,4,1,2,0,2,1,45,3.8,Textbook,Medium,124,41.57,Not Promoted,Basic Study Materials
+Urvi Das,11,0,0,3,5,4,2,2,2,5,46,0.7,Textbook,Basic,88,50.94,Promoted,Intermediate Study Materials
+Priyansh Chopra,15,1,0,4,13,4,2,0,1,5,37,1.9,Live Class,Advanced,116,45.39,Not Promoted,Basic Study Materials
+Neelofar Shah,14,1,0,2,1,0,0,2,2,4,70,2.4,Online Quiz,Medium,85,53.39,Promoted,Intermediate Study Materials
+Yashvi Bakshi,9,1,0,4,13,3,1,2,1,0,91,1.7,Live Class,Basic,82,43.04,Not Promoted,Intermediate Study Materials
+Uthkarsh Sanghvi,10,0,0,3,7,2,0,1,2,4,27,1.9,E-Book,Medium,92,33.89,Not Promoted,Intermediate Study Materials
+Saira Vyas,13,0,0,2,8,2,1,2,1,0,55,2.0,E-Book,Advanced,102,50.06,Promoted,Intermediate Study Materials
+Kiara Maharaj,8,1,0,3,14,3,2,0,1,3,1,2.2,Online Quiz,Advanced,122,14.71,Not Promoted,Basic Study Materials
+Saanvi Sachdeva,8,0,0,4,3,0,2,2,2,5,55,2.0,Textbook,Medium,120,52.03,Promoted,Intermediate Study Materials
+Raghav Jhaveri,18,1,0,2,1,3,1,2,1,1,6,1.0,E-Book,Basic,120,17.53,Not Promoted,Intermediate Study Materials
+Jayesh Aurora,11,0,0,3,5,2,1,1,1,3,47,1.3,Video Lesson,Medium,127,42.14,Not Promoted,Intermediate Study Materials
+Abram Sinha,16,1,0,4,3,0,1,0,2,5,33,3.0,Online Quiz,Basic,86,36.46,Not Promoted,Basic Study Materials
+Veer Kapoor,11,1,0,1,12,4,1,2,1,2,47,2.3,E-Book,Advanced,130,42.84,Not Promoted,Intermediate Study Materials
+Saanvi Dara,10,1,0,4,13,3,1,2,0,5,54,3.8,E-Book,Advanced,90,55.93,Promoted,Intermediate Study Materials
+Tarini Saxena,9,1,0,3,14,2,1,0,1,2,50,0.9,Live Class,Basic,115,51.02,Promoted,Basic Study Materials
+Mehul Lad,9,0,0,2,1,3,1,0,1,3,44,3.8,Online Quiz,Basic,120,44.51,Not Promoted,Basic Study Materials
+Veer Ahuja,8,1,0,3,14,1,1,1,0,2,72,1.0,Textbook,Basic,130,58.02,Promoted,Intermediate Study Materials
+Aarush Taneja,17,0,0,3,7,4,1,2,0,0,78,1.8,Video Lesson,Basic,131,52.16,Promoted,Intermediate Study Materials
+Trisha Bansal,18,1,0,4,3,1,2,2,2,5,92,4.1,Online Quiz,Basic,105,79.52,Promoted,Intermediate Study Materials
+Aarav Mandal,12,1,0,2,8,1,0,0,0,3,28,2.7,Textbook,Basic,89,38.49,Not Promoted,Basic Study Materials
+Nayantara Ganesan,12,1,0,0,4,4,2,0,0,5,72,2.1,Video Lesson,Basic,123,67.07,Promoted,Basic Study Materials
+Aradhya Ramachandran,12,0,0,4,13,2,2,0,2,0,95,2.2,Textbook,Basic,100,56.13,Promoted,Basic Study Materials
+Vaibhav Savant,7,0,0,3,14,3,1,2,1,0,51,0.7,Video Lesson,Basic,124,44.76,Not Promoted,Intermediate Study Materials
+Stuvan Tara,9,0,0,0,4,2,1,1,2,0,50,1.4,Textbook,Advanced,89,48.67,Promoted,Intermediate Study Materials
+Alia Sur,9,1,0,2,2,3,2,2,2,3,53,1.7,Live Class,Advanced,84,48.51,Promoted,Intermediate Study Materials
+Anahi Hora,8,0,0,3,14,3,0,2,2,5,66,3.6,Live Class,Basic,99,53.63,Promoted,Intermediate Study Materials
+Vardaniya Salvi,12,0,0,2,8,3,1,0,0,1,36,3.2,E-Book,Medium,118,40.44,Not Promoted,Basic Study Materials
+Nayantara Vasa,6,1,0,2,2,0,1,2,0,5,55,1.1,Video Lesson,Medium,99,52.22,Promoted,Intermediate Study Materials
+Eshani Singhal,8,0,0,1,9,0,1,1,0,4,47,1.4,Textbook,Advanced,129,46.08,Not Promoted,Intermediate Study Materials
+Ryan Sarraf,14,1,0,0,10,1,2,2,0,5,81,2.1,Live Class,Advanced,130,70.18,Promoted,Intermediate Study Materials
+Vedika Kibe,8,1,0,1,9,0,2,2,0,1,78,4.9,Textbook,Basic,101,60.08,Promoted,Intermediate Study Materials
+Pihu Barad,8,1,0,1,9,0,2,2,0,1,94,0.6,Online Quiz,Medium,90,53.11,Promoted,Intermediate Study Materials
+Chirag Bhatti,15,0,0,3,7,3,2,0,0,5,7,1.7,Live Class,Basic,95,60.31,Promoted,Basic Study Materials
+Zeeshan Barad,6,1,0,1,9,1,1,0,1,1,100,0.7,E-Book,Medium,107,79.08,Promoted,Basic Study Materials
+Kartik Ghose,13,0,0,4,13,0,1,2,0,0,24,4.2,E-Book,Advanced,135,42.35,Not Promoted,Intermediate Study Materials
+Nirvi Rajagopal,7,1,0,0,4,4,0,2,0,2,78,4.5,Video Lesson,Basic,138,70.26,Promoted,Intermediate Study Materials
+Alisha Chaudry,13,1,0,4,3,3,1,2,2,3,16,2.3,Live Class,Basic,119,24.29,Not Promoted,Intermediate Study Materials
+Parinaaz Chand,16,1,0,4,13,2,2,2,1,2,17,5.0,Live Class,Advanced,106,29.13,Not Promoted,Intermediate Study Materials
+Krish Varghese,15,0,0,1,12,4,2,0,0,2,52,4.9,Video Lesson,Basic,116,50.69,Promoted,Basic Study Materials
+Yuvraj  Baral,13,0,0,0,0,1,1,0,0,4,9,2.3,E-Book,Medium,137,22.83,Not Promoted,Basic Study Materials
+Ranbir Mann,6,1,0,0,10,3,0,1,2,2,16,0.5,Video Lesson,Advanced,116,47.09,Not Promoted,Intermediate Study Materials
+Khushi Sarma,18,1,0,1,9,3,2,1,2,5,92,3.5,E-Book,Medium,90,75.19,Promoted,Intermediate Study Materials
+Anika Bobal,18,1,0,4,6,2,0,2,0,2,90,0.6,Live Class,Medium,122,68.02,Promoted,Intermediate Study Materials
+Prerak Borah,13,1,0,1,11,0,2,0,2,4,41,1.1,E-Book,Advanced,86,45.37,Not Promoted,Basic Study Materials
+Jiya Chana,18,1,0,2,2,2,0,2,1,2,25,1.7,Live Class,Medium,106,29.78,Not Promoted,Intermediate Study Materials
+Reyansh Dey,8,0,0,2,2,3,1,1,1,4,9,4.7,Live Class,Medium,104,25.42,Not Promoted,Intermediate Study Materials
+Chirag Behl,9,1,0,3,5,2,1,2,2,3,97,2.1,Video Lesson,Basic,82,77.86,Promoted,Intermediate Study Materials
+Adira Venkatesh,14,1,0,0,10,0,2,0,1,5,41,4.4,Live Class,Medium,110,53.41,Promoted,Basic Study Materials
+Vritika Setty,9,0,0,2,2,2,1,1,2,3,98,4.9,Online Quiz,Basic,113,87.43,Promoted,Intermediate Study Materials
+Chirag Kade,6,0,0,3,5,0,1,0,0,3,5,1.1,Textbook,Basic,115,20.38,Not Promoted,Basic Study Materials
+Kabir Sarma,10,1,0,3,7,3,2,1,2,4,21,4.4,Online Quiz,Medium,106,59.59,Promoted,Intermediate Study Materials
+Tushar Gokhale,7,1,0,3,7,1,2,1,2,2,30,0.6,Online Quiz,Basic,89,49.8,Promoted,Intermediate Study Materials
+Nirvaan Rastogi,6,0,0,1,12,1,1,2,2,4,68,4.9,Textbook,Advanced,114,64.88,Promoted,Intermediate Study Materials
+Ela Yohannan,16,0,0,0,4,1,1,1,2,3,35,4.4,E-Book,Basic,95,37.38,Not Promoted,Intermediate Study Materials
+Faiyaz Kannan,17,1,0,2,2,0,0,1,2,1,77,4.7,Textbook,Basic,129,63.24,Promoted,Intermediate Study Materials
+Aarna Manda,7,0,0,3,5,4,1,0,0,3,17,0.8,E-Book,Advanced,118,27.64,Not Promoted,Basic Study Materials
+Rati Manda,18,1,0,1,9,4,1,1,1,1,22,3.4,E-Book,Medium,129,52.86,Promoted,Intermediate Study Materials
+Baiju Thakkar,18,1,0,1,12,3,2,1,1,0,69,1.8,E-Book,Advanced,93,41.13,Not Promoted,Intermediate Study Materials
+Priyansh Master,18,1,0,4,13,3,2,0,1,5,95,4.6,E-Book,Medium,96,77.53,Promoted,Basic Study Materials
+Veer Bahl,12,1,0,1,11,0,0,2,1,4,91,4.5,E-Book,Basic,82,75.17,Promoted,Intermediate Study Materials
+Khushi Dugal,17,1,0,0,0,4,0,0,0,1,11,1.0,E-Book,Basic,109,38.74,Not Promoted,Basic Study Materials
+Dhanuk Kota,15,0,0,1,11,4,2,1,0,5,32,3.3,E-Book,Basic,104,43.12,Not Promoted,Intermediate Study Materials
+Yuvraj  Mahal,13,0,0,0,4,0,0,0,0,3,21,3.5,E-Book,Medium,96,28.37,Not Promoted,Basic Study Materials
+Anay Gaba,9,1,0,0,4,4,2,0,1,0,88,1.9,Online Quiz,Medium,109,76.48,Promoted,Basic Study Materials
+Riaan Dewan,16,0,0,2,1,0,1,1,2,4,5,4.2,E-Book,Medium,130,27.22,Not Promoted,Intermediate Study Materials
+Kiaan Sule,15,0,0,4,6,3,1,1,0,4,10,5.0,E-Book,Basic,94,26.9,Not Promoted,Intermediate Study Materials
+Alia Sarma,15,1,0,4,6,3,2,1,0,1,49,3.7,Online Quiz,Advanced,84,48.38,Promoted,Intermediate Study Materials
+Hansh Mann,9,0,0,2,2,3,1,1,2,5,1,1.0,Live Class,Basic,139,35.15,Not Promoted,Intermediate Study Materials
+Vedika Madan,16,0,0,0,4,2,0,0,0,2,12,3.3,Online Quiz,Basic,85,24.12,Not Promoted,Basic Study Materials
+Anaya Saxena,6,1,0,4,6,4,0,0,1,4,18,3.2,E-Book,Medium,138,31.72,Not Promoted,Basic Study Materials
+Vaibhav Tripathi,9,0,0,0,4,0,0,2,2,5,6,4.8,E-Book,Medium,108,62.48,Promoted,Intermediate Study Materials
+Lagan Sangha,14,0,0,2,8,0,0,0,1,5,51,2.5,Textbook,Basic,129,54.6,Promoted,Basic Study Materials
+Damini Madan,14,1,0,2,2,2,0,2,2,0,52,2.6,Textbook,Basic,114,49.87,Promoted,Intermediate Study Materials
+Rania Chander,6,1,0,1,9,0,2,1,1,0,12,0.9,Live Class,Medium,135,27.11,Not Promoted,Intermediate Study Materials
+Dharmajan Mall,9,0,0,0,10,3,0,1,0,5,36,0.6,E-Book,Advanced,128,39.97,Not Promoted,Intermediate Study Materials
+Lakshit Shankar,7,1,0,2,1,4,2,0,0,3,19,1.5,Video Lesson,Basic,136,29.73,Not Promoted,Basic Study Materials
+Jivin Balan,17,1,0,0,10,0,0,2,2,4,40,3.9,Online Quiz,Basic,96,41.29,Not Promoted,Intermediate Study Materials
+Darshit Raman,16,1,0,2,2,3,2,2,1,2,56,4.9,Video Lesson,Medium,132,54.58,Promoted,Intermediate Study Materials
+Shayak Randhawa,17,1,0,0,4,4,1,0,2,0,60,2.2,Live Class,Basic,127,58.15,Promoted,Basic Study Materials
+Ehsaan Khurana,14,0,0,3,5,2,1,1,0,4,50,1.6,Video Lesson,Advanced,86,48.43,Promoted,Intermediate Study Materials
+Hridaan Malhotra,17,0,0,0,10,2,1,1,1,4,51,2.0,Online Quiz,Medium,96,47.73,Not Promoted,Intermediate Study Materials
+Shanaya Roy,10,0,0,2,1,3,2,2,0,4,70,1.5,E-Book,Medium,129,33.64,Not Promoted,Intermediate Study Materials
+Dharmajan Dara,7,1,0,4,13,2,2,1,0,1,61,3.3,Video Lesson,Basic,88,50.28,Promoted,Intermediate Study Materials
+Arnav Sarna,18,0,0,4,6,3,0,2,0,3,84,4.4,E-Book,Medium,125,74.06,Promoted,Intermediate Study Materials
+Badal Kadakia,13,0,0,0,4,4,1,0,1,1,0,4.1,Textbook,Advanced,87,27.28,Not Promoted,Basic Study Materials
+Shray Karpe,14,0,0,4,3,3,2,1,2,0,91,2.3,Online Quiz,Advanced,105,79.02,Promoted,Intermediate Study Materials
+Fateh Din,14,0,0,1,12,4,0,0,2,0,11,0.7,Textbook,Medium,124,27.64,Not Promoted,Basic Study Materials
+Yuvraj  Bhalla,9,1,0,2,2,0,2,0,0,5,91,2.5,Video Lesson,Basic,139,68.31,Promoted,Basic Study Materials
+Ira Doctor,12,1,0,3,7,1,0,0,0,5,93,3.0,Live Class,Advanced,95,74.34,Promoted,Basic Study Materials
+Tushar Wadhwa,14,1,0,2,8,1,1,1,2,0,18,1.9,E-Book,Basic,134,28.21,Not Promoted,Intermediate Study Materials
+Zain Halder,6,1,0,4,13,4,0,0,1,3,78,0.8,Online Quiz,Basic,84,40.49,Not Promoted,Basic Study Materials
+Amani Chand,8,0,0,3,5,0,0,1,0,5,86,2.7,Online Quiz,Basic,109,73.04,Promoted,Intermediate Study Materials
+Ojas Jaggi,16,0,0,4,3,2,0,0,0,0,6,4.2,Live Class,Advanced,123,23.13,Not Promoted,Basic Study Materials
+Rohan Srivastava,10,0,0,0,4,4,1,2,2,1,29,2.7,Textbook,Basic,139,34.03,Not Promoted,Intermediate Study Materials
+Raghav Balasubramanian,13,1,0,0,0,4,2,0,0,1,83,3.2,E-Book,Basic,98,69.59,Promoted,Basic Study Materials
+Jiya Bumb,7,1,0,2,2,0,2,1,1,0,89,0.9,E-Book,Basic,100,67.03,Promoted,Intermediate Study Materials
+Vardaniya Chadha,7,1,0,1,9,2,1,1,1,1,14,2.9,Live Class,Medium,108,32.81,Not Promoted,Intermediate Study Materials
+Tara Bhasin,9,0,0,4,3,3,1,0,1,5,33,4.2,Textbook,Medium,118,56.17,Promoted,Basic Study Materials
+Nehmat Garg,8,0,0,2,1,0,0,2,1,1,87,2.2,Video Lesson,Medium,101,71.21,Promoted,Intermediate Study Materials
+Shaan Divan,8,0,0,3,5,2,1,2,0,4,67,3.4,Textbook,Basic,100,63.17,Promoted,Intermediate Study Materials
+Ishita Reddy,11,1,0,1,12,2,2,1,0,0,20,1.7,Online Quiz,Basic,84,28.96,Not Promoted,Intermediate Study Materials
+Hansh Bhardwaj,14,0,0,0,10,2,0,0,0,3,88,2.2,Online Quiz,Basic,115,76.03,Promoted,Basic Study Materials
+Zara Gokhale,18,1,0,1,9,0,1,1,2,3,41,3.0,Live Class,Medium,114,47.57,Not Promoted,Intermediate Study Materials
+Divit Kar,16,1,0,0,10,2,1,1,2,1,93,1.2,Live Class,Basic,115,44.79,Not Promoted,Intermediate Study Materials
+Kiara Kulkarni,12,1,0,3,5,1,1,2,1,5,96,0.8,Live Class,Basic,91,81.46,Promoted,Intermediate Study Materials
+Divij Verma,9,1,0,0,4,4,2,2,0,1,69,2.9,Online Quiz,Basic,87,65.92,Promoted,Intermediate Study Materials
+Aarav Sahni,7,1,0,0,4,0,1,2,1,4,8,3.6,E-Book,Basic,120,50.49,Promoted,Intermediate Study Materials
+Saksham Mahal,17,1,0,0,0,1,0,1,1,4,75,3.4,Textbook,Advanced,138,64.86,Promoted,Intermediate Study Materials
+Ahana  Mandal,13,0,0,2,1,0,1,2,0,4,89,3.0,E-Book,Advanced,99,48.35,Promoted,Intermediate Study Materials
+Jivin Chadha,11,1,0,0,0,4,0,0,1,2,84,4.8,Online Quiz,Basic,80,69.9,Promoted,Basic Study Materials
+Riaan Dhawan,11,1,0,0,10,0,2,1,0,5,91,4.7,Textbook,Advanced,134,75.0,Promoted,Intermediate Study Materials
+Zaina Bora,8,1,0,2,1,3,2,2,2,4,89,4.2,Live Class,Basic,117,76.61,Promoted,Intermediate Study Materials
+Sumer Varma,12,1,0,4,13,4,0,2,1,1,71,1.1,Live Class,Basic,130,53.77,Promoted,Intermediate Study Materials
+Himmat Sangha,9,1,0,1,11,3,2,1,1,0,35,0.6,Textbook,Advanced,92,42.88,Not Promoted,Intermediate Study Materials
+Charvi Bhagat,8,1,0,2,8,1,1,1,0,5,22,1.5,E-Book,Medium,106,35.35,Not Promoted,Intermediate Study Materials
+Arhaan Khalsa,11,0,0,4,3,4,2,0,2,1,97,5.0,Textbook,Basic,131,83.53,Promoted,Basic Study Materials
+Abram Rao,10,1,0,2,2,1,1,0,0,4,4,3.0,Textbook,Medium,97,16.18,Not Promoted,Basic Study Materials
+Shlok Suresh,16,0,0,1,11,0,2,1,0,3,66,3.6,Online Quiz,Medium,122,61.31,Promoted,Intermediate Study Materials
+Saanvi Setty,13,0,0,2,1,3,2,1,2,4,66,4.9,Textbook,Medium,114,62.49,Promoted,Intermediate Study Materials
+Shaan Varughese,10,0,0,3,7,4,1,0,0,3,69,3.0,E-Book,Advanced,87,60.87,Promoted,Basic Study Materials
+Hunar Thaker,11,1,0,4,13,2,0,2,1,0,29,4.2,E-Book,Basic,127,31.55,Not Promoted,Intermediate Study Materials
+Rohan Baria,12,1,0,2,8,0,2,0,0,0,87,2.9,E-Book,Medium,136,69.15,Promoted,Basic Study Materials
+Damini Suri,12,1,0,3,14,0,1,0,2,3,100,1.3,Video Lesson,Medium,121,48.55,Promoted,Basic Study Materials
+Arnav Ravel,12,0,0,3,14,2,0,2,2,4,49,2.5,Live Class,Medium,132,42.53,Not Promoted,Intermediate Study Materials
+Jiya Kadakia,6,1,0,3,14,0,0,1,0,4,98,2.8,E-Book,Medium,123,76.89,Promoted,Intermediate Study Materials
+Kashvi Lall,9,0,0,0,4,1,0,1,1,3,15,0.9,Live Class,Basic,101,23.49,Not Promoted,Intermediate Study Materials
+Dhanush Bhatti,7,0,0,0,10,3,0,0,2,1,83,1.4,Online Quiz,Advanced,83,42.04,Not Promoted,Basic Study Materials
+Vihaan Mand,14,0,0,3,5,1,0,0,1,4,96,3.6,Live Class,Advanced,134,79.24,Promoted,Basic Study Materials
+Bhavin Rout,10,1,0,4,6,4,2,2,0,1,76,2.2,Live Class,Medium,108,67.32,Promoted,Intermediate Study Materials
+Eshani Dhawan,9,0,0,2,2,1,2,0,1,4,7,4.7,E-Book,Medium,127,24.72,Not Promoted,Basic Study Materials
+Anay Bala,18,0,0,1,12,0,2,0,1,4,96,0.6,Live Class,Medium,90,74.14,Promoted,Basic Study Materials
+Romil Goda,9,1,0,1,12,1,0,0,0,5,23,2.3,Online Quiz,Advanced,95,31.53,Not Promoted,Basic Study Materials
+Vedika Sani,13,1,0,1,11,0,0,0,1,2,60,1.2,Online Quiz,Medium,99,56.26,Promoted,Basic Study Materials
+Zara Sood,6,1,0,2,8,2,2,1,1,4,99,4.1,Textbook,Advanced,87,71.84,Promoted,Intermediate Study Materials
+Umang Sanghvi,11,1,0,1,9,0,2,1,2,3,100,1.5,Live Class,Basic,120,43.13,Not Promoted,Intermediate Study Materials
+Aarush Sibal,13,1,0,0,10,1,0,0,2,4,17,3.6,Video Lesson,Basic,104,26.99,Not Promoted,Basic Study Materials
+Emir Dhawan,11,1,0,0,0,1,0,2,1,2,66,3.3,Live Class,Basic,97,60.23,Promoted,Intermediate Study Materials
+Nirvaan Randhawa,12,0,0,2,2,4,2,1,0,0,71,4.4,Textbook,Basic,100,69.45,Promoted,Intermediate Study Materials
+Samarth Saini,15,1,0,0,0,4,2,1,0,0,4,0.9,E-Book,Advanced,134,39.72,Not Promoted,Intermediate Study Materials
+Nishith Raman,13,0,0,3,7,4,0,1,2,5,85,4.6,Online Quiz,Basic,119,75.21,Promoted,Intermediate Study Materials
+Madhav Bahl,14,0,0,1,9,2,0,1,2,3,16,1.4,Textbook,Basic,81,35.09,Not Promoted,Intermediate Study Materials
+Gokul Kibe,11,0,0,4,3,4,2,1,1,3,84,4.4,Online Quiz,Advanced,112,77.04,Promoted,Intermediate Study Materials
+Sumer Salvi,10,1,0,0,10,1,0,2,2,0,7,2.6,Live Class,Medium,140,17.11,Not Promoted,Intermediate Study Materials
+Hazel Gola,17,1,0,0,10,2,0,1,2,0,77,2.7,Live Class,Advanced,119,63.18,Promoted,Intermediate Study Materials
+Tushar Ravel,11,0,0,1,11,0,0,0,0,1,85,1.2,Video Lesson,Advanced,87,72.98,Promoted,Basic Study Materials
+Divit Ghosh,9,0,0,1,12,3,0,1,1,4,20,2.7,Textbook,Medium,126,28.97,Not Promoted,Intermediate Study Materials
+Shlok Mani,16,0,0,0,0,1,2,0,1,2,84,0.5,Online Quiz,Medium,84,71.62,Promoted,Basic Study Materials
+Kismat Saini,10,0,0,3,7,4,1,2,0,5,62,4.0,Online Quiz,Medium,115,61.31,Promoted,Intermediate Study Materials
+Hansh Banik,12,0,0,0,10,1,2,0,1,2,57,3.4,Live Class,Medium,132,54.52,Promoted,Basic Study Materials
+Hunar Joshi,13,1,0,0,10,4,2,2,2,4,79,3.8,Textbook,Medium,80,66.45,Promoted,Intermediate Study Materials
+Shray Saraf,14,0,0,2,2,2,0,0,0,3,30,2.4,E-Book,Advanced,113,39.6,Not Promoted,Basic Study Materials
+Devansh Manne,6,1,0,2,8,0,2,1,1,1,60,3.3,Textbook,Advanced,117,56.51,Promoted,Intermediate Study Materials
+Damini Seth,12,0,0,1,9,2,0,2,0,5,69,1.6,Live Class,Basic,86,61.13,Promoted,Intermediate Study Materials
+Alia Chatterjee,17,0,0,4,6,4,2,2,2,3,94,2.9,Online Quiz,Medium,133,78.51,Promoted,Intermediate Study Materials
+Vritika Rau,10,0,0,2,8,4,1,1,1,2,8,1.3,E-Book,Basic,101,25.69,Not Promoted,Intermediate Study Materials
+Aarna Gaba,12,0,0,3,14,3,1,0,1,0,40,2.3,Online Quiz,Medium,84,42.78,Not Promoted,Basic Study Materials
+Dhruv Tailor,13,1,0,1,9,3,0,0,1,4,11,2.5,Live Class,Basic,125,23.72,Not Promoted,Basic Study Materials
+Adira Shetty,11,1,0,3,14,2,1,1,1,3,6,3.5,Online Quiz,Advanced,96,42.35,Not Promoted,Intermediate Study Materials
+Kismat Sachar,10,1,0,3,7,3,0,0,0,3,82,2.3,Textbook,Basic,124,62.78,Promoted,Basic Study Materials
+Ira Salvi,6,0,0,2,1,2,2,2,2,0,17,3.3,E-Book,Advanced,92,26.92,Not Promoted,Intermediate Study Materials
+Romil Loyal,8,1,0,3,14,1,2,1,2,4,56,4.0,E-Book,Medium,92,50.94,Promoted,Intermediate Study Materials
+Ivan Dalal,13,1,0,0,0,4,0,1,2,1,0,1.8,Textbook,Medium,131,10.79,Not Promoted,Intermediate Study Materials
+Zoya Chokshi,17,1,0,4,6,0,1,0,1,0,85,4.6,Video Lesson,Medium,106,44.05,Not Promoted,Basic Study Materials
+Shray Hans,12,1,0,4,13,2,0,0,1,2,60,0.9,Online Quiz,Advanced,102,56.77,Promoted,Basic Study Materials
+Jiya Dhingra,14,1,0,3,5,0,2,2,0,2,80,1.8,Video Lesson,Advanced,105,63.73,Promoted,Intermediate Study Materials
+Divit Jain,18,0,0,0,0,1,2,1,1,0,39,3.3,Online Quiz,Basic,130,43.86,Not Promoted,Intermediate Study Materials
+Miraan Madan,9,0,0,0,0,2,2,1,1,3,84,2.0,E-Book,Advanced,82,72.55,Promoted,Intermediate Study Materials
+Baiju Kurian,12,1,0,0,0,4,1,1,1,3,94,3.4,Live Class,Advanced,96,71.65,Promoted,Intermediate Study Materials
+Riya De,15,1,0,0,10,0,1,1,2,3,17,1.5,E-Book,Medium,102,25.69,Not Promoted,Intermediate Study Materials
+Indranil Zacharia,7,1,0,0,0,2,2,1,2,0,96,3.7,Live Class,Advanced,129,72.25,Promoted,Intermediate Study Materials
+Tushar Kala,17,1,0,1,11,0,0,1,1,0,68,1.7,Video Lesson,Basic,113,60.97,Promoted,Intermediate Study Materials
+Armaan Halder,9,1,0,3,7,2,2,0,1,4,9,3.5,Textbook,Advanced,83,39.58,Not Promoted,Basic Study Materials
+Aarna Chhabra,8,1,0,1,12,1,2,2,0,2,76,2.3,Textbook,Advanced,91,62.76,Promoted,Intermediate Study Materials
+Vaibhav Krish,7,0,0,3,14,0,2,0,0,0,70,4.5,Video Lesson,Medium,130,60.38,Promoted,Basic Study Materials
+Hunar Ramesh,9,1,0,0,0,4,2,0,0,1,65,3.1,Live Class,Medium,136,58.26,Promoted,Basic Study Materials
+Neysa Rao,17,1,0,4,3,1,0,2,1,0,77,2.4,E-Book,Medium,137,64.04,Promoted,Intermediate Study Materials
+Abram Tiwari,7,1,0,4,6,3,0,2,0,3,5,1.9,E-Book,Advanced,125,12.02,Not Promoted,Intermediate Study Materials
+Aayush Bir,17,1,0,1,9,2,0,2,1,3,35,1.5,Online Quiz,Basic,123,38.19,Not Promoted,Intermediate Study Materials
+Ahana  Balan,7,0,0,4,3,4,0,2,0,4,27,0.7,Live Class,Medium,91,46.79,Not Promoted,Intermediate Study Materials
+Diya Sankaran,15,1,0,4,3,0,2,1,1,2,13,4.2,Video Lesson,Basic,93,25.61,Not Promoted,Intermediate Study Materials
+Nirvi Ramakrishnan,14,1,0,4,13,1,1,0,1,3,63,1.7,E-Book,Basic,91,57.58,Promoted,Basic Study Materials
+Piya Bajaj,8,1,0,3,7,1,2,1,1,2,70,4.4,E-Book,Basic,115,66.06,Promoted,Intermediate Study Materials
+Anvi Bhalla,7,1,0,2,1,2,0,2,0,2,6,2.7,E-Book,Medium,126,14.12,Not Promoted,Intermediate Study Materials
+Kabir Karnik,9,1,0,4,3,2,0,0,0,2,63,1.5,Textbook,Advanced,140,42.49,Not Promoted,Basic Study Materials
+Purab Reddy,15,0,0,0,10,3,2,2,2,5,13,4.4,Textbook,Basic,120,29.01,Not Promoted,Intermediate Study Materials
+Kiaan Lala,16,0,0,3,14,1,2,1,2,0,13,2.4,E-Book,Medium,138,24.74,Not Promoted,Intermediate Study Materials
+Farhan Sinha,10,1,0,1,9,0,0,0,2,4,95,4.5,Online Quiz,Medium,134,60.65,Promoted,Basic Study Materials
+Kanav Chaudhary,6,0,0,4,6,4,2,0,0,4,83,3.1,Textbook,Basic,116,74.97,Promoted,Basic Study Materials
+Yuvaan Goswami,16,1,0,4,6,1,0,1,2,4,98,4.9,Online Quiz,Advanced,110,74.36,Promoted,Intermediate Study Materials
+Kimaya Bose,15,1,0,1,12,2,1,0,1,0,14,1.3,Video Lesson,Advanced,86,20.49,Not Promoted,Basic Study Materials
+Lakshay Kamdar,8,1,0,0,10,2,2,1,2,1,68,3.6,Live Class,Basic,106,51.43,Promoted,Intermediate Study Materials
+Yashvi Sahota,14,1,0,3,7,0,0,0,0,3,9,2.5,Live Class,Basic,122,54.63,Promoted,Basic Study Materials
+Indrans Deshmukh,11,0,0,2,8,0,1,1,0,4,87,4.6,Video Lesson,Basic,111,55.62,Promoted,Intermediate Study Materials
+Piya Ganguly,15,1,0,1,9,1,2,2,1,5,45,2.4,Live Class,Medium,106,49.7,Promoted,Intermediate Study Materials
+Lakshit Sinha,6,1,0,0,10,0,0,1,1,1,21,3.7,Online Quiz,Advanced,85,35.48,Not Promoted,Intermediate Study Materials
+Yuvaan Ratta,11,0,0,0,10,0,2,0,0,2,3,1.7,Online Quiz,Medium,100,22.91,Not Promoted,Basic Study Materials
+Aarush Sahota,12,1,0,2,2,2,0,1,1,2,10,3.6,Online Quiz,Advanced,87,56.08,Promoted,Intermediate Study Materials
+Shamik Dayal,16,0,0,4,3,3,0,2,2,0,73,4.0,Online Quiz,Medium,126,60.06,Promoted,Intermediate Study Materials
+Kartik Amble,9,1,0,4,3,3,1,2,2,4,28,0.7,Video Lesson,Basic,83,32.39,Not Promoted,Intermediate Study Materials
+Jayant Srivastava,18,0,0,4,6,0,1,2,2,2,26,2.6,Video Lesson,Basic,132,40.28,Not Promoted,Intermediate Study Materials
+Dishani Rao,14,0,0,0,4,3,2,2,1,1,97,0.7,E-Book,Basic,111,79.51,Promoted,Intermediate Study Materials
+Azad Korpal,8,0,0,2,8,1,0,2,0,2,57,4.8,Online Quiz,Basic,117,58.53,Promoted,Intermediate Study Materials
+Zeeshan Kaur,10,1,0,1,9,4,0,2,2,5,39,2.4,E-Book,Medium,108,44.25,Not Promoted,Intermediate Study Materials
+Nitya Dhawan,8,1,0,1,12,3,1,0,1,3,62,2.1,Online Quiz,Advanced,134,47.76,Not Promoted,Basic Study Materials
+Mohanlal Mani,17,0,0,3,5,4,1,0,2,1,11,0.6,E-Book,Basic,83,26.52,Not Promoted,Basic Study Materials
+Miraan Koshy,9,0,0,0,10,0,0,1,0,4,20,2.0,Online Quiz,Basic,139,26.32,Not Promoted,Intermediate Study Materials
+Sahil Ganesh,9,1,0,1,11,0,2,0,1,2,35,3.2,Live Class,Medium,140,43.27,Not Promoted,Basic Study Materials
+Kimaya Mallick,15,1,0,2,8,0,1,1,0,2,62,3.0,Video Lesson,Medium,82,53.46,Promoted,Intermediate Study Materials
+Mannat Balakrishnan,17,1,0,1,12,2,1,1,2,4,80,4.2,Textbook,Medium,115,64.76,Promoted,Intermediate Study Materials
+Umang Joshi,17,1,0,2,2,2,0,0,1,0,25,4.4,Textbook,Medium,115,36.08,Not Promoted,Basic Study Materials
+Fateh Sule,17,1,0,1,11,1,1,0,0,5,40,3.8,Video Lesson,Advanced,88,48.2,Promoted,Basic Study Materials
+Hridaan Bedi,18,0,0,0,0,0,0,2,2,4,41,1.5,Live Class,Medium,119,39.74,Not Promoted,Intermediate Study Materials
+Dhruv Sood,9,1,0,4,6,0,2,1,0,1,9,0.8,Video Lesson,Advanced,104,21.7,Not Promoted,Intermediate Study Materials
+Miraya Talwar,10,1,0,4,6,4,1,0,1,5,90,2.8,Live Class,Basic,86,75.15,Promoted,Basic Study Materials
+Azad Kala,12,0,0,2,2,2,1,1,0,2,57,2.6,E-Book,Medium,122,47.49,Not Promoted,Intermediate Study Materials
+Zaina Bobal,17,0,0,4,3,1,1,0,2,3,2,4.9,Textbook,Medium,85,22.35,Not Promoted,Basic Study Materials
+Kiaan Kala,8,1,0,4,6,3,1,0,0,0,46,2.7,Live Class,Medium,123,40.54,Not Promoted,Basic Study Materials
+Saanvi Contractor,15,0,0,4,13,1,2,2,2,4,67,3.0,Textbook,Basic,90,58.54,Promoted,Intermediate Study Materials
+Purab Issac,18,0,0,2,8,2,2,0,1,3,17,0.7,Online Quiz,Basic,116,37.32,Not Promoted,Basic Study Materials
+Diya Dora,6,0,0,0,0,1,1,1,0,3,28,2.1,E-Book,Basic,110,36.84,Not Promoted,Intermediate Study Materials
+Ivana Dugal,12,1,0,2,8,2,2,0,2,5,24,1.6,Live Class,Basic,101,32.04,Not Promoted,Basic Study Materials
+Sahil Kara,15,1,0,4,13,1,2,2,1,2,86,3.3,Live Class,Medium,91,49.66,Promoted,Intermediate Study Materials
+Jayan Kannan,8,1,0,2,1,2,2,1,1,1,42,2.3,Live Class,Advanced,92,42.65,Not Promoted,Intermediate Study Materials
+Dhanush Shah,16,0,0,1,12,3,1,2,1,3,6,2.8,Video Lesson,Basic,87,20.06,Not Promoted,Intermediate Study Materials
+Jayesh Bumb,13,1,0,2,2,4,0,1,0,3,2,1.0,Textbook,Medium,137,12.51,Not Promoted,Intermediate Study Materials
+Lakshit Bassi,12,1,0,0,0,1,2,2,0,4,23,1.2,Live Class,Advanced,104,36.99,Not Promoted,Intermediate Study Materials
+Ivan Jaggi,14,1,0,4,3,0,0,2,0,5,82,1.0,Live Class,Advanced,89,70.55,Promoted,Intermediate Study Materials
+Pihu Sandhu,17,0,0,4,6,1,1,2,1,4,75,2.8,E-Book,Basic,136,70.87,Promoted,Intermediate Study Materials
+Madhup Tank,8,0,0,2,1,4,1,1,2,5,19,3.6,E-Book,Basic,99,32.73,Not Promoted,Intermediate Study Materials
+Kanav Warrior,13,1,0,2,1,0,1,2,0,1,23,1.2,Online Quiz,Advanced,126,28.0,Not Promoted,Intermediate Study Materials
+Aarush Mall,10,0,0,4,6,1,0,1,1,1,86,3.9,Online Quiz,Basic,86,71.86,Promoted,Intermediate Study Materials
+Shray Seth,9,0,0,1,9,2,1,1,2,3,72,1.3,Live Class,Medium,90,65.56,Promoted,Intermediate Study Materials
+Renee Tella,12,1,0,4,13,1,0,2,1,0,2,4.9,Online Quiz,Basic,125,17.33,Not Promoted,Intermediate Study Materials
+Amani Srinivas,12,1,0,1,9,3,1,2,1,2,2,2.1,Textbook,Basic,132,19.21,Not Promoted,Intermediate Study Materials
+Ayesha Dube,15,1,0,4,13,0,2,1,2,5,60,4.8,Online Quiz,Basic,112,47.13,Not Promoted,Intermediate Study Materials
+Ehsaan Gour,7,1,0,2,8,4,0,0,0,3,34,2.1,Video Lesson,Medium,84,33.85,Not Promoted,Basic Study Materials
+Miraya Gala,7,0,0,1,9,0,0,0,1,3,46,4.8,Textbook,Basic,112,60.45,Promoted,Basic Study Materials
+Kimaya Goel,18,0,0,4,13,2,1,1,2,5,65,1.7,Textbook,Medium,95,54.83,Promoted,Intermediate Study Materials
+Yakshit Vaidya,13,1,0,0,4,2,1,2,1,3,96,4.5,E-Book,Medium,86,75.17,Promoted,Intermediate Study Materials
+Ishaan Varkey,18,1,0,3,14,2,1,1,0,4,20,1.9,Video Lesson,Basic,122,32.0,Not Promoted,Intermediate Study Materials
+Veer Iyengar,18,1,0,1,12,4,2,2,0,1,30,2.6,Video Lesson,Advanced,113,38.03,Not Promoted,Intermediate Study Materials
+Kiara Rama,16,1,0,0,10,1,0,1,1,2,24,3.5,E-Book,Basic,104,43.47,Not Promoted,Intermediate Study Materials
+Pranay Rau,9,1,0,2,8,0,2,2,0,2,27,2.6,Live Class,Basic,83,34.97,Not Promoted,Intermediate Study Materials
+Pranay Iyer,11,0,0,1,11,4,2,0,1,5,80,1.9,Online Quiz,Advanced,128,70.14,Promoted,Basic Study Materials
+Suhana Wable,17,0,0,2,2,1,1,1,2,2,68,1.1,E-Book,Advanced,139,55.57,Promoted,Intermediate Study Materials
+Zain Thaker,7,0,0,1,12,1,1,0,2,5,2,3.3,E-Book,Medium,85,40.11,Not Promoted,Basic Study Materials
+Faiyaz Salvi,12,0,0,0,0,4,0,2,0,0,81,2.7,Textbook,Advanced,93,70.31,Promoted,Intermediate Study Materials
+Yuvaan Dugar,8,1,0,0,0,3,2,1,2,4,43,2.1,Textbook,Advanced,112,49.28,Promoted,Intermediate Study Materials
+Ranbir De,16,1,0,0,4,2,2,0,0,1,7,1.3,Online Quiz,Basic,87,35.34,Not Promoted,Basic Study Materials
+Anahita Sama,18,0,0,4,6,0,1,1,0,5,93,3.8,Video Lesson,Advanced,130,80.05,Promoted,Intermediate Study Materials
+Hiran Saha,17,0,0,3,7,3,1,2,2,2,10,1.3,Online Quiz,Medium,117,26.73,Not Promoted,Intermediate Study Materials
+Jayan Shroff,7,0,0,4,6,3,2,1,1,4,20,2.4,Online Quiz,Medium,93,54.77,Promoted,Intermediate Study Materials
+Adah Buch,13,0,0,3,5,1,1,0,1,1,87,3.1,Textbook,Medium,134,77.71,Promoted,Basic Study Materials
+Rati Chaudhari,14,0,0,3,5,2,1,1,2,1,77,3.4,E-Book,Advanced,87,62.34,Promoted,Intermediate Study Materials
+Nishith Guha,10,1,0,2,2,1,1,2,0,1,52,4.4,Online Quiz,Advanced,82,60.48,Promoted,Intermediate Study Materials
+Yuvraj  Sarkar,8,1,0,2,2,1,0,0,0,2,24,3.2,Video Lesson,Medium,100,29.63,Not Promoted,Basic Study Materials
+Farhan Seth,12,0,0,2,1,3,2,1,1,1,33,0.7,Online Quiz,Advanced,84,63.89,Promoted,Intermediate Study Materials
+Madhup Ramanathan,16,0,0,2,8,3,0,1,1,5,28,4.6,E-Book,Medium,132,37.83,Not Promoted,Intermediate Study Materials
+Manikya Sandhu,11,0,0,1,9,2,1,1,1,4,37,3.3,Live Class,Medium,81,41.76,Not Promoted,Intermediate Study Materials
+Ryan Deep,6,0,0,3,5,3,0,1,1,3,96,3.2,Video Lesson,Basic,88,30.53,Not Promoted,Intermediate Study Materials
+Rania Gokhale,12,1,0,2,8,2,1,1,1,2,31,1.7,Live Class,Basic,120,32.35,Not Promoted,Intermediate Study Materials
+Ayesha Kashyap,18,0,0,0,10,4,2,1,2,5,87,4.9,E-Book,Medium,97,52.77,Promoted,Intermediate Study Materials
+Shray Amble,13,1,0,4,13,2,0,0,1,3,35,0.9,Online Quiz,Medium,80,39.87,Not Promoted,Basic Study Materials
+Divij Shankar,18,1,0,0,0,0,0,2,2,5,52,2.8,Video Lesson,Advanced,133,48.37,Promoted,Intermediate Study Materials
+Vihaan Kant,8,1,0,3,5,1,2,2,2,0,42,4.7,Textbook,Basic,87,49.58,Promoted,Intermediate Study Materials
+Prerak Aurora,12,0,0,3,5,2,2,1,0,3,54,4.7,Online Quiz,Medium,97,57.41,Promoted,Intermediate Study Materials
+Ahana  Sane,8,0,0,2,2,0,0,1,0,0,85,4.9,E-Book,Advanced,81,72.69,Promoted,Intermediate Study Materials
+Damini Kothari,13,1,0,0,4,0,0,2,0,0,22,1.4,Live Class,Advanced,90,29.69,Not Promoted,Intermediate Study Materials
+Hridaan Borde,7,1,0,0,0,1,2,0,2,0,59,2.0,Video Lesson,Medium,91,55.96,Promoted,Basic Study Materials
+Indrans Subramanian,8,1,0,3,5,2,2,2,2,3,16,0.7,E-Book,Basic,123,25.39,Not Promoted,Intermediate Study Materials
+Mishti Mannan,7,1,0,1,9,1,1,0,2,0,72,0.9,Textbook,Basic,139,57.98,Promoted,Basic Study Materials
+Vanya Deshmukh,7,0,0,4,3,4,0,1,1,2,25,1.2,Live Class,Basic,91,30.33,Not Promoted,Intermediate Study Materials
+Adira Bedi,15,1,0,2,8,4,1,2,1,0,1,0.6,Online Quiz,Basic,88,16.74,Not Promoted,Intermediate Study Materials
+Piya Bhargava,9,0,0,3,14,4,0,1,2,4,21,1.1,Online Quiz,Advanced,122,29.53,Not Promoted,Intermediate Study Materials
+Hazel Kara,9,1,0,4,6,1,2,1,0,0,6,2.5,Textbook,Basic,118,23.25,Not Promoted,Intermediate Study Materials
+Advika Hegde,11,1,0,1,11,3,1,1,0,4,72,2.8,Online Quiz,Advanced,102,47.12,Not Promoted,Intermediate Study Materials
+Shlok Varma,14,0,0,2,1,1,0,1,1,5,0,1.8,Video Lesson,Basic,95,23.42,Not Promoted,Intermediate Study Materials
+Navya Dar,6,0,0,3,7,3,2,1,2,5,43,4.7,Online Quiz,Medium,94,49.3,Promoted,Intermediate Study Materials
+Aarush Lad,8,0,0,1,9,2,0,0,2,0,8,1.7,E-Book,Basic,93,28.13,Not Promoted,Basic Study Materials
+Sahil Mani,15,0,0,2,2,0,2,2,2,3,99,1.2,Live Class,Advanced,80,77.13,Promoted,Intermediate Study Materials
+Urvi Bir,16,1,0,3,14,4,0,1,2,1,1,3.2,E-Book,Advanced,86,15.31,Not Promoted,Intermediate Study Materials
+Shaan Gera,16,0,0,0,0,0,0,2,2,1,28,3.9,Textbook,Basic,93,30.47,Not Promoted,Intermediate Study Materials
+Emir Dewan,9,0,0,3,5,1,1,1,1,5,46,2.4,Textbook,Basic,107,48.94,Promoted,Intermediate Study Materials
+Mohanlal Taneja,6,0,0,2,2,1,0,2,0,2,28,2.7,Video Lesson,Basic,101,30.93,Not Promoted,Intermediate Study Materials
+Hazel Doshi,18,0,0,1,11,0,2,0,2,3,35,0.9,E-Book,Medium,128,39.72,Not Promoted,Basic Study Materials
+Vaibhav Sachar,7,0,0,2,2,0,1,2,1,1,53,2.0,Online Quiz,Basic,97,51.63,Promoted,Intermediate Study Materials
+Siya Butala,11,0,0,0,4,0,0,1,1,3,58,3.0,Online Quiz,Basic,83,46.48,Not Promoted,Intermediate Study Materials
+Aniruddh Grewal,17,0,0,4,13,0,0,1,0,3,17,4.9,Video Lesson,Basic,123,27.92,Not Promoted,Intermediate Study Materials
+Zeeshan Wable,11,1,0,0,4,0,1,1,1,5,98,3.9,Textbook,Basic,118,82.32,Promoted,Intermediate Study Materials
+Samar Dave,11,0,0,4,3,3,0,1,2,3,87,0.8,Video Lesson,Medium,110,63.06,Promoted,Intermediate Study Materials
+Adira Kakar,11,0,0,3,14,2,0,2,2,0,9,3.3,Video Lesson,Advanced,122,19.82,Not Promoted,Intermediate Study Materials
+Tushar Karpe,8,1,0,0,0,1,0,2,1,2,100,1.2,Textbook,Advanced,86,41.68,Not Promoted,Intermediate Study Materials
+Emir Desai,7,0,0,3,7,4,0,1,2,4,5,3.3,Video Lesson,Basic,87,12.74,Not Promoted,Intermediate Study Materials
+Aradhya Sathe,13,0,0,0,10,1,0,2,1,3,3,2.5,Online Quiz,Advanced,134,16.78,Not Promoted,Intermediate Study Materials
+Tara Yohannan,6,1,0,2,1,1,2,2,1,3,9,3.1,Online Quiz,Medium,131,21.22,Not Promoted,Intermediate Study Materials
+Reyansh Halder,15,1,0,3,7,2,0,2,0,3,12,2.5,Online Quiz,Basic,129,53.02,Promoted,Intermediate Study Materials
+Advik Singh,16,1,0,2,2,0,0,0,1,3,88,2.8,E-Book,Medium,108,74.33,Promoted,Basic Study Materials
+Dharmajan Goswami,16,1,0,2,2,4,1,1,2,1,42,1.3,Textbook,Basic,99,36.3,Not Promoted,Intermediate Study Materials
+Aarush Jain,14,0,0,0,0,2,0,1,2,0,59,2.7,Video Lesson,Basic,96,56.94,Promoted,Intermediate Study Materials
+Jivin Issac,16,1,0,3,5,4,1,2,1,1,25,3.5,E-Book,Medium,110,32.49,Not Promoted,Intermediate Study Materials
+Shamik Bhatti,15,1,0,0,10,2,0,1,2,2,55,2.2,Textbook,Advanced,114,54.26,Promoted,Intermediate Study Materials
+Mohanlal Goda,9,1,0,0,0,3,0,1,0,0,57,4.1,Online Quiz,Basic,82,58.83,Promoted,Intermediate Study Materials
+Tara Sehgal,12,0,0,3,14,2,1,2,1,5,39,2.3,E-Book,Advanced,124,40.58,Not Promoted,Intermediate Study Materials
+Dishani Shah,7,0,0,2,1,1,1,1,1,3,100,0.6,E-Book,Medium,89,84.07,Promoted,Intermediate Study Materials
+Jayesh Sheth,6,0,0,1,9,4,1,1,0,0,74,3.1,Online Quiz,Basic,113,67.06,Promoted,Intermediate Study Materials
+Shanaya Rana,15,1,0,3,14,4,0,0,2,3,57,3.8,Textbook,Advanced,137,54.32,Promoted,Basic Study Materials
+Alia Gade,9,0,0,0,4,4,0,0,1,1,76,3.9,E-Book,Medium,92,58.51,Promoted,Basic Study Materials
+Veer Din,15,1,0,2,1,0,1,1,2,4,34,3.3,E-Book,Medium,140,38.34,Not Promoted,Intermediate Study Materials
+Saanvi Sule,18,0,0,2,8,1,0,1,2,4,30,4.6,Online Quiz,Advanced,113,38.48,Not Promoted,Intermediate Study Materials
+Ishaan Bala,9,0,0,0,4,2,2,1,0,1,72,2.5,Live Class,Medium,82,64.69,Promoted,Intermediate Study Materials
+Zara Tailor,15,1,0,2,8,2,2,0,0,2,18,0.9,Video Lesson,Advanced,82,26.87,Not Promoted,Basic Study Materials
+Sana Chaudhuri,16,0,0,0,0,3,2,1,2,2,3,3.6,Live Class,Basic,95,15.04,Not Promoted,Intermediate Study Materials
+Taimur Butala,14,1,0,4,3,4,1,2,2,5,59,1.7,Online Quiz,Advanced,102,51.39,Promoted,Intermediate Study Materials
+Hunar Dhawan,10,1,0,1,11,3,2,1,1,2,83,1.1,Video Lesson,Basic,112,66.12,Promoted,Intermediate Study Materials
+Hansh Kurian,13,1,0,3,7,3,0,2,2,1,67,4.2,Video Lesson,Medium,139,62.81,Promoted,Intermediate Study Materials
+Saanvi Gandhi,17,0,0,2,1,1,0,2,0,3,81,4.3,Live Class,Medium,89,68.72,Promoted,Intermediate Study Materials
+Hiran Rama,13,1,0,0,10,4,2,1,2,1,58,4.9,Textbook,Advanced,132,61.19,Promoted,Intermediate Study Materials
+Aaina Kibe,15,0,0,0,10,3,0,0,1,2,88,2.0,Textbook,Basic,103,74.35,Promoted,Basic Study Materials
+Dishani Kalita,14,0,0,3,5,0,0,2,1,3,10,0.8,Textbook,Medium,123,21.39,Not Promoted,Intermediate Study Materials
+Yashvi Saraf,10,1,0,3,7,1,2,0,2,1,77,0.7,Textbook,Medium,107,71.5,Promoted,Basic Study Materials
+Ahana  Mann,17,0,0,1,12,2,2,0,1,0,61,3.2,Video Lesson,Basic,81,48.78,Promoted,Basic Study Materials
+Prisha Yohannan,12,1,0,1,11,0,0,2,1,2,62,2.1,Online Quiz,Advanced,94,56.14,Promoted,Intermediate Study Materials
+Sana Grewal,18,1,0,1,12,3,1,0,0,1,18,0.8,Online Quiz,Medium,84,26.49,Not Promoted,Basic Study Materials
+Badal Dada,17,0,0,2,1,3,1,0,0,0,62,2.3,Textbook,Basic,138,55.16,Promoted,Basic Study Materials
+Ryan Bhalla,11,0,0,0,0,0,2,2,1,0,46,2.3,E-Book,Advanced,132,43.32,Not Promoted,Intermediate Study Materials
+Tejas Tata,8,0,0,0,0,4,2,1,2,1,90,0.5,Live Class,Basic,118,72.05,Promoted,Intermediate Study Materials
+Advika Lad,8,0,0,3,14,1,0,2,1,1,2,1.1,E-Book,Medium,98,15.75,Not Promoted,Intermediate Study Materials
+Kiara Sundaram,17,0,0,3,5,2,2,0,2,5,3,2.9,Textbook,Basic,118,18.72,Not Promoted,Basic Study Materials
+Indrajit Mani,9,1,0,2,8,0,0,0,0,1,79,3.8,Textbook,Basic,109,48.75,Promoted,Basic Study Materials
+Gokul Soni,7,1,0,2,2,3,1,2,2,2,14,2.7,Video Lesson,Basic,125,20.74,Not Promoted,Intermediate Study Materials
+Zoya Bahri,9,1,0,2,2,3,0,0,2,4,25,2.7,Live Class,Advanced,108,34.65,Not Promoted,Basic Study Materials
+Kiaan Hayer,8,0,0,2,8,4,1,0,1,2,81,0.6,Textbook,Advanced,110,70.45,Promoted,Basic Study Materials
+Dishani Upadhyay,18,0,0,0,0,0,2,0,1,4,41,3.6,Online Quiz,Medium,81,42.22,Not Promoted,Basic Study Materials
+Faiyaz Krishnan,7,1,0,2,1,4,0,0,0,1,67,4.5,Online Quiz,Advanced,124,62.79,Promoted,Basic Study Materials
+Amani Malhotra,12,0,0,3,14,0,1,2,2,0,20,2.3,E-Book,Advanced,123,34.53,Not Promoted,Intermediate Study Materials
+Aaryahi Badami,17,1,0,2,2,2,1,1,2,5,42,2.5,Video Lesson,Basic,113,40.36,Not Promoted,Intermediate Study Materials
+Vaibhav Bala,6,0,0,3,14,2,1,1,2,0,18,1.8,Online Quiz,Advanced,97,32.1,Not Promoted,Intermediate Study Materials
+Charvi Ray,15,0,0,2,1,3,1,2,1,5,77,2.7,Video Lesson,Basic,108,45.15,Not Promoted,Intermediate Study Materials
+Siya Sandal,14,0,0,1,11,4,1,0,0,2,63,2.7,Video Lesson,Advanced,88,58.73,Promoted,Basic Study Materials
+Emir Korpal,12,1,0,4,3,0,1,2,0,2,22,2.7,Video Lesson,Advanced,99,29.67,Not Promoted,Intermediate Study Materials
+Abram Iyer,18,0,0,0,0,1,2,1,0,5,62,1.9,Online Quiz,Medium,111,54.77,Promoted,Intermediate Study Materials
+Abram Kibe,18,1,0,4,13,4,1,0,0,0,54,4.2,Textbook,Basic,90,54.17,Promoted,Basic Study Materials
+Nakul Lata,11,0,0,4,3,0,1,1,1,2,23,0.8,E-Book,Medium,100,30.64,Not Promoted,Intermediate Study Materials
+Nehmat Saini,16,0,0,1,12,0,2,2,0,5,9,3.6,Video Lesson,Basic,80,26.47,Not Promoted,Intermediate Study Materials
+Divij Arora,14,0,0,2,1,2,2,1,0,1,2,4.0,Live Class,Medium,140,17.32,Not Promoted,Intermediate Study Materials
+Kiara Handa,14,0,0,4,6,3,0,2,0,4,89,4.8,Online Quiz,Basic,131,74.8,Promoted,Intermediate Study Materials
+Kiara Talwar,10,1,0,0,4,1,0,1,1,5,41,2.3,Textbook,Medium,90,44.61,Not Promoted,Intermediate Study Materials
+Shanaya Sarraf,16,1,0,3,5,4,0,0,0,4,23,4.7,Online Quiz,Basic,107,34.79,Not Promoted,Basic Study Materials
+Vritika Rao,9,1,0,4,3,1,0,0,2,2,80,4.6,E-Book,Basic,94,68.71,Promoted,Basic Study Materials
+Eshani Chand,7,1,0,3,7,2,1,1,1,1,46,1.4,Online Quiz,Medium,91,47.24,Not Promoted,Intermediate Study Materials
+Vanya Apte,14,0,0,4,13,4,1,2,1,3,49,2.7,Live Class,Medium,99,48.86,Promoted,Intermediate Study Materials
+Ayesha Sura,8,0,0,4,6,3,0,1,1,5,49,4.9,Video Lesson,Basic,89,51.23,Promoted,Intermediate Study Materials
+Shanaya Suresh,13,1,0,1,12,2,0,2,0,5,27,0.6,Textbook,Advanced,110,38.07,Not Promoted,Intermediate Study Materials
+Uthkarsh Sengupta,13,1,0,3,14,3,2,2,0,2,14,0.6,E-Book,Advanced,118,29.16,Not Promoted,Intermediate Study Materials
+Indrajit Sharma,7,1,0,0,10,3,2,2,0,1,76,2.9,E-Book,Basic,137,61.49,Promoted,Intermediate Study Materials
+Kimaya Hari,15,0,0,2,1,2,1,2,1,5,22,3.2,Textbook,Basic,127,25.92,Not Promoted,Intermediate Study Materials
+Azad Khare,8,0,0,4,6,3,0,0,1,0,11,0.5,Live Class,Medium,110,30.81,Not Promoted,Basic Study Materials
+Vardaniya Hari,16,0,0,3,7,0,0,1,2,4,38,4.0,Video Lesson,Basic,110,50.63,Promoted,Intermediate Study Materials
+Kiaan Sarna,11,1,0,2,2,0,0,2,2,5,43,3.7,Video Lesson,Medium,99,46.6,Not Promoted,Intermediate Study Materials
+Rania Tak,13,1,0,3,14,0,2,2,0,5,43,2.4,Textbook,Advanced,105,47.73,Not Promoted,Intermediate Study Materials
+Emir Dua,9,0,0,1,11,0,2,0,2,5,11,2.7,Video Lesson,Medium,103,51.6,Promoted,Basic Study Materials
+Jayesh Khosla,17,0,0,4,6,3,0,2,1,3,31,3.3,Live Class,Medium,133,61.58,Promoted,Intermediate Study Materials
+Raghav Sankar,8,1,0,1,9,2,0,0,0,2,44,1.2,Textbook,Advanced,92,46.96,Not Promoted,Basic Study Materials
+Renee Guha,6,0,0,4,6,4,1,2,1,3,79,1.8,Video Lesson,Basic,99,65.73,Promoted,Intermediate Study Materials
+Zaina Vig,11,0,0,2,1,4,2,0,2,1,34,4.0,Online Quiz,Basic,115,47.77,Not Promoted,Basic Study Materials
+Drishya Kala,14,1,0,3,7,2,1,2,1,0,44,2.3,Video Lesson,Medium,127,45.4,Not Promoted,Intermediate Study Materials
+Damini Issac,12,1,0,4,6,2,1,1,2,1,44,2.6,Video Lesson,Basic,122,41.1,Not Promoted,Intermediate Study Materials
+Samiha Goswami,17,0,0,3,5,2,1,1,0,4,47,2.0,Video Lesson,Medium,91,46.13,Not Promoted,Intermediate Study Materials
+Hansh Dubey,10,1,0,1,9,1,0,0,2,5,98,3.8,Online Quiz,Medium,138,48.98,Promoted,Basic Study Materials
+Hazel Walia,16,1,0,2,1,3,2,2,2,3,5,3.6,Textbook,Advanced,80,17.37,Not Promoted,Intermediate Study Materials
+Ehsaan Subramanian,15,0,0,1,11,1,0,1,2,5,24,3.8,Online Quiz,Advanced,87,44.85,Not Promoted,Intermediate Study Materials
+Miraan Sur,9,0,0,3,7,3,0,1,1,4,9,3.5,Video Lesson,Advanced,83,24.29,Not Promoted,Intermediate Study Materials
+Kimaya Goswami,17,1,0,0,0,2,2,0,2,5,50,2.5,E-Book,Medium,132,49.14,Promoted,Basic Study Materials
+Umang Salvi,13,0,0,3,14,0,1,1,2,0,77,2.2,Textbook,Basic,122,62.2,Promoted,Intermediate Study Materials
+Misha Yohannan,7,1,0,0,10,2,0,2,0,5,32,2.5,Textbook,Medium,139,34.01,Not Promoted,Intermediate Study Materials
+Taran Koshy,8,1,0,2,2,1,2,2,1,1,22,3.8,Video Lesson,Medium,97,30.3,Not Promoted,Intermediate Study Materials
+Nakul Som,15,0,0,4,13,2,2,0,2,4,40,4.8,Textbook,Basic,124,40.88,Not Promoted,Basic Study Materials
+Anay Sundaram,6,1,0,3,5,1,1,1,0,5,70,4.8,Video Lesson,Medium,89,49.96,Promoted,Intermediate Study Materials
+Khushi Arya,17,1,0,2,2,4,1,1,2,1,60,3.2,Textbook,Basic,129,46.46,Not Promoted,Intermediate Study Materials
+Myra Shankar,11,0,0,3,7,1,1,1,2,1,79,4.8,Online Quiz,Basic,123,71.04,Promoted,Intermediate Study Materials
+Shlok Kurian,6,1,0,4,13,4,2,1,2,2,73,2.0,Video Lesson,Basic,123,58.99,Promoted,Intermediate Study Materials
+Misha Dhawan,12,1,0,2,1,2,0,2,2,1,77,4.5,Online Quiz,Medium,89,67.46,Promoted,Intermediate Study Materials
+Seher Lanka,13,1,0,0,4,3,0,0,2,5,33,4.8,Textbook,Advanced,82,42.32,Not Promoted,Basic Study Materials
+Dhanush Samra,6,1,0,1,9,0,1,1,1,3,98,3.7,E-Book,Basic,121,53.27,Promoted,Intermediate Study Materials
+Trisha Ramachandran,10,1,0,2,8,0,1,1,1,2,27,4.2,Live Class,Medium,113,43.11,Not Promoted,Intermediate Study Materials
+Indrajit Dash,13,1,0,0,4,0,1,1,2,2,28,2.4,Video Lesson,Medium,107,35.71,Not Promoted,Intermediate Study Materials
+Baiju Khosla,18,1,0,4,13,2,1,0,1,3,33,2.3,Online Quiz,Medium,124,38.25,Not Promoted,Basic Study Materials
+Divyansh Brahmbhatt,6,0,0,1,11,0,1,1,1,0,60,1.4,Textbook,Advanced,107,51.85,Promoted,Intermediate Study Materials
+Aaina Biswas,11,1,0,3,5,2,2,1,1,4,30,3.9,Live Class,Basic,83,38.0,Not Promoted,Intermediate Study Materials
+Shlok Sawhney,18,0,0,1,12,0,1,0,2,1,4,4.8,Video Lesson,Advanced,86,18.71,Not Promoted,Basic Study Materials
+Divyansh Behl,11,1,0,4,3,3,1,2,1,1,76,4.8,E-Book,Advanced,105,73.64,Promoted,Intermediate Study Materials
+Divit Manne,10,1,0,1,9,0,2,1,0,4,91,3.3,Textbook,Medium,110,73.0,Promoted,Intermediate Study Materials
+Suhana Kapoor,6,1,0,1,12,0,2,2,1,5,1,1.4,Textbook,Basic,129,48.56,Promoted,Intermediate Study Materials
+Myra Ganesh,18,0,0,3,7,1,2,2,0,2,90,4.8,Online Quiz,Basic,101,82.13,Promoted,Intermediate Study Materials
+Saanvi Dyal,18,0,0,1,11,0,2,2,1,5,97,3.0,Live Class,Medium,101,77.44,Promoted,Intermediate Study Materials
+Nehmat Chahal,6,1,0,1,11,2,2,0,1,4,39,1.8,Live Class,Medium,81,44.41,Not Promoted,Basic Study Materials
+Jayesh Suri,8,0,0,2,8,1,0,0,0,3,65,0.6,Video Lesson,Medium,105,62.34,Promoted,Basic Study Materials
+Vidur Kala,9,1,0,1,11,3,1,1,0,3,82,4.1,Textbook,Medium,84,54.18,Promoted,Intermediate Study Materials
+Sana Wason,15,0,0,3,14,3,0,1,1,2,1,1.2,E-Book,Advanced,113,16.86,Not Promoted,Intermediate Study Materials
+Tejas Sheth,7,1,0,4,13,0,2,0,0,3,32,3.7,Textbook,Basic,132,42.49,Not Promoted,Basic Study Materials
+Rasha Chatterjee,13,0,0,2,2,3,2,2,1,2,88,3.6,Online Quiz,Advanced,116,72.44,Promoted,Intermediate Study Materials
+Reyansh Lata,17,0,0,1,12,2,2,1,2,5,26,1.1,Textbook,Advanced,107,33.96,Not Promoted,Intermediate Study Materials
+Madhup Sami,15,0,0,4,6,4,2,0,1,3,52,1.7,E-Book,Advanced,137,56.28,Promoted,Basic Study Materials
+Ira Arora,9,1,0,3,7,1,0,1,0,4,34,2.5,Video Lesson,Basic,98,40.06,Not Promoted,Intermediate Study Materials
+Jivika Kakar,8,0,0,3,14,4,0,1,0,4,54,1.1,E-Book,Basic,118,44.7,Not Promoted,Intermediate Study Materials
+Vivaan Sachdev,6,1,0,1,12,1,0,0,2,0,7,1.6,Textbook,Basic,101,18.53,Not Promoted,Basic Study Materials
+Arnav Lal,9,0,0,4,13,4,0,1,0,4,91,1.5,Textbook,Advanced,100,41.69,Not Promoted,Intermediate Study Materials
+Tushar Singhal,16,1,0,3,14,4,0,0,1,2,1,4.7,Live Class,Medium,118,17.44,Not Promoted,Basic Study Materials
+Lavanya Walia,12,0,0,4,3,0,1,2,2,5,6,3.1,Online Quiz,Advanced,126,21.51,Not Promoted,Intermediate Study Materials
+Gokul Doctor,13,0,0,0,0,3,0,1,0,2,26,3.7,E-Book,Basic,129,50.48,Promoted,Intermediate Study Materials
+Saira Bhalla,16,0,0,0,4,1,1,0,0,3,82,1.1,Video Lesson,Basic,121,35.73,Not Promoted,Basic Study Materials
+Vedika Bahri,16,1,0,3,5,0,0,2,0,3,38,2.5,E-Book,Basic,100,42.53,Not Promoted,Intermediate Study Materials
+Umang Buch,6,1,0,0,0,4,0,2,2,3,19,2.4,E-Book,Medium,122,23.44,Not Promoted,Intermediate Study Materials
+Samarth Vig,8,1,0,4,13,2,0,2,1,3,67,1.0,Video Lesson,Medium,101,36.28,Not Promoted,Intermediate Study Materials
+Gokul Saini,18,0,0,4,3,1,0,1,0,2,53,1.3,Video Lesson,Advanced,139,55.4,Promoted,Intermediate Study Materials
+Samiha Mandal,12,1,0,0,4,0,1,2,0,2,35,2.3,Textbook,Medium,113,39.4,Not Promoted,Intermediate Study Materials
+Kartik Kadakia,11,0,0,3,5,0,1,2,0,1,78,1.2,E-Book,Medium,107,68.03,Promoted,Intermediate Study Materials
+Lavanya Bhagat,12,1,0,2,1,0,1,2,0,5,50,0.9,Video Lesson,Basic,96,52.51,Promoted,Intermediate Study Materials
+Vivaan Lala,11,1,0,0,4,0,1,1,1,1,12,4.3,Online Quiz,Basic,102,62.15,Promoted,Intermediate Study Materials
+Aaina Vohra,18,0,0,2,1,3,2,1,2,1,25,4.9,Online Quiz,Medium,85,32.1,Not Promoted,Intermediate Study Materials
+Pari Ravi,12,0,0,3,5,2,0,1,1,4,10,1.1,Live Class,Medium,101,38.99,Not Promoted,Intermediate Study Materials
+Shamik Raval,11,1,0,4,3,1,2,1,2,5,22,4.5,Textbook,Advanced,107,37.4,Not Promoted,Intermediate Study Materials

@@ -1,0 +1,601 @@
+Name,Age,Gender,Country,State,City,Parent Occupation,Earning Class,Level of Student,Level of Course,Course Name,Assessment Score,Study Time Per Day,Material Name,Material Level,IQ of Student
+Sara Dutt,15,Female,India,West Bengal,Durgapur,Farmer,High,Intermediate,Intermediate,Chemistry,47,4.0,Video Lesson,Medium,97
+Romil Mane,14,Male,India,Maharashtra,Pune,Farmer,Low,Advanced,Beginner,Chemistry,8,3.0,Video Lesson,Advanced,97
+Lavanya Shroff,9,Male,India,Tamil Nadu,Coimbatore,Businessperson,Low,Advanced,Advanced,History,6,1.1,E-Book,Medium,84
+Mishti Zacharia,11,Female,India,Maharashtra,Nagpur,Doctor,Low,Intermediate,Advanced,Physics,25,4.7,Textbook,Advanced,134
+Manikya Bobal,10,Male,India,Uttar Pradesh,Kanpur,Teacher,High,Intermediate,Beginner,Science,58,1.6,Live Class,Advanced,108
+Divit Sharaf,18,Male,India,Karnataka,Hubli,Engineer,Low,Advanced,Advanced,Science,76,1.7,Textbook,Medium,136
+Anika Bajaj,6,Male,India,West Bengal,Durgapur,Engineer,Low,Intermediate,Beginner,Mathematics,56,1.2,Online Quiz,Advanced,123
+Shanaya Sekhon,15,Male,India,Tamil Nadu,Chennai,Farmer,High,Advanced,Beginner,Mathematics,72,3.0,Textbook,Basic,89
+Rasha Dhawan,18,Female,India,Karnataka,Hubli,Doctor,Middle,Intermediate,Advanced,History,63,2.4,Live Class,Medium,80
+Ojas Tata,18,Female,India,Maharashtra,Mumbai,Businessperson,Middle,Advanced,Intermediate,History,57,4.9,Textbook,Medium,106
+Neelofar Kala,16,Male,India,Karnataka,Bangalore,Doctor,Low,Advanced,Intermediate,Mathematics,5,2.7,Video Lesson,Medium,114
+Keya Chaudhari,8,Male,India,Uttar Pradesh,Lucknow,Farmer,Low,Intermediate,Beginner,Physics,33,2.1,Online Quiz,Advanced,140
+Hazel Sami,12,Male,India,West Bengal,Siliguri,Businessperson,Middle,Intermediate,Advanced,Chemistry,8,4.0,Textbook,Basic,108
+Ivana Mangal,8,Male,India,Maharashtra,Pune,Engineer,High,Intermediate,Intermediate,Physics,50,4.9,Video Lesson,Medium,81
+Raghav Dhaliwal,15,Male,India,West Bengal,Kolkata,Doctor,Middle,Advanced,Beginner,Mathematics,89,1.2,E-Book,Advanced,138
+Nakul Amble,18,Female,India,Tamil Nadu,Coimbatore,Businessperson,High,Beginner,Advanced,Chemistry,55,4.4,Live Class,Basic,114
+Bhamini Issac,8,Female,India,Uttar Pradesh,Varanasi,Businessperson,Low,Intermediate,Intermediate,Chemistry,67,1.6,E-Book,Advanced,105
+Amani Lalla,8,Male,India,Tamil Nadu,Chennai,Farmer,Middle,Intermediate,Intermediate,Computer Science,0,1.7,Live Class,Basic,123
+Keya Chauhan,16,Female,India,Karnataka,Mysore,Doctor,Middle,Beginner,Intermediate,Science,38,3.0,Online Quiz,Advanced,96
+Yashvi Hayer,14,Female,India,Karnataka,Bangalore,Teacher,Middle,Advanced,Beginner,Chemistry,87,1.8,E-Book,Advanced,120
+Nirvaan Setty,10,Female,India,Uttar Pradesh,Lucknow,Engineer,High,Intermediate,Beginner,Science,23,0.6,Textbook,Advanced,128
+Ahana  Kuruvilla,8,Female,India,West Bengal,Siliguri,Teacher,Low,Intermediate,Beginner,Mathematics,69,4.9,Live Class,Medium,125
+Akarsh Bhargava,7,Female,India,Uttar Pradesh,Lucknow,Engineer,High,Intermediate,Advanced,Chemistry,7,2.6,E-Book,Basic,138
+Amani Mammen,10,Male,India,Uttar Pradesh,Lucknow,Businessperson,Middle,Advanced,Advanced,History,36,3.1,Live Class,Advanced,102
+Mamooty Ahuja,11,Female,India,Maharashtra,Nagpur,Farmer,High,Beginner,Beginner,Mathematics,8,1.0,Textbook,Advanced,102
+Shanaya Dugar,6,Female,India,Maharashtra,Mumbai,Farmer,High,Intermediate,Beginner,Chemistry,4,1.6,Textbook,Advanced,127
+Kismat Bhardwaj,14,Female,India,Uttar Pradesh,Lucknow,Doctor,Low,Advanced,Intermediate,Physics,39,4.9,Video Lesson,Basic,131
+Anaya Doctor,17,Female,India,West Bengal,Kolkata,Engineer,High,Advanced,Intermediate,History,43,2.0,Online Quiz,Advanced,83
+Kartik Sunder,13,Male,India,Tamil Nadu,Chennai,Doctor,Low,Advanced,Intermediate,Computer Science,99,3.3,E-Book,Medium,100
+Nayantara Tella,12,Male,India,West Bengal,Durgapur,Doctor,Low,Intermediate,Beginner,Physics,100,1.6,Textbook,Advanced,129
+Miraan Dua,18,Female,India,Maharashtra,Nagpur,Engineer,Low,Intermediate,Advanced,Mathematics,6,3.7,E-Book,Basic,117
+Tarini Devan,9,Female,India,West Bengal,Durgapur,Teacher,Middle,Intermediate,Beginner,Science,93,4.3,Textbook,Advanced,96
+Saira Bose,16,Male,India,Maharashtra,Pune,Doctor,Low,Intermediate,Beginner,Science,20,2.9,Live Class,Medium,117
+Nitya Shan,11,Male,India,Karnataka,Mysore,Doctor,Low,Advanced,Advanced,Chemistry,12,1.1,E-Book,Basic,115
+Vedika Suri,6,Male,India,Karnataka,Mysore,Engineer,Low,Beginner,Advanced,History,14,1.4,Live Class,Medium,102
+Diya Dass,6,Female,India,Karnataka,Mysore,Businessperson,High,Intermediate,Intermediate,Physics,68,5.0,Textbook,Advanced,107
+Nishith Karpe,7,Male,India,West Bengal,Siliguri,Teacher,High,Beginner,Advanced,Mathematics,26,2.7,Textbook,Medium,86
+Neysa Bedi,9,Female,India,Maharashtra,Pune,Engineer,Low,Advanced,Intermediate,Chemistry,88,4.8,E-Book,Advanced,105
+Taimur Soman,17,Male,India,Maharashtra,Mumbai,Doctor,High,Beginner,Beginner,Chemistry,9,4.5,Video Lesson,Advanced,123
+Pranay Sood,16,Male,India,Karnataka,Hubli,Doctor,Low,Intermediate,Intermediate,Physics,97,3.7,Live Class,Basic,118
+Aarna Shankar,15,Male,India,West Bengal,Durgapur,Businessperson,High,Advanced,Intermediate,Mathematics,29,4.1,E-Book,Medium,94
+Darshit Gour,10,Female,India,Karnataka,Hubli,Engineer,Middle,Advanced,Beginner,Computer Science,33,1.4,E-Book,Basic,128
+Anvi Sura,6,Male,India,Tamil Nadu,Coimbatore,Engineer,Middle,Beginner,Advanced,Computer Science,10,3.9,Video Lesson,Advanced,81
+Veer Toor,11,Female,India,Tamil Nadu,Coimbatore,Businessperson,Low,Advanced,Intermediate,Science,15,2.9,Online Quiz,Basic,132
+Lavanya Anand,18,Female,India,Tamil Nadu,Chennai,Doctor,Middle,Intermediate,Intermediate,Physics,87,3.1,Live Class,Medium,107
+Misha Saran,7,Male,India,West Bengal,Durgapur,Teacher,Middle,Intermediate,Advanced,Physics,28,1.7,Textbook,Basic,131
+Anahi Kashyap,7,Female,India,West Bengal,Durgapur,Businessperson,Low,Intermediate,Intermediate,Chemistry,80,4.5,E-Book,Basic,136
+Sahil Gara,7,Male,India,West Bengal,Siliguri,Doctor,Low,Beginner,Intermediate,Science,25,0.7,Live Class,Medium,140
+Vivaan Chakrabarti,9,Male,India,Tamil Nadu,Coimbatore,Farmer,High,Intermediate,Beginner,Mathematics,92,2.6,Online Quiz,Basic,89
+Manikya Barad,14,Male,India,Uttar Pradesh,Kanpur,Teacher,High,Intermediate,Advanced,Mathematics,5,2.2,E-Book,Basic,80
+Aaryahi Mallick,9,Male,India,Uttar Pradesh,Lucknow,Engineer,Low,Beginner,Intermediate,Chemistry,56,2.8,Video Lesson,Basic,122
+Vardaniya Desai,16,Male,India,Karnataka,Bangalore,Doctor,Middle,Advanced,Advanced,History,15,1.1,Textbook,Basic,100
+Bhavin Char,10,Male,India,Karnataka,Mysore,Engineer,Middle,Beginner,Advanced,Science,48,4.8,Online Quiz,Basic,125
+Mahika Dua,9,Male,India,Karnataka,Mysore,Engineer,High,Intermediate,Beginner,History,29,1.0,Live Class,Basic,125
+Saira Dhillon,16,Female,India,West Bengal,Siliguri,Farmer,Low,Intermediate,Intermediate,Physics,91,2.2,E-Book,Basic,130
+Rhea Mallick,12,Female,India,Uttar Pradesh,Kanpur,Doctor,Middle,Intermediate,Beginner,Computer Science,64,3.9,E-Book,Advanced,124
+Zoya Jayaraman,11,Female,India,West Bengal,Siliguri,Businessperson,High,Intermediate,Intermediate,Chemistry,59,2.0,Online Quiz,Basic,127
+Ishita Varkey,11,Female,India,Maharashtra,Nagpur,Farmer,High,Intermediate,Advanced,Computer Science,72,3.8,Live Class,Basic,83
+Aaryahi Vohra,18,Male,India,Karnataka,Bangalore,Farmer,High,Intermediate,Beginner,Physics,31,2.7,Textbook,Medium,124
+Priyansh Srivastava,14,Male,India,Uttar Pradesh,Lucknow,Farmer,Middle,Beginner,Intermediate,History,30,3.3,Video Lesson,Advanced,108
+Abram Bhargava,6,Male,India,Uttar Pradesh,Varanasi,Businessperson,Middle,Advanced,Intermediate,History,52,2.1,Textbook,Medium,86
+Nirvi Divan,6,Male,India,Karnataka,Mysore,Doctor,High,Beginner,Beginner,Science,4,0.9,Online Quiz,Basic,95
+Madhup Sharaf,11,Female,India,Karnataka,Hubli,Doctor,Middle,Advanced,Beginner,Mathematics,29,2.5,Online Quiz,Medium,137
+Rati Deshmukh,13,Female,India,Maharashtra,Mumbai,Engineer,High,Intermediate,Advanced,Computer Science,34,3.1,Live Class,Medium,106
+Dharmajan Toor,6,Male,India,West Bengal,Siliguri,Farmer,High,Intermediate,Beginner,History,5,2.3,E-Book,Basic,105
+Zoya Thaman,16,Female,India,Karnataka,Mysore,Farmer,Middle,Beginner,Intermediate,Science,52,0.8,Live Class,Advanced,128
+Kismat Sant,6,Female,India,Tamil Nadu,Madurai,Farmer,Low,Beginner,Beginner,Chemistry,100,1.8,Online Quiz,Advanced,108
+Drishya Gour,10,Male,India,Uttar Pradesh,Lucknow,Engineer,Low,Advanced,Intermediate,Physics,80,4.9,Online Quiz,Advanced,129
+Umang Shukla,13,Male,India,Karnataka,Bangalore,Businessperson,Low,Beginner,Beginner,Computer Science,7,1.3,Textbook,Advanced,129
+Advika Barad,14,Male,India,West Bengal,Kolkata,Engineer,High,Beginner,Intermediate,Chemistry,6,3.9,Video Lesson,Medium,125
+Farhan Dugar,8,Female,India,Maharashtra,Pune,Farmer,Middle,Intermediate,Intermediate,History,26,4.7,Online Quiz,Advanced,101
+Vihaan Sarma,7,Male,India,West Bengal,Durgapur,Doctor,High,Beginner,Beginner,Computer Science,61,4.6,Video Lesson,Basic,95
+Badal Lalla,9,Male,India,West Bengal,Durgapur,Engineer,Low,Beginner,Intermediate,Computer Science,51,3.6,E-Book,Medium,90
+Ela Thakkar,11,Male,India,Uttar Pradesh,Varanasi,Doctor,Low,Advanced,Intermediate,Physics,23,2.2,Online Quiz,Medium,125
+Mamooty Datta,15,Female,India,Karnataka,Bangalore,Teacher,Low,Advanced,Intermediate,History,77,4.4,Online Quiz,Basic,121
+Jivika Viswanathan,18,Male,India,Karnataka,Hubli,Doctor,Low,Advanced,Beginner,Mathematics,52,2.9,Online Quiz,Basic,130
+Biju Sharaf,16,Female,India,Karnataka,Mysore,Teacher,Low,Beginner,Intermediate,Physics,89,1.9,Textbook,Advanced,109
+Tejas Arya,16,Female,India,West Bengal,Durgapur,Farmer,Low,Beginner,Beginner,Physics,20,1.6,Live Class,Medium,118
+Ivana Loke,7,Female,India,Uttar Pradesh,Varanasi,Doctor,Low,Intermediate,Intermediate,Computer Science,28,2.1,Online Quiz,Advanced,131
+Suhana Chandran,17,Male,India,Tamil Nadu,Coimbatore,Businessperson,High,Advanced,Intermediate,History,0,1.7,Online Quiz,Basic,116
+Raunak Ray,8,Female,India,Uttar Pradesh,Varanasi,Engineer,Low,Intermediate,Beginner,Mathematics,55,4.0,E-Book,Basic,125
+Akarsh Wali,13,Female,India,Tamil Nadu,Madurai,Doctor,Middle,Beginner,Intermediate,Computer Science,10,0.9,Live Class,Basic,88
+Uthkarsh Agarwal,17,Female,India,Uttar Pradesh,Kanpur,Farmer,High,Intermediate,Intermediate,Science,37,3.4,Online Quiz,Medium,92
+Advik Atwal,13,Male,India,Uttar Pradesh,Varanasi,Teacher,High,Advanced,Intermediate,Physics,16,2.3,Textbook,Medium,99
+Anahi Bains,12,Male,India,Uttar Pradesh,Varanasi,Businessperson,Low,Beginner,Intermediate,Mathematics,17,2.1,Video Lesson,Basic,96
+Ayesha Maharaj,9,Male,India,Tamil Nadu,Chennai,Businessperson,Middle,Beginner,Beginner,Chemistry,74,4.4,Live Class,Basic,98
+Vanya Ramanathan,15,Female,India,West Bengal,Kolkata,Teacher,Middle,Advanced,Advanced,Science,67,3.6,E-Book,Basic,88
+Alia Gopal,17,Female,India,Maharashtra,Mumbai,Businessperson,Low,Beginner,Intermediate,Chemistry,25,2.6,Video Lesson,Advanced,119
+Azad Dash,11,Female,India,Tamil Nadu,Madurai,Engineer,High,Intermediate,Beginner,History,52,3.3,E-Book,Medium,134
+Yuvraj  Deshmukh,17,Female,India,Karnataka,Mysore,Teacher,High,Advanced,Beginner,Chemistry,95,4.1,Video Lesson,Medium,124
+Abram Bath,15,Male,India,Karnataka,Mysore,Doctor,High,Advanced,Advanced,Mathematics,14,4.8,Textbook,Medium,95
+Neysa Sagar,13,Male,India,West Bengal,Durgapur,Doctor,High,Advanced,Beginner,History,48,1.6,Video Lesson,Advanced,131
+Onkar Bassi,7,Female,India,Uttar Pradesh,Varanasi,Farmer,Middle,Intermediate,Intermediate,Science,46,3.2,E-Book,Advanced,133
+Shray Loyal,17,Male,India,Tamil Nadu,Coimbatore,Doctor,Low,Intermediate,Beginner,History,5,1.7,Video Lesson,Advanced,86
+Mahika Amble,14,Female,India,Tamil Nadu,Madurai,Doctor,High,Intermediate,Intermediate,Computer Science,49,1.0,Textbook,Medium,94
+Raghav Comar,12,Male,India,Maharashtra,Pune,Engineer,Middle,Intermediate,Intermediate,Computer Science,7,1.0,Live Class,Medium,88
+Madhav Gopal,7,Female,India,Maharashtra,Nagpur,Doctor,High,Intermediate,Advanced,Mathematics,31,4.6,Online Quiz,Basic,88
+Siya Sarraf,10,Female,India,Tamil Nadu,Coimbatore,Businessperson,Middle,Intermediate,Beginner,Chemistry,20,2.6,Live Class,Medium,100
+Navya Lad,6,Female,India,Tamil Nadu,Chennai,Businessperson,Low,Beginner,Intermediate,Computer Science,98,4.3,Textbook,Basic,120
+Zaina Bhasin,7,Male,India,Tamil Nadu,Chennai,Doctor,Low,Beginner,Beginner,Physics,7,2.7,Video Lesson,Medium,86
+Yashvi Shukla,10,Female,India,Tamil Nadu,Chennai,Engineer,High,Advanced,Intermediate,History,97,1.2,Online Quiz,Basic,81
+Zaina Warrior,10,Female,India,Maharashtra,Nagpur,Farmer,Middle,Beginner,Intermediate,Chemistry,33,4.8,Textbook,Basic,139
+Bhamini Mahal,15,Male,India,West Bengal,Durgapur,Teacher,High,Intermediate,Advanced,History,23,1.2,Video Lesson,Medium,122
+Arhaan Dhar,8,Female,India,Karnataka,Mysore,Doctor,Middle,Advanced,Intermediate,Mathematics,89,1.2,Video Lesson,Medium,126
+Rasha Varty,10,Male,India,Maharashtra,Mumbai,Teacher,Middle,Advanced,Advanced,Computer Science,86,2.0,Live Class,Advanced,130
+Onkar Raju,17,Male,India,Maharashtra,Pune,Doctor,Middle,Intermediate,Advanced,History,74,4.4,E-Book,Advanced,117
+Reyansh Sahota,8,Female,India,Maharashtra,Nagpur,Teacher,High,Beginner,Advanced,History,66,2.3,E-Book,Advanced,106
+Stuvan Hans,7,Male,India,Maharashtra,Nagpur,Doctor,High,Intermediate,Advanced,Chemistry,14,3.5,Textbook,Advanced,103
+Dharmajan Kari,8,Male,India,Uttar Pradesh,Varanasi,Doctor,Low,Advanced,Beginner,Chemistry,80,1.7,Textbook,Basic,115
+Zaina Handa,7,Female,India,Uttar Pradesh,Varanasi,Engineer,Low,Advanced,Intermediate,Physics,98,3.5,Online Quiz,Basic,90
+Dishani Dani,13,Male,India,Maharashtra,Mumbai,Farmer,Low,Intermediate,Advanced,Mathematics,48,1.9,Video Lesson,Advanced,100
+Abram Bhagat,15,Female,India,Maharashtra,Mumbai,Doctor,Low,Intermediate,Advanced,Computer Science,97,2.2,Live Class,Basic,131
+Samar Srivastava,17,Male,India,Tamil Nadu,Madurai,Businessperson,Low,Intermediate,Advanced,Computer Science,18,1.4,E-Book,Medium,101
+Anvi Sur,13,Male,India,Maharashtra,Pune,Teacher,Low,Beginner,Beginner,Computer Science,46,0.5,Textbook,Medium,127
+Anika Batra,9,Male,India,Tamil Nadu,Coimbatore,Engineer,Middle,Advanced,Intermediate,Computer Science,83,4.8,Textbook,Advanced,116
+Kimaya Chopra,9,Female,India,West Bengal,Kolkata,Teacher,Low,Intermediate,Intermediate,Science,23,1.6,Textbook,Medium,123
+Alia Varughese,7,Male,India,Uttar Pradesh,Lucknow,Businessperson,Middle,Beginner,Beginner,Computer Science,66,1.1,E-Book,Basic,115
+Aaryahi Krishna,6,Male,India,Maharashtra,Mumbai,Teacher,Low,Advanced,Intermediate,History,80,0.8,Live Class,Medium,93
+Mahika Manne,18,Female,India,Tamil Nadu,Madurai,Engineer,High,Intermediate,Beginner,Mathematics,67,2.8,Textbook,Basic,97
+Kimaya Kapoor,12,Female,India,Maharashtra,Mumbai,Engineer,Middle,Advanced,Advanced,Mathematics,99,1.3,Online Quiz,Advanced,95
+Anahi Guha,6,Male,India,Tamil Nadu,Madurai,Doctor,Low,Intermediate,Beginner,Science,60,1.8,E-Book,Basic,135
+Kiaan Andra,10,Male,India,Tamil Nadu,Chennai,Engineer,Middle,Intermediate,Advanced,Science,36,4.3,Video Lesson,Basic,91
+Shayak Sharma,15,Male,India,Maharashtra,Mumbai,Engineer,High,Beginner,Beginner,History,75,0.6,Live Class,Advanced,127
+Ela Issac,12,Male,India,West Bengal,Kolkata,Farmer,Middle,Advanced,Intermediate,Science,89,3.6,Online Quiz,Advanced,109
+Rati Golla,6,Male,India,Maharashtra,Pune,Farmer,Low,Intermediate,Beginner,Computer Science,31,1.1,Textbook,Advanced,133
+Shamik Bail,6,Male,India,West Bengal,Siliguri,Businessperson,High,Beginner,Intermediate,Physics,59,4.3,E-Book,Advanced,138
+Akarsh Tella,12,Female,India,Karnataka,Mysore,Engineer,High,Intermediate,Beginner,Chemistry,37,2.2,Textbook,Advanced,89
+Raghav Ganesh,15,Female,India,West Bengal,Durgapur,Farmer,Low,Advanced,Intermediate,Science,86,2.3,Live Class,Basic,108
+Jiya Dugal,8,Male,India,West Bengal,Durgapur,Teacher,Low,Advanced,Advanced,History,32,1.4,Online Quiz,Advanced,93
+Keya Johal,18,Female,India,Tamil Nadu,Coimbatore,Teacher,Middle,Intermediate,Beginner,Science,1,2.1,Live Class,Advanced,89
+Dhruv Chada,12,Male,India,Karnataka,Mysore,Engineer,High,Intermediate,Advanced,Computer Science,37,3.4,Textbook,Advanced,115
+Samar Kade,14,Male,India,West Bengal,Kolkata,Farmer,High,Advanced,Beginner,Computer Science,87,4.5,Live Class,Basic,98
+Dhruv Sen,13,Male,India,Maharashtra,Pune,Doctor,Low,Intermediate,Intermediate,Computer Science,91,0.8,E-Book,Basic,119
+Sana Baral,12,Female,India,Uttar Pradesh,Lucknow,Teacher,Low,Advanced,Beginner,History,77,0.8,E-Book,Medium,85
+Ira Sekhon,6,Female,India,Maharashtra,Nagpur,Engineer,Low,Beginner,Advanced,History,64,1.9,Live Class,Basic,120
+Nitya Shanker,16,Male,India,Tamil Nadu,Coimbatore,Doctor,High,Advanced,Advanced,Physics,27,3.5,Live Class,Basic,97
+Sara Kade,9,Male,India,Maharashtra,Mumbai,Engineer,Middle,Advanced,Beginner,Computer Science,74,1.9,Textbook,Advanced,103
+Sana Yadav,9,Male,India,Karnataka,Mysore,Engineer,Low,Intermediate,Intermediate,Mathematics,22,4.6,Video Lesson,Basic,89
+Neelofar Chahal,7,Male,India,Maharashtra,Nagpur,Engineer,High,Beginner,Advanced,Chemistry,47,3.9,Video Lesson,Basic,99
+Madhav Halder,12,Female,India,West Bengal,Siliguri,Doctor,Low,Advanced,Beginner,History,100,1.9,Video Lesson,Advanced,116
+Nitara Chanda,18,Female,India,Maharashtra,Mumbai,Farmer,Middle,Advanced,Beginner,Chemistry,40,2.0,Live Class,Advanced,80
+Aaryahi Kuruvilla,12,Male,India,Karnataka,Hubli,Farmer,High,Intermediate,Beginner,History,12,1.6,Textbook,Advanced,98
+Dhruv Chaudry,18,Male,India,Tamil Nadu,Chennai,Teacher,High,Intermediate,Advanced,Computer Science,25,2.2,Live Class,Advanced,122
+Uthkarsh Gopal,13,Female,India,Maharashtra,Nagpur,Farmer,Middle,Advanced,Advanced,Science,85,1.2,Video Lesson,Advanced,98
+Yuvraj  Khurana,7,Male,India,West Bengal,Siliguri,Farmer,Low,Intermediate,Advanced,Physics,21,1.7,Live Class,Advanced,129
+Renee Shanker,6,Female,India,Uttar Pradesh,Varanasi,Engineer,Low,Beginner,Beginner,Mathematics,89,4.3,Textbook,Basic,111
+Yuvraj  Sathe,14,Female,India,West Bengal,Kolkata,Doctor,Low,Beginner,Intermediate,Physics,6,0.9,Online Quiz,Advanced,116
+Lakshit Tandon,9,Female,India,Tamil Nadu,Coimbatore,Doctor,Low,Advanced,Intermediate,Chemistry,38,4.7,E-Book,Advanced,84
+Vardaniya Bhakta,8,Male,India,Uttar Pradesh,Kanpur,Teacher,High,Beginner,Advanced,Science,72,2.1,Online Quiz,Medium,115
+Seher Sarna,10,Female,India,Tamil Nadu,Coimbatore,Doctor,Middle,Beginner,Intermediate,Physics,23,0.8,E-Book,Basic,132
+Kanav Sarkar,13,Male,India,West Bengal,Durgapur,Businessperson,Middle,Beginner,Intermediate,Chemistry,65,1.4,Video Lesson,Basic,110
+Drishya Bajaj,10,Male,India,Uttar Pradesh,Lucknow,Farmer,High,Advanced,Advanced,Mathematics,17,3.1,Live Class,Medium,118
+Saanvi Majumdar,11,Male,India,Tamil Nadu,Madurai,Doctor,Low,Intermediate,Beginner,Physics,52,2.9,Video Lesson,Basic,82
+Jayesh Kanda,13,Female,India,West Bengal,Durgapur,Businessperson,Middle,Intermediate,Advanced,Science,77,4.8,Textbook,Basic,110
+Ayesha Kunda,18,Male,India,Uttar Pradesh,Varanasi,Teacher,Low,Beginner,Advanced,Science,97,1.2,Textbook,Advanced,117
+Damini Jhaveri,14,Female,India,Uttar Pradesh,Kanpur,Businessperson,Middle,Advanced,Intermediate,History,46,4.5,Video Lesson,Medium,108
+Damini Chopra,12,Female,India,Karnataka,Bangalore,Businessperson,High,Advanced,Intermediate,Science,37,1.7,Textbook,Medium,107
+Nakul Chanda,13,Male,India,Uttar Pradesh,Kanpur,Engineer,Middle,Advanced,Advanced,Mathematics,32,3.9,Textbook,Basic,98
+Hrishita Dyal,14,Female,India,Karnataka,Hubli,Engineer,Middle,Advanced,Intermediate,Mathematics,82,4.2,E-Book,Advanced,117
+Abram Ghosh,11,Female,India,West Bengal,Kolkata,Teacher,Low,Intermediate,Advanced,Computer Science,98,1.6,Video Lesson,Medium,88
+Trisha Singh,14,Female,India,Maharashtra,Pune,Farmer,Middle,Beginner,Beginner,Mathematics,65,4.5,Online Quiz,Advanced,98
+Hrishita Kanda,13,Male,India,Uttar Pradesh,Varanasi,Farmer,Low,Advanced,Beginner,Science,54,3.7,Video Lesson,Basic,118
+Misha Bhavsar,8,Female,India,Uttar Pradesh,Lucknow,Farmer,Low,Beginner,Intermediate,Physics,29,1.0,E-Book,Medium,83
+Amani Gole,12,Female,India,West Bengal,Durgapur,Businessperson,Middle,Beginner,Advanced,History,24,4.5,E-Book,Basic,114
+Himmat Kale,15,Female,India,Maharashtra,Mumbai,Teacher,High,Intermediate,Advanced,Physics,88,4.0,Live Class,Advanced,101
+Indrans Ramaswamy,17,Male,India,Tamil Nadu,Madurai,Engineer,Low,Intermediate,Intermediate,History,34,1.6,Live Class,Basic,102
+Sara Dora,12,Female,India,Karnataka,Mysore,Teacher,High,Intermediate,Intermediate,History,15,3.4,Video Lesson,Basic,93
+Rohan Dhaliwal,7,Male,India,Karnataka,Bangalore,Businessperson,Low,Advanced,Advanced,Physics,6,4.9,Live Class,Basic,128
+Onkar Aggarwal,6,Female,India,Maharashtra,Pune,Farmer,High,Intermediate,Beginner,Physics,2,3.4,Live Class,Medium,96
+Madhup Issac,18,Male,India,Uttar Pradesh,Kanpur,Doctor,High,Intermediate,Advanced,Science,90,0.6,Online Quiz,Medium,81
+Lakshay Hari,18,Male,India,Karnataka,Mysore,Teacher,High,Beginner,Intermediate,Mathematics,71,2.2,Video Lesson,Advanced,107
+Nakul Sampath,18,Female,India,Uttar Pradesh,Kanpur,Doctor,Middle,Intermediate,Intermediate,Computer Science,41,3.1,Online Quiz,Medium,135
+Shray Manne,12,Male,India,Uttar Pradesh,Lucknow,Businessperson,Middle,Beginner,Advanced,Mathematics,46,1.6,E-Book,Medium,129
+Rania Savant,10,Male,India,Maharashtra,Mumbai,Doctor,High,Beginner,Intermediate,Physics,80,2.1,E-Book,Advanced,87
+Riaan Sachar,13,Female,India,Maharashtra,Nagpur,Farmer,High,Advanced,Intermediate,Chemistry,79,4.3,Live Class,Medium,85
+Badal Chadha,6,Female,India,Uttar Pradesh,Lucknow,Farmer,High,Advanced,Intermediate,Science,52,0.6,Video Lesson,Basic,115
+Biju Chada,6,Female,India,Maharashtra,Pune,Farmer,High,Intermediate,Beginner,Computer Science,4,3.6,Video Lesson,Basic,81
+Anay Trivedi,15,Male,India,Tamil Nadu,Madurai,Businessperson,High,Beginner,Beginner,History,86,2.5,Online Quiz,Basic,129
+Neelofar Bhalla,17,Female,India,Karnataka,Hubli,Doctor,Middle,Advanced,Intermediate,Computer Science,45,3.8,Textbook,Medium,124
+Urvi Das,11,Female,India,Uttar Pradesh,Kanpur,Teacher,Middle,Intermediate,Intermediate,Science,46,0.7,Textbook,Basic,88
+Priyansh Chopra,15,Male,India,West Bengal,Siliguri,Teacher,Middle,Advanced,Beginner,Science,37,1.9,Live Class,Advanced,116
+Neelofar Shah,14,Male,India,Tamil Nadu,Chennai,Businessperson,High,Intermediate,Intermediate,Physics,70,2.4,Online Quiz,Medium,85
+Yashvi Bakshi,9,Male,India,West Bengal,Siliguri,Farmer,Low,Intermediate,Beginner,Chemistry,91,1.7,Live Class,Basic,82
+Uthkarsh Sanghvi,10,Female,India,Uttar Pradesh,Lucknow,Engineer,High,Beginner,Intermediate,Physics,27,1.9,E-Book,Medium,92
+Saira Vyas,13,Female,India,Tamil Nadu,Madurai,Engineer,Low,Intermediate,Beginner,Chemistry,55,2.0,E-Book,Advanced,102
+Kiara Maharaj,8,Male,India,Uttar Pradesh,Varanasi,Farmer,Middle,Advanced,Beginner,Mathematics,1,2.2,Online Quiz,Advanced,122
+Saanvi Sachdeva,8,Female,India,West Bengal,Durgapur,Businessperson,Middle,Intermediate,Intermediate,Science,55,2.0,Textbook,Medium,120
+Raghav Jhaveri,18,Male,India,Tamil Nadu,Chennai,Farmer,Low,Intermediate,Beginner,Computer Science,6,1.0,E-Book,Basic,120
+Jayesh Aurora,11,Female,India,Uttar Pradesh,Kanpur,Engineer,Low,Beginner,Beginner,Mathematics,47,1.3,Video Lesson,Medium,127
+Abram Sinha,16,Male,India,West Bengal,Durgapur,Businessperson,Low,Advanced,Intermediate,Science,33,3.0,Online Quiz,Basic,86
+Veer Kapoor,11,Male,India,Maharashtra,Pune,Teacher,Low,Intermediate,Beginner,History,47,2.3,E-Book,Advanced,130
+Saanvi Dara,10,Male,India,West Bengal,Siliguri,Farmer,Low,Intermediate,Advanced,Science,54,3.8,E-Book,Advanced,90
+Tarini Saxena,9,Male,India,Uttar Pradesh,Varanasi,Engineer,Low,Advanced,Beginner,History,50,0.9,Live Class,Basic,115
+Mehul Lad,9,Female,India,Tamil Nadu,Chennai,Farmer,Low,Advanced,Beginner,Mathematics,44,3.8,Online Quiz,Basic,120
+Veer Ahuja,8,Male,India,Uttar Pradesh,Varanasi,Doctor,Low,Beginner,Advanced,History,72,1.0,Textbook,Basic,130
+Aarush Taneja,17,Female,India,Uttar Pradesh,Lucknow,Teacher,Low,Intermediate,Advanced,Chemistry,78,1.8,Video Lesson,Basic,131
+Trisha Bansal,18,Male,India,West Bengal,Durgapur,Doctor,Middle,Intermediate,Intermediate,Science,92,4.1,Online Quiz,Basic,105
+Aarav Mandal,12,Male,India,Tamil Nadu,Madurai,Doctor,High,Advanced,Advanced,Mathematics,28,2.7,Textbook,Basic,89
+Nayantara Ganesan,12,Male,India,Karnataka,Hubli,Teacher,Middle,Advanced,Advanced,Science,72,2.1,Video Lesson,Basic,123
+Aradhya Ramachandran,12,Female,India,West Bengal,Siliguri,Engineer,Middle,Advanced,Intermediate,Chemistry,95,2.2,Textbook,Basic,100
+Vaibhav Savant,7,Female,India,Uttar Pradesh,Varanasi,Farmer,Low,Intermediate,Beginner,Chemistry,51,0.7,Video Lesson,Basic,124
+Stuvan Tara,9,Female,India,Karnataka,Hubli,Engineer,Low,Beginner,Intermediate,Chemistry,50,1.4,Textbook,Advanced,89
+Alia Sur,9,Male,India,Tamil Nadu,Coimbatore,Farmer,Middle,Intermediate,Intermediate,Mathematics,53,1.7,Live Class,Advanced,84
+Anahi Hora,8,Female,India,Uttar Pradesh,Varanasi,Farmer,High,Intermediate,Intermediate,Science,66,3.6,Live Class,Basic,99
+Vardaniya Salvi,12,Female,India,Tamil Nadu,Madurai,Farmer,Low,Advanced,Advanced,Computer Science,36,3.2,E-Book,Medium,118
+Nayantara Vasa,6,Male,India,Tamil Nadu,Coimbatore,Businessperson,Low,Intermediate,Advanced,Science,55,1.1,Video Lesson,Medium,99
+Eshani Singhal,8,Female,India,Maharashtra,Mumbai,Businessperson,Low,Beginner,Advanced,Physics,47,1.4,Textbook,Advanced,129
+Ryan Sarraf,14,Male,India,Karnataka,Mysore,Doctor,Middle,Intermediate,Advanced,Science,81,2.1,Live Class,Advanced,130
+Vedika Kibe,8,Male,India,Maharashtra,Mumbai,Businessperson,Middle,Intermediate,Advanced,Computer Science,78,4.9,Textbook,Basic,101
+Pihu Barad,8,Male,India,Maharashtra,Mumbai,Businessperson,Middle,Intermediate,Advanced,Computer Science,94,0.6,Online Quiz,Medium,90
+Chirag Bhatti,15,Female,India,Uttar Pradesh,Lucknow,Farmer,Middle,Advanced,Advanced,Science,7,1.7,Live Class,Basic,95
+Zeeshan Barad,6,Male,India,Maharashtra,Mumbai,Doctor,Low,Advanced,Beginner,Computer Science,100,0.7,E-Book,Medium,107
+Kartik Ghose,13,Female,India,West Bengal,Siliguri,Businessperson,Low,Intermediate,Advanced,Chemistry,24,4.2,E-Book,Advanced,135
+Nirvi Rajagopal,7,Male,India,Karnataka,Hubli,Teacher,High,Intermediate,Advanced,History,78,4.5,Video Lesson,Basic,138
+Alisha Chaudry,13,Male,India,West Bengal,Durgapur,Farmer,Low,Intermediate,Intermediate,Mathematics,16,2.3,Live Class,Basic,119
+Parinaaz Chand,16,Male,India,West Bengal,Siliguri,Engineer,Middle,Intermediate,Beginner,History,17,5.0,Live Class,Advanced,106
+Krish Varghese,15,Female,India,Maharashtra,Pune,Teacher,Middle,Advanced,Advanced,History,52,4.9,Video Lesson,Basic,116
+Yuvraj  Baral,13,Female,India,Karnataka,Bangalore,Doctor,Low,Advanced,Advanced,Physics,9,2.3,E-Book,Medium,137
+Ranbir Mann,6,Male,India,Karnataka,Mysore,Farmer,High,Beginner,Intermediate,History,16,0.5,Video Lesson,Advanced,116
+Khushi Sarma,18,Male,India,Maharashtra,Mumbai,Farmer,Middle,Beginner,Intermediate,Science,92,3.5,E-Book,Medium,90
+Anika Bobal,18,Male,India,West Bengal,Kolkata,Engineer,High,Intermediate,Advanced,History,90,0.6,Live Class,Medium,122
+Prerak Borah,13,Male,India,Maharashtra,Nagpur,Businessperson,Middle,Advanced,Intermediate,Physics,41,1.1,E-Book,Advanced,86
+Jiya Chana,18,Male,India,Tamil Nadu,Coimbatore,Engineer,High,Intermediate,Beginner,History,25,1.7,Live Class,Medium,106
+Reyansh Dey,8,Female,India,Tamil Nadu,Coimbatore,Farmer,Low,Beginner,Beginner,Physics,9,4.7,Live Class,Medium,104
+Chirag Behl,9,Male,India,Uttar Pradesh,Kanpur,Engineer,Low,Intermediate,Intermediate,Mathematics,97,2.1,Video Lesson,Basic,82
+Adira Venkatesh,14,Male,India,Karnataka,Mysore,Businessperson,Middle,Advanced,Beginner,Science,41,4.4,Live Class,Medium,110
+Vritika Setty,9,Female,India,Tamil Nadu,Coimbatore,Engineer,Low,Beginner,Intermediate,Mathematics,98,4.9,Online Quiz,Basic,113
+Chirag Kade,6,Female,India,Uttar Pradesh,Kanpur,Businessperson,Low,Advanced,Advanced,Mathematics,5,1.1,Textbook,Basic,115
+Kabir Sarma,10,Male,India,Uttar Pradesh,Lucknow,Farmer,Middle,Beginner,Intermediate,Physics,21,4.4,Online Quiz,Medium,106
+Tushar Gokhale,7,Male,India,Uttar Pradesh,Lucknow,Doctor,Middle,Beginner,Intermediate,History,30,0.6,Online Quiz,Basic,89
+Nirvaan Rastogi,6,Female,India,Maharashtra,Pune,Doctor,Low,Intermediate,Intermediate,Physics,68,4.9,Textbook,Advanced,114
+Ela Yohannan,16,Female,India,Karnataka,Hubli,Doctor,Low,Beginner,Intermediate,Mathematics,35,4.4,E-Book,Basic,95
+Faiyaz Kannan,17,Male,India,Tamil Nadu,Coimbatore,Businessperson,High,Beginner,Intermediate,Computer Science,77,4.7,Textbook,Basic,129
+Aarna Manda,7,Female,India,Uttar Pradesh,Kanpur,Teacher,Low,Advanced,Advanced,Mathematics,17,0.8,E-Book,Advanced,118
+Rati Manda,18,Male,India,Maharashtra,Mumbai,Teacher,Low,Beginner,Beginner,Computer Science,22,3.4,E-Book,Medium,129
+Baiju Thakkar,18,Male,India,Maharashtra,Pune,Farmer,Middle,Beginner,Beginner,Chemistry,69,1.8,E-Book,Advanced,93
+Priyansh Master,18,Male,India,West Bengal,Siliguri,Farmer,Middle,Advanced,Beginner,Science,95,4.6,E-Book,Medium,96
+Veer Bahl,12,Male,India,Maharashtra,Nagpur,Businessperson,High,Intermediate,Beginner,Physics,91,4.5,E-Book,Basic,82
+Khushi Dugal,17,Male,India,Karnataka,Bangalore,Teacher,High,Advanced,Advanced,Computer Science,11,1.0,E-Book,Basic,109
+Dhanuk Kota,15,Female,India,Maharashtra,Nagpur,Teacher,Middle,Beginner,Advanced,Science,32,3.3,E-Book,Basic,104
+Yuvraj  Mahal,13,Female,India,Karnataka,Hubli,Businessperson,High,Advanced,Advanced,Mathematics,21,3.5,E-Book,Medium,96
+Anay Gaba,9,Male,India,Karnataka,Hubli,Teacher,Middle,Advanced,Beginner,Chemistry,88,1.9,Online Quiz,Medium,109
+Riaan Dewan,16,Female,India,Tamil Nadu,Chennai,Businessperson,Low,Beginner,Intermediate,Physics,5,4.2,E-Book,Medium,130
+Kiaan Sule,15,Female,India,West Bengal,Kolkata,Farmer,Low,Beginner,Advanced,Physics,10,5.0,E-Book,Basic,94
+Alia Sarma,15,Male,India,West Bengal,Kolkata,Farmer,Middle,Beginner,Advanced,Computer Science,49,3.7,Online Quiz,Advanced,84
+Hansh Mann,9,Female,India,Tamil Nadu,Coimbatore,Farmer,Low,Beginner,Intermediate,Science,1,1.0,Live Class,Basic,139
+Vedika Madan,16,Female,India,Karnataka,Hubli,Engineer,High,Advanced,Advanced,History,12,3.3,Online Quiz,Basic,85
+Anaya Saxena,6,Male,India,West Bengal,Kolkata,Teacher,High,Advanced,Beginner,Physics,18,3.2,E-Book,Medium,138
+Vaibhav Tripathi,9,Female,India,Karnataka,Hubli,Businessperson,High,Intermediate,Intermediate,Science,6,4.8,E-Book,Medium,108
+Lagan Sangha,14,Female,India,Tamil Nadu,Madurai,Businessperson,High,Advanced,Beginner,Science,51,2.5,Textbook,Basic,129
+Damini Madan,14,Male,India,Tamil Nadu,Coimbatore,Engineer,High,Intermediate,Intermediate,Chemistry,52,2.6,Textbook,Basic,114
+Rania Chander,6,Male,India,Maharashtra,Mumbai,Businessperson,Middle,Beginner,Beginner,Chemistry,12,0.9,Live Class,Medium,135
+Dharmajan Mall,9,Female,India,Karnataka,Mysore,Farmer,High,Beginner,Advanced,Science,36,0.6,E-Book,Advanced,128
+Lakshit Shankar,7,Male,India,Tamil Nadu,Chennai,Teacher,Middle,Advanced,Advanced,Mathematics,19,1.5,Video Lesson,Basic,136
+Jivin Balan,17,Male,India,Karnataka,Mysore,Businessperson,High,Intermediate,Intermediate,Physics,40,3.9,Online Quiz,Basic,96
+Darshit Raman,16,Male,India,Tamil Nadu,Coimbatore,Farmer,Middle,Intermediate,Beginner,History,56,4.9,Video Lesson,Medium,132
+Shayak Randhawa,17,Male,India,Karnataka,Hubli,Teacher,Low,Advanced,Intermediate,Chemistry,60,2.2,Live Class,Basic,127
+Ehsaan Khurana,14,Female,India,Uttar Pradesh,Kanpur,Engineer,Low,Beginner,Advanced,Physics,50,1.6,Video Lesson,Advanced,86
+Hridaan Malhotra,17,Female,India,Karnataka,Mysore,Engineer,Low,Beginner,Beginner,Physics,51,2.0,Online Quiz,Medium,96
+Shanaya Roy,10,Female,India,Tamil Nadu,Chennai,Farmer,Middle,Intermediate,Advanced,Physics,70,1.5,E-Book,Medium,129
+Dharmajan Dara,7,Male,India,West Bengal,Siliguri,Engineer,Middle,Beginner,Advanced,Computer Science,61,3.3,Video Lesson,Basic,88
+Arnav Sarna,18,Female,India,West Bengal,Kolkata,Farmer,High,Intermediate,Advanced,Mathematics,84,4.4,E-Book,Medium,125
+Badal Kadakia,13,Female,India,Karnataka,Hubli,Teacher,Low,Advanced,Beginner,Computer Science,0,4.1,Textbook,Advanced,87
+Shray Karpe,14,Female,India,West Bengal,Durgapur,Farmer,Middle,Beginner,Intermediate,Chemistry,91,2.3,Online Quiz,Advanced,105
+Fateh Din,14,Female,India,Maharashtra,Pune,Teacher,High,Advanced,Intermediate,Chemistry,11,0.7,Textbook,Medium,124
+Yuvraj  Bhalla,9,Male,India,Tamil Nadu,Coimbatore,Businessperson,Middle,Advanced,Advanced,Science,91,2.5,Video Lesson,Basic,139
+Ira Doctor,12,Male,India,Uttar Pradesh,Lucknow,Doctor,High,Advanced,Advanced,Science,93,3.0,Live Class,Advanced,95
+Tushar Wadhwa,14,Male,India,Tamil Nadu,Madurai,Doctor,Low,Beginner,Intermediate,Chemistry,18,1.9,E-Book,Basic,134
+Zain Halder,6,Male,India,West Bengal,Siliguri,Teacher,High,Advanced,Beginner,Mathematics,78,0.8,Online Quiz,Basic,84
+Amani Chand,8,Female,India,Uttar Pradesh,Kanpur,Businessperson,High,Beginner,Advanced,Science,86,2.7,Online Quiz,Basic,109
+Ojas Jaggi,16,Female,India,West Bengal,Durgapur,Engineer,High,Advanced,Advanced,Chemistry,6,4.2,Live Class,Advanced,123
+Rohan Srivastava,10,Female,India,Karnataka,Hubli,Teacher,Low,Intermediate,Intermediate,Computer Science,29,2.7,Textbook,Basic,139
+Raghav Balasubramanian,13,Male,India,Karnataka,Bangalore,Teacher,Middle,Advanced,Advanced,Computer Science,83,3.2,E-Book,Basic,98
+Jiya Bumb,7,Male,India,Tamil Nadu,Coimbatore,Businessperson,Middle,Beginner,Beginner,Chemistry,89,0.9,E-Book,Basic,100
+Vardaniya Chadha,7,Male,India,Maharashtra,Mumbai,Engineer,Low,Beginner,Beginner,Computer Science,14,2.9,Live Class,Medium,108
+Tara Bhasin,9,Female,India,West Bengal,Durgapur,Farmer,Low,Advanced,Beginner,Science,33,4.2,Textbook,Medium,118
+Nehmat Garg,8,Female,India,Tamil Nadu,Chennai,Businessperson,High,Intermediate,Beginner,Computer Science,87,2.2,Video Lesson,Medium,101
+Shaan Divan,8,Female,India,Uttar Pradesh,Kanpur,Engineer,Low,Intermediate,Advanced,Physics,67,3.4,Textbook,Basic,100
+Ishita Reddy,11,Male,India,Maharashtra,Pune,Engineer,Middle,Beginner,Advanced,Chemistry,20,1.7,Online Quiz,Basic,84
+Hansh Bhardwaj,14,Female,India,Karnataka,Mysore,Engineer,High,Advanced,Advanced,Mathematics,88,2.2,Online Quiz,Basic,115
+Zara Gokhale,18,Male,India,Maharashtra,Mumbai,Businessperson,Low,Beginner,Intermediate,Mathematics,41,3.0,Live Class,Medium,114
+Divit Kar,16,Male,India,Karnataka,Mysore,Engineer,Low,Beginner,Intermediate,Computer Science,93,1.2,Live Class,Basic,115
+Kiara Kulkarni,12,Male,India,Uttar Pradesh,Kanpur,Doctor,Low,Intermediate,Beginner,Science,96,0.8,Live Class,Basic,91
+Divij Verma,9,Male,India,Karnataka,Hubli,Teacher,Middle,Intermediate,Advanced,Computer Science,69,2.9,Online Quiz,Basic,87
+Aarav Sahni,7,Male,India,Karnataka,Hubli,Businessperson,Low,Intermediate,Beginner,Physics,8,3.6,E-Book,Basic,120
+Saksham Mahal,17,Male,India,Karnataka,Bangalore,Doctor,High,Beginner,Beginner,Physics,75,3.4,Textbook,Advanced,138
+Ahana  Mandal,13,Female,India,Tamil Nadu,Chennai,Businessperson,Low,Intermediate,Advanced,Physics,89,3.0,E-Book,Advanced,99
+Jivin Chadha,11,Male,India,Karnataka,Bangalore,Teacher,High,Advanced,Beginner,History,84,4.8,Online Quiz,Basic,80
+Riaan Dhawan,11,Male,India,Karnataka,Mysore,Businessperson,Middle,Beginner,Advanced,Science,91,4.7,Textbook,Advanced,134
+Zaina Bora,8,Male,India,Tamil Nadu,Chennai,Farmer,Middle,Intermediate,Intermediate,Physics,89,4.2,Live Class,Basic,117
+Sumer Varma,12,Male,India,West Bengal,Siliguri,Teacher,High,Intermediate,Beginner,Computer Science,71,1.1,Live Class,Basic,130
+Himmat Sangha,9,Male,India,Maharashtra,Nagpur,Farmer,Middle,Beginner,Beginner,Chemistry,35,0.6,Textbook,Advanced,92
+Charvi Bhagat,8,Male,India,Tamil Nadu,Madurai,Doctor,Low,Beginner,Advanced,Science,22,1.5,E-Book,Medium,106
+Arhaan Khalsa,11,Female,India,West Bengal,Durgapur,Teacher,Middle,Advanced,Intermediate,Computer Science,97,5.0,Textbook,Basic,131
+Abram Rao,10,Male,India,Tamil Nadu,Coimbatore,Doctor,Low,Advanced,Advanced,Physics,4,3.0,Textbook,Medium,97
+Shlok Suresh,16,Female,India,Maharashtra,Nagpur,Businessperson,Middle,Beginner,Advanced,Mathematics,66,3.6,Online Quiz,Medium,122
+Saanvi Setty,13,Female,India,Tamil Nadu,Chennai,Farmer,Middle,Beginner,Intermediate,Physics,66,4.9,Textbook,Medium,114
+Shaan Varughese,10,Female,India,Uttar Pradesh,Lucknow,Teacher,Low,Advanced,Advanced,Mathematics,69,3.0,E-Book,Advanced,87
+Hunar Thaker,11,Male,India,West Bengal,Siliguri,Engineer,High,Intermediate,Beginner,Chemistry,29,4.2,E-Book,Basic,127
+Rohan Baria,12,Male,India,Tamil Nadu,Madurai,Businessperson,Middle,Advanced,Advanced,Chemistry,87,2.9,E-Book,Medium,136
+Damini Suri,12,Male,India,Uttar Pradesh,Varanasi,Businessperson,Low,Advanced,Intermediate,Mathematics,100,1.3,Video Lesson,Medium,121
+Arnav Ravel,12,Female,India,Uttar Pradesh,Varanasi,Engineer,High,Intermediate,Intermediate,Physics,49,2.5,Live Class,Medium,132
+Jiya Kadakia,6,Male,India,Uttar Pradesh,Varanasi,Businessperson,High,Beginner,Advanced,Physics,98,2.8,E-Book,Medium,123
+Kashvi Lall,9,Female,India,Karnataka,Hubli,Doctor,High,Beginner,Beginner,Mathematics,15,0.9,Live Class,Basic,101
+Dhanush Bhatti,7,Female,India,Karnataka,Mysore,Farmer,High,Advanced,Intermediate,Computer Science,83,1.4,Online Quiz,Advanced,83
+Vihaan Mand,14,Female,India,Uttar Pradesh,Kanpur,Doctor,High,Advanced,Beginner,Physics,96,3.6,Live Class,Advanced,134
+Bhavin Rout,10,Male,India,West Bengal,Kolkata,Teacher,Middle,Intermediate,Advanced,Computer Science,76,2.2,Live Class,Medium,108
+Eshani Dhawan,9,Female,India,Tamil Nadu,Coimbatore,Doctor,Middle,Advanced,Beginner,Physics,7,4.7,E-Book,Medium,127
+Anay Bala,18,Female,India,Maharashtra,Pune,Businessperson,Middle,Advanced,Beginner,Physics,96,0.6,Live Class,Medium,90
+Romil Goda,9,Male,India,Maharashtra,Pune,Doctor,High,Advanced,Advanced,Science,23,2.3,Online Quiz,Advanced,95
+Vedika Sani,13,Male,India,Maharashtra,Nagpur,Businessperson,High,Advanced,Beginner,History,60,1.2,Online Quiz,Medium,99
+Zara Sood,6,Male,India,Tamil Nadu,Madurai,Engineer,Middle,Beginner,Beginner,Physics,99,4.1,Textbook,Advanced,87
+Umang Sanghvi,11,Male,India,Maharashtra,Mumbai,Businessperson,Middle,Beginner,Intermediate,Mathematics,100,1.5,Live Class,Basic,120
+Aarush Sibal,13,Male,India,Karnataka,Mysore,Doctor,High,Advanced,Intermediate,Physics,17,3.6,Video Lesson,Basic,104
+Emir Dhawan,11,Male,India,Karnataka,Bangalore,Doctor,High,Intermediate,Beginner,History,66,3.3,Live Class,Basic,97
+Nirvaan Randhawa,12,Female,India,Tamil Nadu,Coimbatore,Teacher,Middle,Beginner,Advanced,Chemistry,71,4.4,Textbook,Basic,100
+Samarth Saini,15,Male,India,Karnataka,Bangalore,Teacher,Middle,Beginner,Advanced,Chemistry,4,0.9,E-Book,Advanced,134
+Nishith Raman,13,Female,India,Uttar Pradesh,Lucknow,Teacher,High,Beginner,Intermediate,Science,85,4.6,Online Quiz,Basic,119
+Madhav Bahl,14,Female,India,Maharashtra,Mumbai,Engineer,High,Beginner,Intermediate,Mathematics,16,1.4,Textbook,Basic,81
+Gokul Kibe,11,Female,India,West Bengal,Durgapur,Teacher,Middle,Beginner,Beginner,Mathematics,84,4.4,Online Quiz,Advanced,112
+Sumer Salvi,10,Male,India,Karnataka,Mysore,Doctor,High,Intermediate,Intermediate,Chemistry,7,2.6,Live Class,Medium,140
+Hazel Gola,17,Male,India,Karnataka,Mysore,Engineer,High,Beginner,Intermediate,Chemistry,77,2.7,Live Class,Advanced,119
+Tushar Ravel,11,Female,India,Maharashtra,Nagpur,Businessperson,High,Advanced,Advanced,Computer Science,85,1.2,Video Lesson,Advanced,87
+Divit Ghosh,9,Female,India,Maharashtra,Pune,Farmer,High,Beginner,Beginner,Physics,20,2.7,Textbook,Medium,126
+Shlok Mani,16,Female,India,Karnataka,Bangalore,Doctor,Middle,Advanced,Beginner,History,84,0.5,Online Quiz,Medium,84
+Kismat Saini,10,Female,India,Uttar Pradesh,Lucknow,Teacher,Low,Intermediate,Advanced,Science,62,4.0,Online Quiz,Medium,115
+Hansh Banik,12,Female,India,Karnataka,Mysore,Doctor,Middle,Advanced,Beginner,History,57,3.4,Live Class,Medium,132
+Hunar Joshi,13,Male,India,Karnataka,Mysore,Teacher,Middle,Intermediate,Intermediate,Physics,79,3.8,Textbook,Medium,80
+Shray Saraf,14,Female,India,Tamil Nadu,Coimbatore,Engineer,High,Advanced,Advanced,Mathematics,30,2.4,E-Book,Advanced,113
+Devansh Manne,6,Male,India,Tamil Nadu,Madurai,Businessperson,Middle,Beginner,Beginner,Computer Science,60,3.3,Textbook,Advanced,117
+Damini Seth,12,Female,India,Maharashtra,Mumbai,Engineer,High,Intermediate,Advanced,Science,69,1.6,Live Class,Basic,86
+Alia Chatterjee,17,Female,India,West Bengal,Kolkata,Teacher,Middle,Intermediate,Intermediate,Mathematics,94,2.9,Online Quiz,Medium,133
+Vritika Rau,10,Female,India,Tamil Nadu,Madurai,Teacher,Low,Beginner,Beginner,History,8,1.3,E-Book,Basic,101
+Aarna Gaba,12,Female,India,Uttar Pradesh,Varanasi,Farmer,Low,Advanced,Beginner,Chemistry,40,2.3,Online Quiz,Medium,84
+Dhruv Tailor,13,Male,India,Maharashtra,Mumbai,Farmer,High,Advanced,Beginner,Physics,11,2.5,Live Class,Basic,125
+Adira Shetty,11,Male,India,Uttar Pradesh,Varanasi,Engineer,Low,Beginner,Beginner,Mathematics,6,3.5,Online Quiz,Advanced,96
+Kismat Sachar,10,Male,India,Uttar Pradesh,Lucknow,Farmer,High,Advanced,Advanced,Mathematics,82,2.3,Textbook,Basic,124
+Ira Salvi,6,Female,India,Tamil Nadu,Chennai,Engineer,Middle,Intermediate,Intermediate,Chemistry,17,3.3,E-Book,Advanced,92
+Romil Loyal,8,Male,India,Uttar Pradesh,Varanasi,Doctor,Middle,Beginner,Intermediate,Physics,56,4.0,E-Book,Medium,92
+Ivan Dalal,13,Male,India,Karnataka,Bangalore,Teacher,High,Beginner,Intermediate,Computer Science,0,1.8,Textbook,Medium,131
+Zoya Chokshi,17,Male,India,West Bengal,Kolkata,Businessperson,Low,Advanced,Beginner,Chemistry,85,4.6,Video Lesson,Medium,106
+Shray Hans,12,Male,India,West Bengal,Siliguri,Engineer,High,Advanced,Beginner,History,60,0.9,Online Quiz,Advanced,102
+Jiya Dhingra,14,Male,India,Uttar Pradesh,Kanpur,Businessperson,Middle,Intermediate,Advanced,History,80,1.8,Video Lesson,Advanced,105
+Divit Jain,18,Female,India,Karnataka,Bangalore,Doctor,Middle,Beginner,Beginner,Chemistry,39,3.3,Online Quiz,Basic,130
+Miraan Madan,9,Female,India,Karnataka,Bangalore,Engineer,Middle,Beginner,Beginner,Mathematics,84,2.0,E-Book,Advanced,82
+Baiju Kurian,12,Male,India,Karnataka,Bangalore,Teacher,Low,Beginner,Beginner,Mathematics,94,3.4,Live Class,Advanced,96
+Riya De,15,Male,India,Karnataka,Mysore,Businessperson,Low,Beginner,Intermediate,Mathematics,17,1.5,E-Book,Medium,102
+Indranil Zacharia,7,Male,India,Karnataka,Bangalore,Engineer,Middle,Beginner,Intermediate,Chemistry,96,3.7,Live Class,Advanced,129
+Tushar Kala,17,Male,India,Maharashtra,Nagpur,Businessperson,High,Beginner,Beginner,Chemistry,68,1.7,Video Lesson,Basic,113
+Armaan Halder,9,Male,India,Uttar Pradesh,Lucknow,Engineer,Middle,Advanced,Beginner,Physics,9,3.5,Textbook,Advanced,83
+Aarna Chhabra,8,Male,India,Maharashtra,Pune,Doctor,Middle,Intermediate,Advanced,History,76,2.3,Textbook,Advanced,91
+Vaibhav Krish,7,Female,India,Uttar Pradesh,Varanasi,Businessperson,Middle,Advanced,Advanced,Chemistry,70,4.5,Video Lesson,Medium,130
+Hunar Ramesh,9,Male,India,Karnataka,Bangalore,Teacher,Middle,Advanced,Advanced,Computer Science,65,3.1,Live Class,Medium,136
+Neysa Rao,17,Male,India,West Bengal,Durgapur,Doctor,High,Intermediate,Beginner,Chemistry,77,2.4,E-Book,Medium,137
+Abram Tiwari,7,Male,India,West Bengal,Kolkata,Farmer,High,Intermediate,Advanced,Mathematics,5,1.9,E-Book,Advanced,125
+Aayush Bir,17,Male,India,Maharashtra,Mumbai,Engineer,High,Intermediate,Beginner,Mathematics,35,1.5,Online Quiz,Basic,123
+Ahana  Balan,7,Female,India,West Bengal,Durgapur,Teacher,High,Intermediate,Advanced,Physics,27,0.7,Live Class,Medium,91
+Diya Sankaran,15,Male,India,West Bengal,Durgapur,Businessperson,Middle,Beginner,Beginner,History,13,4.2,Video Lesson,Basic,93
+Nirvi Ramakrishnan,14,Male,India,West Bengal,Siliguri,Doctor,Low,Advanced,Beginner,Mathematics,63,1.7,E-Book,Basic,91
+Piya Bajaj,8,Male,India,Uttar Pradesh,Lucknow,Doctor,Middle,Beginner,Beginner,History,70,4.4,E-Book,Basic,115
+Anvi Bhalla,7,Male,India,Tamil Nadu,Chennai,Engineer,High,Intermediate,Advanced,History,6,2.7,E-Book,Medium,126
+Kabir Karnik,9,Male,India,West Bengal,Durgapur,Engineer,High,Advanced,Advanced,History,63,1.5,Textbook,Advanced,140
+Purab Reddy,15,Female,India,Karnataka,Mysore,Farmer,Middle,Intermediate,Intermediate,Science,13,4.4,Textbook,Basic,120
+Kiaan Lala,16,Female,India,Uttar Pradesh,Varanasi,Doctor,Middle,Beginner,Intermediate,Chemistry,13,2.4,E-Book,Medium,138
+Farhan Sinha,10,Male,India,Maharashtra,Mumbai,Businessperson,High,Advanced,Intermediate,Physics,95,4.5,Online Quiz,Medium,134
+Kanav Chaudhary,6,Female,India,West Bengal,Kolkata,Teacher,Middle,Advanced,Advanced,Physics,83,3.1,Textbook,Basic,116
+Yuvaan Goswami,16,Male,India,West Bengal,Kolkata,Doctor,High,Beginner,Intermediate,Physics,98,4.9,Online Quiz,Advanced,110
+Kimaya Bose,15,Male,India,Maharashtra,Pune,Engineer,Low,Advanced,Beginner,Chemistry,14,1.3,Video Lesson,Advanced,86
+Lakshay Kamdar,8,Male,India,Karnataka,Mysore,Engineer,Middle,Beginner,Intermediate,Computer Science,68,3.6,Live Class,Basic,106
+Yashvi Sahota,14,Male,India,Uttar Pradesh,Lucknow,Businessperson,High,Advanced,Advanced,Mathematics,9,2.5,Live Class,Basic,122
+Indrans Deshmukh,11,Female,India,Tamil Nadu,Madurai,Businessperson,Low,Beginner,Advanced,Physics,87,4.6,Video Lesson,Basic,111
+Piya Ganguly,15,Male,India,Maharashtra,Mumbai,Doctor,Middle,Intermediate,Beginner,Science,45,2.4,Live Class,Medium,106
+Lakshit Sinha,6,Male,India,Karnataka,Mysore,Businessperson,High,Beginner,Beginner,Computer Science,21,3.7,Online Quiz,Advanced,85
+Yuvaan Ratta,11,Female,India,Karnataka,Mysore,Businessperson,Middle,Advanced,Advanced,History,3,1.7,Online Quiz,Medium,100
+Aarush Sahota,12,Male,India,Tamil Nadu,Coimbatore,Engineer,High,Beginner,Beginner,History,10,3.6,Online Quiz,Advanced,87
+Shamik Dayal,16,Female,India,West Bengal,Durgapur,Farmer,High,Intermediate,Intermediate,Chemistry,73,4.0,Online Quiz,Medium,126
+Kartik Amble,9,Male,India,West Bengal,Durgapur,Farmer,Low,Intermediate,Intermediate,Physics,28,0.7,Video Lesson,Basic,83
+Jayant Srivastava,18,Female,India,West Bengal,Kolkata,Businessperson,Low,Intermediate,Intermediate,History,26,2.6,Video Lesson,Basic,132
+Dishani Rao,14,Female,India,Karnataka,Hubli,Farmer,Middle,Intermediate,Beginner,Computer Science,97,0.7,E-Book,Basic,111
+Azad Korpal,8,Female,India,Tamil Nadu,Madurai,Doctor,High,Intermediate,Advanced,History,57,4.8,Online Quiz,Basic,117
+Zeeshan Kaur,10,Male,India,Maharashtra,Mumbai,Teacher,High,Intermediate,Intermediate,Science,39,2.4,E-Book,Medium,108
+Nitya Dhawan,8,Male,India,Maharashtra,Pune,Farmer,Low,Advanced,Beginner,Mathematics,62,2.1,Online Quiz,Advanced,134
+Mohanlal Mani,17,Female,India,Uttar Pradesh,Kanpur,Teacher,Low,Advanced,Intermediate,Computer Science,11,0.6,E-Book,Basic,83
+Miraan Koshy,9,Female,India,Karnataka,Mysore,Businessperson,High,Beginner,Advanced,Physics,20,2.0,Online Quiz,Basic,139
+Sahil Ganesh,9,Male,India,Maharashtra,Nagpur,Businessperson,Middle,Advanced,Beginner,History,35,3.2,Live Class,Medium,140
+Kimaya Mallick,15,Male,India,Tamil Nadu,Madurai,Businessperson,Low,Beginner,Advanced,History,62,3.0,Video Lesson,Medium,82
+Mannat Balakrishnan,17,Male,India,Maharashtra,Pune,Engineer,Low,Beginner,Intermediate,Physics,80,4.2,Textbook,Medium,115
+Umang Joshi,17,Male,India,Tamil Nadu,Coimbatore,Engineer,High,Advanced,Beginner,Chemistry,25,4.4,Textbook,Medium,115
+Fateh Sule,17,Male,India,Maharashtra,Nagpur,Doctor,Low,Advanced,Advanced,Science,40,3.8,Video Lesson,Advanced,88
+Hridaan Bedi,18,Female,India,Karnataka,Bangalore,Businessperson,High,Intermediate,Intermediate,Physics,41,1.5,Live Class,Medium,119
+Dhruv Sood,9,Male,India,West Bengal,Kolkata,Businessperson,Middle,Beginner,Advanced,Computer Science,9,0.8,Video Lesson,Advanced,104
+Miraya Talwar,10,Male,India,West Bengal,Kolkata,Teacher,Low,Advanced,Beginner,Science,90,2.8,Live Class,Basic,86
+Azad Kala,12,Female,India,Tamil Nadu,Coimbatore,Engineer,Low,Beginner,Advanced,History,57,2.6,E-Book,Medium,122
+Zaina Bobal,17,Female,India,West Bengal,Durgapur,Doctor,Low,Advanced,Intermediate,Mathematics,2,4.9,Textbook,Medium,85
+Kiaan Kala,8,Male,India,West Bengal,Kolkata,Farmer,Low,Advanced,Advanced,Chemistry,46,2.7,Live Class,Medium,123
+Saanvi Contractor,15,Female,India,West Bengal,Siliguri,Doctor,Middle,Intermediate,Intermediate,Physics,67,3.0,Textbook,Basic,90
+Purab Issac,18,Female,India,Tamil Nadu,Madurai,Engineer,Middle,Advanced,Beginner,Mathematics,17,0.7,Online Quiz,Basic,116
+Diya Dora,6,Female,India,Karnataka,Bangalore,Doctor,Low,Beginner,Advanced,Mathematics,28,2.1,E-Book,Basic,110
+Ivana Dugal,12,Male,India,Tamil Nadu,Madurai,Engineer,Middle,Advanced,Intermediate,Science,24,1.6,Live Class,Basic,101
+Sahil Kara,15,Male,India,West Bengal,Siliguri,Doctor,Middle,Intermediate,Beginner,History,86,3.3,Live Class,Medium,91
+Jayan Kannan,8,Male,India,Tamil Nadu,Chennai,Engineer,Middle,Beginner,Beginner,Computer Science,42,2.3,Live Class,Advanced,92
+Dhanush Shah,16,Female,India,Maharashtra,Pune,Farmer,Low,Intermediate,Beginner,Mathematics,6,2.8,Video Lesson,Basic,87
+Jayesh Bumb,13,Male,India,Tamil Nadu,Coimbatore,Teacher,High,Beginner,Advanced,Mathematics,2,1.0,Textbook,Medium,137
+Lakshit Bassi,12,Male,India,Karnataka,Bangalore,Doctor,Middle,Intermediate,Advanced,Physics,23,1.2,Live Class,Advanced,104
+Ivan Jaggi,14,Male,India,West Bengal,Durgapur,Businessperson,High,Intermediate,Advanced,Science,82,1.0,Live Class,Advanced,89
+Pihu Sandhu,17,Female,India,West Bengal,Kolkata,Doctor,Low,Intermediate,Beginner,Physics,75,2.8,E-Book,Basic,136
+Madhup Tank,8,Female,India,Tamil Nadu,Chennai,Teacher,Low,Beginner,Intermediate,Science,19,3.6,E-Book,Basic,99
+Kanav Warrior,13,Male,India,Tamil Nadu,Chennai,Businessperson,Low,Intermediate,Advanced,Computer Science,23,1.2,Online Quiz,Advanced,126
+Aarush Mall,10,Female,India,West Bengal,Kolkata,Doctor,High,Beginner,Beginner,Computer Science,86,3.9,Online Quiz,Basic,86
+Shray Seth,9,Female,India,Maharashtra,Mumbai,Engineer,Low,Beginner,Intermediate,Mathematics,72,1.3,Live Class,Medium,90
+Renee Tella,12,Male,India,West Bengal,Siliguri,Doctor,High,Intermediate,Beginner,Chemistry,2,4.9,Online Quiz,Basic,125
+Amani Srinivas,12,Male,India,Maharashtra,Mumbai,Farmer,Low,Intermediate,Beginner,History,2,2.1,Textbook,Basic,132
+Ayesha Dube,15,Male,India,West Bengal,Siliguri,Businessperson,Middle,Beginner,Intermediate,Science,60,4.8,Online Quiz,Basic,112
+Ehsaan Gour,7,Male,India,Tamil Nadu,Madurai,Teacher,High,Advanced,Advanced,Mathematics,34,2.1,Video Lesson,Medium,84
+Miraya Gala,7,Female,India,Maharashtra,Mumbai,Businessperson,High,Advanced,Beginner,Mathematics,46,4.8,Textbook,Basic,112
+Kimaya Goel,18,Female,India,West Bengal,Siliguri,Engineer,Low,Beginner,Intermediate,Science,65,1.7,Textbook,Medium,95
+Yakshit Vaidya,13,Male,India,Karnataka,Hubli,Engineer,Low,Intermediate,Beginner,Mathematics,96,4.5,E-Book,Medium,86
+Ishaan Varkey,18,Male,India,Uttar Pradesh,Varanasi,Engineer,Low,Beginner,Advanced,Physics,20,1.9,Video Lesson,Basic,122
+Veer Iyengar,18,Male,India,Maharashtra,Pune,Teacher,Middle,Intermediate,Advanced,Computer Science,30,2.6,Video Lesson,Advanced,113
+Kiara Rama,16,Male,India,Karnataka,Mysore,Doctor,High,Beginner,Beginner,History,24,3.5,E-Book,Basic,104
+Pranay Rau,9,Male,India,Tamil Nadu,Madurai,Businessperson,Middle,Intermediate,Advanced,History,27,2.6,Live Class,Basic,83
+Pranay Iyer,11,Female,India,Maharashtra,Nagpur,Teacher,Middle,Advanced,Beginner,Science,80,1.9,Online Quiz,Advanced,128
+Suhana Wable,17,Female,India,Tamil Nadu,Coimbatore,Doctor,Low,Beginner,Intermediate,History,68,1.1,E-Book,Advanced,139
+Zain Thaker,7,Female,India,Maharashtra,Pune,Doctor,Low,Advanced,Intermediate,Science,2,3.3,E-Book,Medium,85
+Faiyaz Salvi,12,Female,India,Karnataka,Bangalore,Teacher,High,Intermediate,Advanced,Chemistry,81,2.7,Textbook,Advanced,93
+Yuvaan Dugar,8,Male,India,Karnataka,Bangalore,Farmer,Middle,Beginner,Intermediate,Physics,43,2.1,Textbook,Advanced,112
+Ranbir De,16,Male,India,Karnataka,Hubli,Engineer,Middle,Advanced,Advanced,Computer Science,7,1.3,Online Quiz,Basic,87
+Anahita Sama,18,Female,India,West Bengal,Kolkata,Businessperson,Low,Beginner,Advanced,Science,93,3.8,Video Lesson,Advanced,130
+Hiran Saha,17,Female,India,Uttar Pradesh,Lucknow,Farmer,Low,Intermediate,Intermediate,History,10,1.3,Online Quiz,Medium,117
+Jayan Shroff,7,Female,India,West Bengal,Kolkata,Farmer,Middle,Beginner,Beginner,Physics,20,2.4,Online Quiz,Medium,93
+Adah Buch,13,Female,India,Uttar Pradesh,Kanpur,Doctor,Low,Advanced,Beginner,Computer Science,87,3.1,Textbook,Medium,134
+Rati Chaudhari,14,Female,India,Uttar Pradesh,Kanpur,Engineer,Low,Beginner,Intermediate,Computer Science,77,3.4,E-Book,Advanced,87
+Nishith Guha,10,Male,India,Tamil Nadu,Coimbatore,Doctor,Low,Intermediate,Advanced,Computer Science,52,4.4,Online Quiz,Advanced,82
+Yuvraj  Sarkar,8,Male,India,Tamil Nadu,Coimbatore,Doctor,High,Advanced,Advanced,History,24,3.2,Video Lesson,Medium,100
+Farhan Seth,12,Female,India,Tamil Nadu,Chennai,Farmer,Middle,Beginner,Beginner,Computer Science,33,0.7,Online Quiz,Advanced,84
+Madhup Ramanathan,16,Female,India,Tamil Nadu,Madurai,Farmer,High,Beginner,Beginner,Science,28,4.6,E-Book,Medium,132
+Manikya Sandhu,11,Female,India,Maharashtra,Mumbai,Engineer,Low,Beginner,Beginner,Physics,37,3.3,Live Class,Medium,81
+Ryan Deep,6,Female,India,Uttar Pradesh,Kanpur,Farmer,High,Beginner,Beginner,Mathematics,96,3.2,Video Lesson,Basic,88
+Rania Gokhale,12,Male,India,Tamil Nadu,Madurai,Engineer,Low,Beginner,Beginner,History,31,1.7,Live Class,Basic,120
+Ayesha Kashyap,18,Female,India,Karnataka,Mysore,Teacher,Middle,Beginner,Intermediate,Science,87,4.9,E-Book,Medium,97
+Shray Amble,13,Male,India,West Bengal,Siliguri,Engineer,High,Advanced,Beginner,Mathematics,35,0.9,Online Quiz,Medium,80
+Divij Shankar,18,Male,India,Karnataka,Bangalore,Businessperson,High,Intermediate,Intermediate,Science,52,2.8,Video Lesson,Advanced,133
+Vihaan Kant,8,Male,India,Uttar Pradesh,Kanpur,Doctor,Middle,Intermediate,Intermediate,Chemistry,42,4.7,Textbook,Basic,87
+Prerak Aurora,12,Female,India,Uttar Pradesh,Kanpur,Engineer,Middle,Beginner,Advanced,Mathematics,54,4.7,Online Quiz,Medium,97
+Ahana  Sane,8,Female,India,Tamil Nadu,Coimbatore,Businessperson,High,Beginner,Advanced,Chemistry,85,4.9,E-Book,Advanced,81
+Damini Kothari,13,Male,India,Karnataka,Hubli,Businessperson,High,Intermediate,Advanced,Chemistry,22,1.4,Live Class,Advanced,90
+Hridaan Borde,7,Male,India,Karnataka,Bangalore,Doctor,Middle,Advanced,Intermediate,Chemistry,59,2.0,Video Lesson,Medium,91
+Indrans Subramanian,8,Male,India,Uttar Pradesh,Kanpur,Engineer,Middle,Intermediate,Intermediate,Mathematics,16,0.7,E-Book,Basic,123
+Mishti Mannan,7,Male,India,Maharashtra,Mumbai,Doctor,Low,Advanced,Intermediate,Chemistry,72,0.9,Textbook,Basic,139
+Vanya Deshmukh,7,Female,India,West Bengal,Durgapur,Teacher,High,Beginner,Beginner,History,25,1.2,Live Class,Basic,91
+Adira Bedi,15,Male,India,Tamil Nadu,Madurai,Teacher,Low,Intermediate,Beginner,Chemistry,1,0.6,Online Quiz,Basic,88
+Piya Bhargava,9,Female,India,Uttar Pradesh,Varanasi,Teacher,High,Beginner,Intermediate,Physics,21,1.1,Online Quiz,Advanced,122
+Hazel Kara,9,Male,India,West Bengal,Kolkata,Doctor,Middle,Beginner,Advanced,Chemistry,6,2.5,Textbook,Basic,118
+Advika Hegde,11,Male,India,Maharashtra,Nagpur,Farmer,Low,Beginner,Advanced,Physics,72,2.8,Online Quiz,Advanced,102
+Shlok Varma,14,Female,India,Tamil Nadu,Chennai,Doctor,High,Beginner,Beginner,Science,0,1.8,Video Lesson,Basic,95
+Navya Dar,6,Female,India,Uttar Pradesh,Lucknow,Farmer,Middle,Beginner,Intermediate,Science,43,4.7,Online Quiz,Medium,94
+Aarush Lad,8,Female,India,Maharashtra,Mumbai,Engineer,High,Advanced,Intermediate,Chemistry,8,1.7,E-Book,Basic,93
+Sahil Mani,15,Female,India,Tamil Nadu,Coimbatore,Businessperson,Middle,Intermediate,Intermediate,Mathematics,99,1.2,Live Class,Advanced,80
+Urvi Bir,16,Male,India,Uttar Pradesh,Varanasi,Teacher,High,Beginner,Intermediate,Computer Science,1,3.2,E-Book,Advanced,86
+Shaan Gera,16,Female,India,Karnataka,Bangalore,Businessperson,High,Intermediate,Intermediate,Computer Science,28,3.9,Textbook,Basic,93
+Emir Dewan,9,Female,India,Uttar Pradesh,Kanpur,Doctor,Low,Beginner,Beginner,Science,46,2.4,Textbook,Basic,107
+Mohanlal Taneja,6,Female,India,Tamil Nadu,Coimbatore,Doctor,High,Intermediate,Advanced,History,28,2.7,Video Lesson,Basic,101
+Hazel Doshi,18,Female,India,Maharashtra,Nagpur,Businessperson,Middle,Advanced,Intermediate,Mathematics,35,0.9,E-Book,Medium,128
+Vaibhav Sachar,7,Female,India,Tamil Nadu,Coimbatore,Businessperson,Low,Intermediate,Beginner,Computer Science,53,2.0,Online Quiz,Basic,97
+Siya Butala,11,Female,India,Karnataka,Hubli,Businessperson,High,Beginner,Beginner,Mathematics,58,3.0,Online Quiz,Basic,83
+Aniruddh Grewal,17,Female,India,West Bengal,Siliguri,Businessperson,High,Beginner,Advanced,Mathematics,17,4.9,Video Lesson,Basic,123
+Zeeshan Wable,11,Male,India,Karnataka,Hubli,Businessperson,Low,Beginner,Beginner,Science,98,3.9,Textbook,Basic,118
+Samar Dave,11,Female,India,West Bengal,Durgapur,Farmer,High,Beginner,Intermediate,Mathematics,87,0.8,Video Lesson,Medium,110
+Adira Kakar,11,Female,India,Uttar Pradesh,Varanasi,Engineer,High,Intermediate,Intermediate,Chemistry,9,3.3,Video Lesson,Advanced,122
+Tushar Karpe,8,Male,India,Karnataka,Bangalore,Doctor,High,Intermediate,Beginner,History,100,1.2,Textbook,Advanced,86
+Emir Desai,7,Female,India,Uttar Pradesh,Lucknow,Teacher,High,Beginner,Intermediate,Physics,5,3.3,Video Lesson,Basic,87
+Aradhya Sathe,13,Female,India,Karnataka,Mysore,Doctor,High,Intermediate,Beginner,Mathematics,3,2.5,Online Quiz,Advanced,134
+Tara Yohannan,6,Male,India,Tamil Nadu,Chennai,Doctor,Middle,Intermediate,Beginner,Mathematics,9,3.1,Online Quiz,Medium,131
+Reyansh Halder,15,Male,India,Uttar Pradesh,Lucknow,Engineer,High,Intermediate,Advanced,Mathematics,12,2.5,Online Quiz,Basic,129
+Advik Singh,16,Male,India,Tamil Nadu,Coimbatore,Businessperson,High,Advanced,Beginner,Mathematics,88,2.8,E-Book,Medium,108
+Dharmajan Goswami,16,Male,India,Tamil Nadu,Coimbatore,Teacher,Low,Beginner,Intermediate,Computer Science,42,1.3,Textbook,Basic,99
+Aarush Jain,14,Female,India,Karnataka,Bangalore,Engineer,High,Beginner,Intermediate,Chemistry,59,2.7,Video Lesson,Basic,96
+Jivin Issac,16,Male,India,Uttar Pradesh,Kanpur,Teacher,Low,Intermediate,Beginner,Computer Science,25,3.5,E-Book,Medium,110
+Shamik Bhatti,15,Male,India,Karnataka,Mysore,Engineer,High,Beginner,Intermediate,History,55,2.2,Textbook,Advanced,114
+Mohanlal Goda,9,Male,India,Karnataka,Bangalore,Farmer,High,Beginner,Advanced,Chemistry,57,4.1,Online Quiz,Basic,82
+Tara Sehgal,12,Female,India,Uttar Pradesh,Varanasi,Engineer,Low,Intermediate,Beginner,Science,39,2.3,E-Book,Advanced,124
+Dishani Shah,7,Female,India,Tamil Nadu,Chennai,Doctor,Low,Beginner,Beginner,Mathematics,100,0.6,E-Book,Medium,89
+Jayesh Sheth,6,Female,India,Maharashtra,Mumbai,Teacher,Low,Beginner,Advanced,Chemistry,74,3.1,Online Quiz,Basic,113
+Shanaya Rana,15,Male,India,Uttar Pradesh,Varanasi,Teacher,High,Advanced,Intermediate,Mathematics,57,3.8,Textbook,Advanced,137
+Alia Gade,9,Female,India,Karnataka,Hubli,Teacher,High,Advanced,Beginner,Computer Science,76,3.9,E-Book,Medium,92
+Veer Din,15,Male,India,Tamil Nadu,Chennai,Businessperson,Low,Beginner,Intermediate,Physics,34,3.3,E-Book,Medium,140
+Saanvi Sule,18,Female,India,Tamil Nadu,Madurai,Doctor,High,Beginner,Intermediate,Physics,30,4.6,Online Quiz,Advanced,113
+Ishaan Bala,9,Female,India,Karnataka,Hubli,Engineer,Middle,Beginner,Advanced,Computer Science,72,2.5,Live Class,Medium,82
+Zara Tailor,15,Male,India,Tamil Nadu,Madurai,Engineer,Middle,Advanced,Advanced,History,18,0.9,Video Lesson,Advanced,82
+Sana Chaudhuri,16,Female,India,Karnataka,Bangalore,Farmer,Middle,Beginner,Intermediate,History,3,3.6,Live Class,Basic,95
+Taimur Butala,14,Male,India,West Bengal,Durgapur,Teacher,Low,Intermediate,Intermediate,Science,59,1.7,Online Quiz,Advanced,102
+Hunar Dhawan,10,Male,India,Maharashtra,Nagpur,Farmer,Middle,Beginner,Beginner,History,83,1.1,Video Lesson,Basic,112
+Hansh Kurian,13,Male,India,Uttar Pradesh,Lucknow,Farmer,High,Intermediate,Intermediate,Computer Science,67,4.2,Video Lesson,Medium,139
+Saanvi Gandhi,17,Female,India,Tamil Nadu,Chennai,Doctor,High,Intermediate,Advanced,Mathematics,81,4.3,Live Class,Medium,89
+Hiran Rama,13,Male,India,Karnataka,Mysore,Teacher,Middle,Beginner,Intermediate,Computer Science,58,4.9,Textbook,Advanced,132
+Aaina Kibe,15,Female,India,Karnataka,Mysore,Farmer,High,Advanced,Beginner,History,88,2.0,Textbook,Basic,103
+Dishani Kalita,14,Female,India,Uttar Pradesh,Kanpur,Businessperson,High,Intermediate,Beginner,Mathematics,10,0.8,Textbook,Medium,123
+Yashvi Saraf,10,Male,India,Uttar Pradesh,Lucknow,Doctor,Middle,Advanced,Intermediate,Computer Science,77,0.7,Textbook,Medium,107
+Ahana  Mann,17,Female,India,Maharashtra,Pune,Engineer,Middle,Advanced,Beginner,Chemistry,61,3.2,Video Lesson,Basic,81
+Prisha Yohannan,12,Male,India,Maharashtra,Nagpur,Businessperson,High,Intermediate,Beginner,History,62,2.1,Online Quiz,Advanced,94
+Sana Grewal,18,Male,India,Maharashtra,Pune,Farmer,Low,Advanced,Advanced,Computer Science,18,0.8,Online Quiz,Medium,84
+Badal Dada,17,Female,India,Tamil Nadu,Chennai,Farmer,Low,Advanced,Advanced,Chemistry,62,2.3,Textbook,Basic,138
+Ryan Bhalla,11,Female,India,Karnataka,Bangalore,Businessperson,Middle,Intermediate,Beginner,Chemistry,46,2.3,E-Book,Advanced,132
+Tejas Tata,8,Female,India,Karnataka,Bangalore,Teacher,Middle,Beginner,Intermediate,Computer Science,90,0.5,Live Class,Basic,118
+Advika Lad,8,Female,India,Uttar Pradesh,Varanasi,Doctor,High,Intermediate,Beginner,Computer Science,2,1.1,E-Book,Medium,98
+Kiara Sundaram,17,Female,India,Uttar Pradesh,Kanpur,Engineer,Middle,Advanced,Intermediate,Science,3,2.9,Textbook,Basic,118
+Indrajit Mani,9,Male,India,Tamil Nadu,Madurai,Businessperson,High,Advanced,Advanced,Computer Science,79,3.8,Textbook,Basic,109
+Gokul Soni,7,Male,India,Tamil Nadu,Coimbatore,Farmer,Low,Intermediate,Intermediate,History,14,2.7,Video Lesson,Basic,125
+Zoya Bahri,9,Male,India,Tamil Nadu,Coimbatore,Farmer,High,Advanced,Intermediate,Physics,25,2.7,Live Class,Advanced,108
+Kiaan Hayer,8,Female,India,Tamil Nadu,Madurai,Teacher,Low,Advanced,Beginner,History,81,0.6,Textbook,Advanced,110
+Dishani Upadhyay,18,Female,India,Karnataka,Bangalore,Businessperson,Middle,Advanced,Beginner,Physics,41,3.6,Online Quiz,Medium,81
+Faiyaz Krishnan,7,Male,India,Tamil Nadu,Chennai,Teacher,High,Advanced,Advanced,Computer Science,67,4.5,Online Quiz,Advanced,124
+Amani Malhotra,12,Female,India,Uttar Pradesh,Varanasi,Businessperson,Low,Intermediate,Intermediate,Chemistry,20,2.3,E-Book,Advanced,123
+Aaryahi Badami,17,Male,India,Tamil Nadu,Coimbatore,Engineer,Low,Beginner,Intermediate,Science,42,2.5,Video Lesson,Basic,113
+Vaibhav Bala,6,Female,India,Uttar Pradesh,Varanasi,Engineer,Low,Beginner,Intermediate,Chemistry,18,1.8,Online Quiz,Advanced,97
+Charvi Ray,15,Female,India,Tamil Nadu,Chennai,Farmer,Low,Intermediate,Beginner,Science,77,2.7,Video Lesson,Basic,108
+Siya Sandal,14,Female,India,Maharashtra,Nagpur,Teacher,Low,Advanced,Advanced,History,63,2.7,Video Lesson,Advanced,88
+Emir Korpal,12,Male,India,West Bengal,Durgapur,Businessperson,Low,Intermediate,Advanced,History,22,2.7,Video Lesson,Advanced,99
+Abram Iyer,18,Female,India,Karnataka,Bangalore,Doctor,Middle,Beginner,Advanced,Science,62,1.9,Online Quiz,Medium,111
+Abram Kibe,18,Male,India,West Bengal,Siliguri,Teacher,Low,Advanced,Advanced,Chemistry,54,4.2,Textbook,Basic,90
+Nakul Lata,11,Female,India,West Bengal,Durgapur,Businessperson,Low,Beginner,Beginner,History,23,0.8,E-Book,Medium,100
+Nehmat Saini,16,Female,India,Maharashtra,Pune,Businessperson,Middle,Intermediate,Advanced,Science,9,3.6,Video Lesson,Basic,80
+Divij Arora,14,Female,India,Tamil Nadu,Chennai,Engineer,Middle,Beginner,Advanced,Computer Science,2,4.0,Live Class,Medium,140
+Kiara Handa,14,Female,India,West Bengal,Kolkata,Farmer,High,Intermediate,Advanced,Physics,89,4.8,Online Quiz,Basic,131
+Kiara Talwar,10,Male,India,Karnataka,Hubli,Doctor,High,Beginner,Beginner,Science,41,2.3,Textbook,Medium,90
+Shanaya Sarraf,16,Male,India,Uttar Pradesh,Kanpur,Teacher,High,Advanced,Advanced,Physics,23,4.7,Online Quiz,Basic,107
+Vritika Rao,9,Male,India,West Bengal,Durgapur,Doctor,High,Advanced,Intermediate,History,80,4.6,E-Book,Basic,94
+Eshani Chand,7,Male,India,Uttar Pradesh,Lucknow,Engineer,Low,Beginner,Beginner,Computer Science,46,1.4,Online Quiz,Medium,91
+Vanya Apte,14,Female,India,West Bengal,Siliguri,Teacher,Low,Intermediate,Beginner,Mathematics,49,2.7,Live Class,Medium,99
+Ayesha Sura,8,Female,India,West Bengal,Kolkata,Farmer,High,Beginner,Beginner,Science,49,4.9,Video Lesson,Basic,89
+Shanaya Suresh,13,Male,India,Maharashtra,Pune,Engineer,High,Intermediate,Advanced,Science,27,0.6,Textbook,Advanced,110
+Uthkarsh Sengupta,13,Male,India,Uttar Pradesh,Varanasi,Farmer,Middle,Intermediate,Advanced,History,14,0.6,E-Book,Advanced,118
+Indrajit Sharma,7,Male,India,Karnataka,Mysore,Farmer,Middle,Intermediate,Advanced,Computer Science,76,2.9,E-Book,Basic,137
+Kimaya Hari,15,Female,India,Tamil Nadu,Chennai,Engineer,Low,Intermediate,Beginner,Science,22,3.2,Textbook,Basic,127
+Azad Khare,8,Female,India,West Bengal,Kolkata,Farmer,High,Advanced,Beginner,Chemistry,11,0.5,Live Class,Medium,110
+Vardaniya Hari,16,Female,India,Uttar Pradesh,Lucknow,Businessperson,High,Beginner,Intermediate,Physics,38,4.0,Video Lesson,Basic,110
+Kiaan Sarna,11,Male,India,Tamil Nadu,Coimbatore,Businessperson,High,Intermediate,Intermediate,Science,43,3.7,Video Lesson,Medium,99
+Rania Tak,13,Male,India,Uttar Pradesh,Varanasi,Businessperson,Middle,Intermediate,Advanced,Science,43,2.4,Textbook,Advanced,105
+Emir Dua,9,Female,India,Maharashtra,Nagpur,Businessperson,Middle,Advanced,Intermediate,Science,11,2.7,Video Lesson,Medium,103
+Jayesh Khosla,17,Female,India,West Bengal,Kolkata,Farmer,High,Intermediate,Beginner,Mathematics,31,3.3,Live Class,Medium,133
+Raghav Sankar,8,Male,India,Maharashtra,Mumbai,Engineer,High,Advanced,Advanced,History,44,1.2,Textbook,Advanced,92
+Renee Guha,6,Female,India,West Bengal,Kolkata,Teacher,Low,Intermediate,Beginner,Mathematics,79,1.8,Video Lesson,Basic,99
+Zaina Vig,11,Female,India,Tamil Nadu,Chennai,Teacher,Middle,Advanced,Intermediate,Computer Science,34,4.0,Online Quiz,Basic,115
+Drishya Kala,14,Male,India,Uttar Pradesh,Lucknow,Engineer,Low,Intermediate,Beginner,Chemistry,44,2.3,Video Lesson,Medium,127
+Damini Issac,12,Male,India,West Bengal,Kolkata,Engineer,Low,Beginner,Intermediate,Computer Science,44,2.6,Video Lesson,Basic,122
+Samiha Goswami,17,Female,India,Uttar Pradesh,Kanpur,Engineer,Low,Beginner,Advanced,Physics,47,2.0,Video Lesson,Medium,91
+Hansh Dubey,10,Male,India,Maharashtra,Mumbai,Doctor,High,Advanced,Intermediate,Science,98,3.8,Online Quiz,Medium,138
+Hazel Walia,16,Male,India,Tamil Nadu,Chennai,Farmer,Middle,Intermediate,Intermediate,Mathematics,5,3.6,Textbook,Advanced,80
+Ehsaan Subramanian,15,Female,India,Maharashtra,Nagpur,Doctor,High,Beginner,Intermediate,Science,24,3.8,Online Quiz,Advanced,87
+Miraan Sur,9,Female,India,Uttar Pradesh,Lucknow,Farmer,High,Beginner,Beginner,Physics,9,3.5,Video Lesson,Advanced,83
+Kimaya Goswami,17,Male,India,Karnataka,Bangalore,Engineer,Middle,Advanced,Intermediate,Science,50,2.5,E-Book,Medium,132
+Umang Salvi,13,Female,India,Uttar Pradesh,Varanasi,Businessperson,Low,Beginner,Intermediate,Chemistry,77,2.2,Textbook,Basic,122
+Misha Yohannan,7,Male,India,Karnataka,Mysore,Engineer,High,Intermediate,Advanced,Science,32,2.5,Textbook,Medium,139
+Taran Koshy,8,Male,India,Tamil Nadu,Coimbatore,Doctor,Middle,Intermediate,Beginner,Computer Science,22,3.8,Video Lesson,Medium,97
+Nakul Som,15,Female,India,West Bengal,Siliguri,Engineer,Middle,Advanced,Intermediate,Physics,40,4.8,Textbook,Basic,124
+Anay Sundaram,6,Male,India,Uttar Pradesh,Kanpur,Doctor,Low,Beginner,Advanced,Science,70,4.8,Video Lesson,Medium,89
+Khushi Arya,17,Male,India,Tamil Nadu,Coimbatore,Teacher,Low,Beginner,Intermediate,Computer Science,60,3.2,Textbook,Basic,129
+Myra Shankar,11,Female,India,Uttar Pradesh,Lucknow,Doctor,Low,Beginner,Intermediate,Computer Science,79,4.8,Online Quiz,Basic,123
+Shlok Kurian,6,Male,India,West Bengal,Siliguri,Teacher,Middle,Beginner,Intermediate,History,73,2.0,Video Lesson,Basic,123
+Misha Dhawan,12,Male,India,Tamil Nadu,Chennai,Engineer,High,Intermediate,Intermediate,Computer Science,77,4.5,Online Quiz,Medium,89
+Seher Lanka,13,Male,India,Karnataka,Hubli,Farmer,High,Advanced,Intermediate,Science,33,4.8,Textbook,Advanced,82
+Dhanush Samra,6,Male,India,Maharashtra,Mumbai,Businessperson,Low,Beginner,Beginner,Mathematics,98,3.7,E-Book,Basic,121
+Trisha Ramachandran,10,Male,India,Tamil Nadu,Madurai,Businessperson,Low,Beginner,Beginner,History,27,4.2,Live Class,Medium,113
+Indrajit Dash,13,Male,India,Karnataka,Hubli,Businessperson,Low,Beginner,Intermediate,History,28,2.4,Video Lesson,Medium,107
+Baiju Khosla,18,Male,India,West Bengal,Siliguri,Engineer,Low,Advanced,Beginner,Mathematics,33,2.3,Online Quiz,Medium,124
+Divyansh Brahmbhatt,6,Female,India,Maharashtra,Nagpur,Businessperson,Low,Beginner,Beginner,Chemistry,60,1.4,Textbook,Advanced,107
+Aaina Biswas,11,Male,India,Uttar Pradesh,Kanpur,Engineer,Middle,Beginner,Beginner,Physics,30,3.9,Live Class,Basic,83
+Shlok Sawhney,18,Female,India,Maharashtra,Pune,Businessperson,Low,Advanced,Intermediate,Computer Science,4,4.8,Video Lesson,Advanced,86
+Divyansh Behl,11,Male,India,West Bengal,Durgapur,Farmer,Low,Intermediate,Beginner,Computer Science,76,4.8,E-Book,Advanced,105
+Divit Manne,10,Male,India,Maharashtra,Mumbai,Businessperson,Middle,Beginner,Advanced,Physics,91,3.3,Textbook,Medium,110
+Suhana Kapoor,6,Male,India,Maharashtra,Pune,Businessperson,Middle,Intermediate,Beginner,Science,1,1.4,Textbook,Basic,129
+Myra Ganesh,18,Female,India,Uttar Pradesh,Lucknow,Doctor,Middle,Intermediate,Advanced,History,90,4.8,Online Quiz,Basic,101
+Saanvi Dyal,18,Female,India,Maharashtra,Nagpur,Businessperson,Middle,Intermediate,Beginner,Science,97,3.0,Live Class,Medium,101
+Nehmat Chahal,6,Male,India,Maharashtra,Nagpur,Engineer,Middle,Advanced,Beginner,Physics,39,1.8,Live Class,Medium,81
+Jayesh Suri,8,Female,India,Tamil Nadu,Madurai,Doctor,High,Advanced,Advanced,Mathematics,65,0.6,Video Lesson,Medium,105
+Vidur Kala,9,Male,India,Maharashtra,Nagpur,Farmer,Low,Beginner,Advanced,Mathematics,82,4.1,Textbook,Medium,84
+Sana Wason,15,Female,India,Uttar Pradesh,Varanasi,Farmer,High,Beginner,Beginner,History,1,1.2,E-Book,Advanced,113
+Tejas Sheth,7,Male,India,West Bengal,Siliguri,Businessperson,Middle,Advanced,Advanced,Mathematics,32,3.7,Textbook,Basic,132
+Rasha Chatterjee,13,Female,India,Tamil Nadu,Coimbatore,Farmer,Middle,Intermediate,Beginner,History,88,3.6,Online Quiz,Advanced,116
+Reyansh Lata,17,Female,India,Maharashtra,Pune,Engineer,Middle,Beginner,Intermediate,Science,26,1.1,Textbook,Advanced,107
+Madhup Sami,15,Female,India,West Bengal,Kolkata,Teacher,Middle,Advanced,Beginner,Mathematics,52,1.7,E-Book,Advanced,137
+Ira Arora,9,Male,India,Uttar Pradesh,Lucknow,Doctor,High,Beginner,Advanced,Physics,34,2.5,Video Lesson,Basic,98
+Jivika Kakar,8,Female,India,Uttar Pradesh,Varanasi,Teacher,High,Beginner,Advanced,Physics,54,1.1,E-Book,Basic,118
+Vivaan Sachdev,6,Male,India,Maharashtra,Pune,Doctor,High,Advanced,Intermediate,Chemistry,7,1.6,Textbook,Basic,101
+Arnav Lal,9,Female,India,West Bengal,Siliguri,Teacher,High,Beginner,Advanced,Physics,91,1.5,Textbook,Advanced,100
+Tushar Singhal,16,Male,India,Uttar Pradesh,Varanasi,Teacher,High,Advanced,Beginner,History,1,4.7,Live Class,Medium,118
+Lavanya Walia,12,Female,India,West Bengal,Durgapur,Businessperson,Low,Intermediate,Intermediate,Science,6,3.1,Online Quiz,Advanced,126
+Gokul Doctor,13,Female,India,Karnataka,Bangalore,Farmer,High,Beginner,Advanced,History,26,3.7,E-Book,Basic,129
+Saira Bhalla,16,Female,India,Karnataka,Hubli,Doctor,Low,Advanced,Advanced,Mathematics,82,1.1,Video Lesson,Basic,121
+Vedika Bahri,16,Male,India,Uttar Pradesh,Kanpur,Businessperson,High,Intermediate,Advanced,Mathematics,38,2.5,E-Book,Basic,100
+Umang Buch,6,Male,India,Karnataka,Bangalore,Teacher,High,Intermediate,Intermediate,Mathematics,19,2.4,E-Book,Medium,122
+Samarth Vig,8,Male,India,West Bengal,Siliguri,Engineer,High,Intermediate,Beginner,Mathematics,67,1.0,Video Lesson,Medium,101
+Gokul Saini,18,Female,India,West Bengal,Durgapur,Doctor,High,Beginner,Advanced,History,53,1.3,Video Lesson,Advanced,139
+Samiha Mandal,12,Male,India,Karnataka,Hubli,Businessperson,Low,Intermediate,Advanced,History,35,2.3,Textbook,Medium,113
+Kartik Kadakia,11,Female,India,Uttar Pradesh,Kanpur,Businessperson,Low,Intermediate,Advanced,Computer Science,78,1.2,E-Book,Medium,107
+Lavanya Bhagat,12,Male,India,Tamil Nadu,Chennai,Businessperson,Low,Intermediate,Advanced,Science,50,0.9,Video Lesson,Basic,96
+Vivaan Lala,11,Male,India,Karnataka,Hubli,Businessperson,Low,Beginner,Beginner,Computer Science,12,4.3,Online Quiz,Basic,102
+Aaina Vohra,18,Female,India,Tamil Nadu,Chennai,Farmer,Middle,Beginner,Intermediate,Computer Science,25,4.9,Online Quiz,Medium,85
+Pari Ravi,12,Female,India,Uttar Pradesh,Kanpur,Engineer,High,Beginner,Beginner,Physics,10,1.1,Live Class,Medium,101
+Shamik Raval,11,Male,India,West Bengal,Durgapur,Doctor,Middle,Beginner,Intermediate,Science,22,4.5,Textbook,Advanced,107
