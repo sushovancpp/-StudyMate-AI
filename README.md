@@ -36,14 +36,13 @@ cd AI-Powered Personalized Tutor System
 
 # 📂 Project Structure
 
-📁 AI-Tutor-System
-│-- app.py              # Main script for processing student data
-│-- student_dataset.csv # Dataset with student details
-│-- requirements.txt    # Required dependencies
+📁 -StudyMate-AI
+│-- app.py                  # Main script for processing student data
+│-- student_data.csv        # Dataset with student details
 │-- Final_predictions.xlsx  # Output file (Excel format)
 │-- Final_predictions.csv   # Output file (CSV format)
 │-- Final_predictions.json  # Output file (JSON format)
-│-- README.md           # Project documentation
+│-- README.md          
 
 # Future Enhancements
 Implement a web-based dashboard for real-time student analysis.
