@@ -27,10 +27,7 @@ The AI-Powered Personalized Tutor System is a machine-learning-based solution de
 
 1️⃣ Clone the Repository:
 git clone https://github.com/sushovancpp/-StudyMate-AI
-cd AI-Powered Personalized Tutor System
 2️⃣ Install Dependencies:
-        pip install -r requirements.txt
-
 3️⃣ Run the Project:
         python app.py
 
